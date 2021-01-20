@@ -4,5 +4,11 @@
     "symbol": "doki20",
     "logo": "https://lh3.googleusercontent.com/yGrLCoaytc-9-6mE_ydnQU4xy5EUC46ffIxFYnUkWu5pPZ82raJpInJ_J-Kow9wpHRW9tBnZChNch01DX3ENIhlKqSKxki_jFbXbgQ=s992",
     "uniswap": "https://info.uniswap.org/token/0x22c4ad011cce6a398b15503e0ab64286568933ed"
+  },
+  {
+    "name": "Node Runners",
+    "symbol": "ndr20",
+    "logo": "https://pbs.twimg.com/profile_images/1316686360124764162/X37JdHCx_400x400.jpg",
+    "uniswap": "https://info.uniswap.org/token/0x22c4ad011cce6a398b15503e0ab64286568933ed"
   }
-]
+  ]
