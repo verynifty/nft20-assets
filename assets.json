@@ -10,5 +10,11 @@
     "symbol": "NDR20",
     "logo": "https://pbs.twimg.com/profile_images/1316686360124764162/X37JdHCx_400x400.jpg",
     "uniswap": false
+  },
+    {
+    "name": "Chonker.Finance",
+    "symbol": "CHONK20",
+    "logo": "https://pbs.twimg.com/profile_images/1346254212951277568/4OmdBpR3_400x400.jpg",
+    "uniswap": false
   }
   ]
