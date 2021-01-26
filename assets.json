@@ -16,5 +16,15 @@
     "symbol": "CHONK20",
     "logo": "https://pbs.twimg.com/profile_images/1346254212951277568/4OmdBpR3_400x400.jpg",
     "uniswap": false
+  },
+  
+     {
+    "name": "MEME Factory",
+    "symbol": "MEME20",
+    "logo": "https://lh3.googleusercontent.com/AMedAinZH7eq97ooYJTNsixOTWgA6D61IvaCEjKgo234PuYAFORJdbxPg-fi--VgqFBGFuLI8-hpW152jCZsZBSteg=s60",
+    "uniswap": false
   }
+  
+  
+  
   ]
