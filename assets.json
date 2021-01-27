@@ -22,5 +22,13 @@
     "symbol": "MEMEF20",
     "logo": "https://memefactory.io/assets/icons/mememouth.png",
     "uniswap": false
+  },
+   {
+    "name": "Alpaca City",
+    "symbol": "ALPA20",
+    "logo": "https://alpaca.city/img/logo.30f7959e.svg",
+    "uniswap": false
   }
+  
+  
 ]
