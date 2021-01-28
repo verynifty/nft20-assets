@@ -15,7 +15,7 @@
     "name": "Chonker Finance",
     "symbol": "CHONK20",
     "logo": "https://pbs.twimg.com/profile_images/1346254212951277568/4OmdBpR3_400x400.jpg",
-    "uniswap": false
+    "uniswap": "https://info.uniswap.org/token/0xaDBEBbd65a041E3AEb474FE9fe6939577eB2544F"
   },
   {
     "name": "Meme Factory",
