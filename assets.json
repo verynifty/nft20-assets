@@ -33,7 +33,14 @@
     "symbol": "ALPA20",
     "logo": "https://alpaca.city/img/logo.30f7959e.svg",
     "uniswap": false
+  },
+     {
+    "name": "Block Artt",
+    "symbol": "EBA20",
+    "logo": "false",
+    "uniswap": false
   }
+  
   
   
 ]
