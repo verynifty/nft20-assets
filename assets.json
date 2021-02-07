@@ -8,7 +8,7 @@
     "factory_version": 1,
     "website": "https://degacha.com/",
     "description": "DeGacha - A Gamified Marketplace for NFTs & Digital Collectibles. Make collecting fun & inspire creations in the digital world.",
-    "tags": ["Gatchapon", "Japan", "Retro"],
+    "tags": ["Gatchapon", "Japan", "Retro"]
   },
   {
     "name": "Node Runners",
@@ -19,7 +19,7 @@
     "factory_version": 1,
     "website": "https://noderunners.io/",
     "description": "",
-    "tags": ["Staking", "Cyber Punk"],
+    "tags": ["Staking", "Cyber Punk"]
 
   },
     {
@@ -31,7 +31,7 @@
     "factory_version": 1,
     "website": "https://chonker.finance/",
     "description": "An experimental gamifying NFT protocol inspired by cats",
-    "tags": [],
+    "tags": []
 
   },
   {
@@ -59,7 +59,7 @@
        "lpToken": "0x0f3e73907d11fd528fd8bffd4ed6e7e84465b32a",
            "website": "https://ethblock.art/",
     "description": "Create your own deterministic art painting Ethereum blocks, mint NFTs.",
-    "tags": ["Art"],
+    "tags": ["Art"]
 
   }
   
