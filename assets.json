@@ -46,7 +46,8 @@
     "symbol": "EBA20",
     "logo": "https://pbs.twimg.com/profile_images/1346925896683429897/c7iEnhk0_400x400.jpg",
     "uniswap": "https://info.uniswap.org/pair/0x0f3e73907d11fd528fd8bffd4ed6e7e84465b32a",
-           "factory_version": 1
+           "factory_version": 1,
+       "lpToken": "0x0f3e73907d11fd528fd8bffd4ed6e7e84465b32a"
 
   }
   
