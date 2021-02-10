@@ -1,75 +1,67 @@
-[{
-		"name": "Doki",
-		"symbol": "doki20",
-		"logo": "https://lh3.googleusercontent.com/yGrLCoaytc-9-6mE_ydnQU4xy5EUC46ffIxFYnUkWu5pPZ82raJpInJ_J-Kow9wpHRW9tBnZChNch01DX3ENIhlKqSKxki_jFbXbgQ=s992",
-		"uniswap": "https://info.uniswap.org/token/0x22c4ad011cce6a398b15503e0ab64286568933ed",
-		"lpToken": "0x68b049c8bd1d8b20814b41c73a73ab126c19b42e",
-		"factory_version": 1,
-		"website": "https://degacha.com/",
-		"description": "DeGacha - A Gamified Marketplace for NFTs & Digital Collectibles. Make collecting fun & inspire creations in the digital world.",
-		"tags": ["Gatchapon", "Japan", "Retro"]
-	},
-	{
-		"name": "Node Runners",
-		"symbol": "NDR20",
-		"logo": "https://pbs.twimg.com/profile_images/1316686360124764162/X37JdHCx_400x400.jpg",
-		"uniswap": "https://info.uniswap.org/token/0x303Af77Cf2774AABff12462C110A0CCf971D7DbE",
-		"lpToken": "0x8d816f2c4132fbba4170adfaac772d3ae52fd1db",
-		"factory_version": 1,
-		"website": "https://noderunners.io/",
-		"description": "",
-		"tags": ["Staking", "Cyber Punk"]
-
-	},
-	{
-		"name": "Chonker Finance",
-		"symbol": "CHONK20",
-		"logo": "https://pbs.twimg.com/profile_images/1346254212951277568/4OmdBpR3_400x400.jpg",
-		"uniswap": "https://info.uniswap.org/token/0xaDBEBbd65a041E3AEb474FE9fe6939577eB2544F",
-		"lpToken": "0xe775bad5df325f53278288a41cbc8b32ab2217bc",
-		"factory_version": 1,
-		"website": "https://chonker.finance/",
-		"description": "An experimental gamifying NFT protocol inspired by cats",
-		"tags": []
-
-	},
-	{
-		"name": "Meme Factory",
-		"symbol": "MEMEF20",
-		"logo": "https://memefactory.io/assets/icons/mememouth.png",
-		"uniswap": false,
-		"factory_version": 1
-
-	},
-	{
-		"name": "Alpaca City",
-		"symbol": "ALPA20",
-		"logo": "https://alpaca.city/img/logo.30f7959e.svg",
-		"uniswap": false,
-		"factory_version": 2
-
-	},
-	{
-		"name": "Block Art",
-		"symbol": "EBA20",
-		"logo": "https://pbs.twimg.com/profile_images/1346925896683429897/c7iEnhk0_400x400.jpg",
-		"uniswap": "https://info.uniswap.org/pair/0x0f3e73907d11fd528fd8bffd4ed6e7e84465b32a",
-		"factory_version": 1,
-		"lpToken": "0x0f3e73907d11fd528fd8bffd4ed6e7e84465b32a",
-		"website": "https://ethblock.art/",
-		"description": "Create your own deterministic art painting Ethereum blocks, mint NFTs.",
-		"tags": ["Art"]
-
-	},
- {
-		"name": "Pepemon",
-		"symbol": "PEPEMON20",
-		"logo": "https://pbs.twimg.com/profile_images/1356608727307194369/cTIAeNhq_400x400.jpg",
-		"uniswap": false,
-		"factory_version": 2
-
-	},
-
-
-
+[
+  {
+    "name": "Doki",
+    "symbol": "doki20",
+    "logo": "https://lh3.googleusercontent.com/yGrLCoaytc-9-6mE_ydnQU4xy5EUC46ffIxFYnUkWu5pPZ82raJpInJ_J-Kow9wpHRW9tBnZChNch01DX3ENIhlKqSKxki_jFbXbgQ=s992",
+    "uniswap": "https://info.uniswap.org/token/0x22c4ad011cce6a398b15503e0ab64286568933ed",
+    "lpToken": "0x68b049c8bd1d8b20814b41c73a73ab126c19b42e",
+    "factory_version": 1,
+    "website": "https://degacha.com/",
+    "description": "DeGacha - A Gamified Marketplace for NFTs & Digital Collectibles. Make collecting fun & inspire creations in the digital world.",
+    "tags": ["Gatchapon", "Japan", "Retro"]
+  },
+  {
+    "name": "Node Runners",
+    "symbol": "NDR20",
+    "logo": "https://pbs.twimg.com/profile_images/1316686360124764162/X37JdHCx_400x400.jpg",
+    "uniswap": "https://info.uniswap.org/token/0x303Af77Cf2774AABff12462C110A0CCf971D7DbE",
+    "lpToken": "0x8d816f2c4132fbba4170adfaac772d3ae52fd1db",
+    "factory_version": 1,
+    "website": "https://noderunners.io/",
+    "description": "",
+    "tags": ["Staking", "Cyber Punk"]
+  },
+  {
+    "name": "Chonker Finance",
+    "symbol": "CHONK20",
+    "logo": "https://pbs.twimg.com/profile_images/1346254212951277568/4OmdBpR3_400x400.jpg",
+    "uniswap": "https://info.uniswap.org/token/0xaDBEBbd65a041E3AEb474FE9fe6939577eB2544F",
+    "lpToken": "0xe775bad5df325f53278288a41cbc8b32ab2217bc",
+    "factory_version": 1,
+    "website": "https://chonker.finance/",
+    "description": "An experimental gamifying NFT protocol inspired by cats",
+    "tags": []
+  },
+  {
+    "name": "Meme Factory",
+    "symbol": "MEMEF20",
+    "logo": "https://memefactory.io/assets/icons/mememouth.png",
+    "uniswap": false,
+    "factory_version": 1
+  },
+  {
+    "name": "Alpaca City",
+    "symbol": "ALPA20",
+    "logo": "https://alpaca.city/img/logo.30f7959e.svg",
+    "uniswap": false,
+    "factory_version": 2
+  },
+  {
+    "name": "Block Art",
+    "symbol": "EBA20",
+    "logo": "https://pbs.twimg.com/profile_images/1346925896683429897/c7iEnhk0_400x400.jpg",
+    "uniswap": "https://info.uniswap.org/pair/0x0f3e73907d11fd528fd8bffd4ed6e7e84465b32a",
+    "factory_version": 1,
+    "lpToken": "0x0f3e73907d11fd528fd8bffd4ed6e7e84465b32a",
+    "website": "https://ethblock.art/",
+    "description": "Create your own deterministic art painting Ethereum blocks, mint NFTs.",
+    "tags": ["Art"]
+  },
+  {
+    "name": "Pepemon",
+    "symbol": "PEPEMON20",
+    "logo": "https://pbs.twimg.com/profile_images/1356608727307194369/cTIAeNhq_400x400.jpg",
+    "uniswap": false,
+    "factory_version": 2
+  }
 ]
