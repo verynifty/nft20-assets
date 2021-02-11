@@ -63,5 +63,12 @@
     "logo": "https://pbs.twimg.com/profile_images/1356608727307194369/cTIAeNhq_400x400.jpg",
     "uniswap": false,
     "factory_version": 2
+  },
+   {
+    "name": "MEME LTD",
+    "symbol": "MEME20",
+    "logo": "https://pbs.twimg.com/profile_images/1346892692974755841/qlhy813N_400x400.png",
+    "uniswap": false,
+    "factory_version": 2
   }
 ]
