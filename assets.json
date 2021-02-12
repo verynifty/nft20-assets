@@ -84,5 +84,12 @@
     "logo": "https://pbs.twimg.com/profile_images/1330493190172905472/QYj65189_400x400.jpg",
     "uniswap": false,
     "factory_version": 2
+  },
+    {
+    "name": "Hashmasks",
+    "symbol": "MASK20",
+    "logo": "https://pbs.twimg.com/profile_images/1359146238264963072/O7AOMif__400x400.jpg",
+    "uniswap": false,
+    "factory_version": 2
   }
 ]
