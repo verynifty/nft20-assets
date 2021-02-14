@@ -114,8 +114,7 @@
     "symbol": "FUD20",
     "logo": "https://pbs.twimg.com/profile_images/1344419975268868097/j246C1eA_400x400.jpg",
     "uniswap": false,
-    "factory_version": 2,
-    "hide": true
+    "factory_version": 2
   },
      {
     "name": "Crypto Voxel Wearables",
@@ -125,15 +124,13 @@
     "factory_version": 2,
     "hide": true
   },
-     {
+  {
     "name": "CryptoTendies",
     "symbol": "TEND20",
     "logo": "https://lh3.googleusercontent.com/iEkrifpYy9Z4VBoY2C9ii7cfoMUsjrwjUmIoWtAdaVUGgymCI99gNCPdtMHncPqzfIaDEaYNAzN2wJbWPzac2FI=s100",
     "uniswap": false,
     "factory_version": 2,
-    "hide": true
+    "hide": false,
+    "factory_version": 2
   }
-  
-  
-  
 ]
