@@ -37,14 +37,16 @@
     "symbol": "MEMEF20",
     "logo": "https://memefactory.io/assets/icons/mememouth.png",
     "uniswap": false,
-    "factory_version": 1
+    "factory_version": 1,
+    "hide": true
   },
   {
     "name": "Alpaca City",
     "symbol": "ALPA20",
     "logo": "https://alpaca.city/img/logo.30f7959e.svg",
     "uniswap": false,
-    "factory_version": 2
+    "factory_version": 2,
+    "hide": true
   },
   {
     "name": "Block Art",
