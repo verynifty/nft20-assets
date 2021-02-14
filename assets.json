@@ -124,8 +124,13 @@
     "uniswap": false,
     "factory_version": 2,
     "hide": true
+  },
+     {
+    "name": "CryptoTendies",
+    "symbol": "TEND20",
+    "logo": "https://lh3.googleusercontent.com/iEkrifpYy9Z4VBoY2C9ii7cfoMUsjrwjUmIoWtAdaVUGgymCI99gNCPdtMHncPqzfIaDEaYNAzN2wJbWPzac2FI=s100",
+    "uniswap": false,
+    "factory_version": 2,
+    "hide": true
   }
-  
-  
-  
 ]
