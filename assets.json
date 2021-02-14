@@ -116,6 +116,16 @@
     "uniswap": false,
     "factory_version": 2,
     "hide": true
+  },
+     {
+    "name": "Crypto Vexels Wearables",
+    "symbol": "CVW20",
+    "logo": "https://pbs.twimg.com/profile_images/1027305171485786112/_To84gfT_400x400.jpg",
+    "uniswap": false,
+    "factory_version": 2,
+    "hide": true
   }
+  
+  
   
 ]
