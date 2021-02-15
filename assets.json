@@ -36,7 +36,7 @@
     "name": "Meme Factory",
     "symbol": "MEMEF20",
     "logo": "https://memefactory.io/assets/icons/mememouth.png",
-    "uniswap": false,
+    "uniswap": "https://info.uniswap.org/pair/0xE14f1283059afA8d3c9c52EFF76FE91854F5D1B3",
     "factory_version": 1,
     "hide": true
   },
