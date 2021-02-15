@@ -138,5 +138,14 @@
     "uniswap": false,
     "hide": false,
     "factory_version": 2
+  },
+  {
+    "name": "Twerky Pepe",
+    "symbol": "TWERK20",
+    "logo": "https://lh3.googleusercontent.com/jNIrANvFgDNJINQQ3Ld1rVYGaTjsJ-F9l3OzbrEbtYvpI7RJuYBak_l4Yum2EejOalUbaUh_c__u6l0cI2HVPoD5Q5mZWvl1IohUZrU=s100",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2
   }
+
 ]
