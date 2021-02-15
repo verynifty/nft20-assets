@@ -36,7 +36,7 @@
     "name": "Meme Factory",
     "symbol": "MEMEF20",
     "logo": "https://memefactory.io/assets/icons/mememouth.png",
-    "uniswap": "https://info.uniswap.org/pair/0xE14f1283059afA8d3c9c52EFF76FE91854F5D1B3",
+    "uniswap": false,
     "factory_version": 1,
     "hide": true
   },
@@ -69,7 +69,8 @@
     "name": "MEME LTD",
     "symbol": "MEME20",
     "logo": "https://pbs.twimg.com/profile_images/1346892692974755841/qlhy813N_400x400.png",
-    "uniswap": false,
+    "uniswap": "https://info.uniswap.org/pair/0xE14f1283059afA8d3c9c52EFF76FE91854F5D1B3",
+    "lpToken": "0xE14f1283059afA8d3c9c52EFF76FE91854F5D1B3",
     "factory_version": 2
   },
     {
