@@ -128,7 +128,14 @@
     "symbol": "TEND20",
     "logo": "https://lh3.googleusercontent.com/iEkrifpYy9Z4VBoY2C9ii7cfoMUsjrwjUmIoWtAdaVUGgymCI99gNCPdtMHncPqzfIaDEaYNAzN2wJbWPzac2FI=s100",
     "uniswap": false,
-    "factory_version": 2,
+    "hide": false,
+    "factory_version": 2
+  },
+  {
+    "name": "PolkaPets",
+    "symbol": "POLKA20",
+    "logo": "https://pbs.twimg.com/profile_images/1352278389781012482/X6eCAIdv_400x400.jpg",
+    "uniswap": false,
     "hide": false,
     "factory_version": 2
   }
