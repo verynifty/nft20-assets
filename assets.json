@@ -151,11 +151,26 @@
     {
     "name": "BFH Unit",
     "symbol": "BFH20",
-    "logo": "  https://pbs.twimg.com/profile_images/1200069399702409217/cwA0UgUS_400x400.png",
+    "logo": " https://pbs.twimg.com/profile_images/1200069399702409217/cwA0UgUS_400x400.png",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2
+  },
+  {
+      "name": "Rude Boy",
+    "symbol": "RUDE20",
+    "logo": " https://lh3.googleusercontent.com/c9MRoFsN_ZBM3vmQVdrqwRZS2vZo2vWSzInevMOm55eROvVfevEdWBsdkSP5xTDdpdpUzjrfnfqWUkwjSHI9EtG0eoEmm725Se23tA=s100",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2
+  },
+  {
+        "name": "DECENTRALAND",
+    "symbol": "LAND20",
+    "logo": " https://pbs.twimg.com/profile_images/1349073194074910720/89_fXbxN_400x400.png",
     "uniswap": false,
     "hide": false,
     "factory_version": 2
   }
-  
 
 ]
