@@ -188,5 +188,14 @@
     "uniswap": false,
     "hide": false,
     "factory_version": 2
+  },
+  {
+    "name": "Eth-Men Reloaded",
+    "symbol": "EM220",
+    "logo": "https://lh3.googleusercontent.com/Dpn9lAzzxFWENQiu12U4kq8tl-LR1ZX1EnePC8XV8EWGEdwN4eljiNCjRcjju6pOOjnXsg1wKJIdluoq9aAGSioKIWTz2NtkPt1axg=s100",
+    "website": "https://eth-men.com/",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2
   }
 ]
