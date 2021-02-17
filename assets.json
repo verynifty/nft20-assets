@@ -169,7 +169,7 @@
     "symbol": "LAND20",
     "logo": "https://pbs.twimg.com/profile_images/1349073194074910720/89_fXbxN_400x400.png",
     "uniswap": false,
-    "hide": false,
+    "hide": "https://info.uniswap.org/pair/0xb76df59f5ca77580266763eae2ff434cd21c21d6",
     "factory_version": 2
   },
     {
