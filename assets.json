@@ -180,6 +180,13 @@
     "uniswap": false,
     "hide": false,
     "factory_version": 2
+    },
+    {
+        "name": "MoonBase",
+    "symbol": "MOON20",
+    "logo": "https://lh3.googleusercontent.com/50K10VLJ8JfXi9ZBFnOm_BLucWKjW_XkPnyTLmnUUdZdh7dCfHsfNh1UancfTEeiRfOsDgbntzL_swapR_rTeynFsw=s992",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2
   }
-
 ]
