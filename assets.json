@@ -205,5 +205,13 @@
     "uniswap": false,
     "hide": false,
     "factory_version": 2
+  },
+   {
+        "name": "PUNK20",
+    "symbol": "PUNK20",
+    "logo": "https://lh3.googleusercontent.com/QB2kKuQEw04X02V9EoC2BNYZV652LYuewUv9ZdR7KJfI9Jocwmd28jIfsGg0umSCr2bOMV8O9UpLAkoaqfYwvwmC=s128",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2
   }
 ]
