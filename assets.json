@@ -197,5 +197,13 @@
     "uniswap": false,
     "hide": false,
     "factory_version": 2
+  },
+    {
+        "name": "Block Cities",
+    "symbol": "BCITIES20",
+    "logo": "https://pbs.twimg.com/profile_images/995431024757796864/qSyilNiZ_400x400.jpg",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2
   }
 ]
