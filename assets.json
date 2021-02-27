@@ -326,5 +326,14 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+   {
+    "name": "SQUIGGLY",
+    "symbol": "SGLY20",
+    "logo": "https://storage.opensea.io/files/631a0a5b1c840e61ebe4a8d76e125b16.svg",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
