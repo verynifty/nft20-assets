@@ -254,5 +254,14 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": true
+  },
+   {
+    "name": "zarniwoop",
+    "symbol": "zarniwoop",
+    "logo": false,
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
