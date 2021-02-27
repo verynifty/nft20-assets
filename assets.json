@@ -245,6 +245,14 @@
     "uniswap": false,
     "hide": false,
     "factory_version": 2
+  },
+  {
+    "name": "Euler Beats",
+    "symbol": "EB20",
+    "logo": "https://pbs.twimg.com/profile_images/1357452870858264581/QTsZ2fri_400x400.jpg",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": true
   }
-  
 ]
