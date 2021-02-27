@@ -263,5 +263,23 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+    {
+    "name": "BitPix",
+    "symbol": "BitPix",
+    "logo": false,
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  },
+   {
+    "name": "Zed Run",
+    "symbol": "ZR20",
+    "logo": false,
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
