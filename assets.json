@@ -281,5 +281,50 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+   {
+    "name": "AutoGlyphs",
+    "symbol": "GLYPH20",
+    "logo": "https://pbs.twimg.com/profile_images/1329824274618724355/EFkK8mz0_400x400.jpg",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  },
+   {
+    "name": "Art Blocks",
+    "symbol": "ARTB20",
+    "logo": "https://pbs.twimg.com/profile_images/1323483722453291009/0ykLxSdg_400x400.jpg",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  },
+   {
+    "name": "CryptoKitties",
+    "symbol": "CK20",
+    "logo": "https://pbs.twimg.com/profile_images/1195403391985319936/O-JoKUL4_400x400.jpg",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  },
+   {
+    "name": "Million Dollar Punk Draw",
+    "symbol": "MDPD20",
+    "logo": "https://lh3.googleusercontent.com/I2iQoqD-DbyZW6h9m9WscYTnEWhoYwvuOa5KaJTwlwS34h4rR-lBM63fPchpXsxTjw0oTgxvDPKpez6LJPFTGMVhAjI6wO_kICDc=s0",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  },
+   {
+    "name": "UniSocks",
+    "symbol": "SOCKS20",
+    "logo": "https://pbs.twimg.com/profile_images/1128848431517192204/KPyylsM9_400x400.png",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
