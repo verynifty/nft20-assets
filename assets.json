@@ -237,6 +237,14 @@
     "uniswap": false,
     "hide": false,
     "factory_version": 2
+  },
+    {
+    "name": "My Crypto Heroes Land",
+    "symbol": "MCHL20",
+    "logo": "https://pbs.twimg.com/profile_images/1074160618788147200/W-COgBLA_400x400.jpg",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2
   }
   
 ]
