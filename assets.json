@@ -229,6 +229,7 @@
     "uniswap": false,
     "hide": false,
     "factory_version": 2
+    "hide": true
   },
     {
     "name": "Very Nifty ",
@@ -237,5 +238,14 @@
     "uniswap": false,
     "hide": false,
     "factory_version": 2
+  },
+   {
+    "name": "AAH",
+    "symbol": "AAH",
+    "logo": "https://pbs.twimg.com/profile_images/1328850492315684864/QIasELQy_400x400.jpg",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2
+    "hide": false
   }
 ]
