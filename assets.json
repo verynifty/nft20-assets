@@ -3,6 +3,7 @@
     "name": "Doki",
     "symbol": "doki20",
     "logo": "https://lh3.googleusercontent.com/yGrLCoaytc-9-6mE_ydnQU4xy5EUC46ffIxFYnUkWu5pPZ82raJpInJ_J-Kow9wpHRW9tBnZChNch01DX3ENIhlKqSKxki_jFbXbgQ=s992",
+    "color": "#f7c5ec",
     "uniswap": "https://info.uniswap.org/token/0x22c4ad011cce6a398b15503e0ab64286568933ed",
     "lpToken": "0x68b049c8bd1d8b20814b41c73a73ab126c19b42e",
     "factory_version": 1,
@@ -14,6 +15,7 @@
     "name": "Node Runners",
     "symbol": "NDR20",
     "logo": "https://pbs.twimg.com/profile_images/1316686360124764162/X37JdHCx_400x400.jpg",
+    "color": "#de2dc7",
     "uniswap": "https://info.uniswap.org/token/0x303Af77Cf2774AABff12462C110A0CCf971D7DbE",
     "lpToken": "0x8d816f2c4132fbba4170adfaac772d3ae52fd1db",
     "factory_version": 1,
@@ -25,6 +27,7 @@
     "name": "Chonker Finance",
     "symbol": "CHONK20",
     "logo": "https://pbs.twimg.com/profile_images/1346254212951277568/4OmdBpR3_400x400.jpg",
+    "color": "#ee4710",
     "uniswap": "https://info.uniswap.org/token/0xaDBEBbd65a041E3AEb474FE9fe6939577eB2544F",
     "lpToken": "0xe775bad5df325f53278288a41cbc8b32ab2217bc",
     "factory_version": 1,
@@ -36,6 +39,7 @@
     "name": "Meme Factory",
     "symbol": "MEMEF20",
     "logo": "https://memefactory.io/assets/icons/mememouth.png",
+    "color": "#fbea07",
     "uniswap": false,
     "factory_version": 1,
     "hide": true
@@ -44,6 +48,7 @@
     "name": "Alpaca City",
     "symbol": "ALPA20",
     "logo": "https://alpaca.city/img/logo.30f7959e.svg",
+    "color": "#fc7c58",
     "uniswap": false,
     "factory_version": 2
   },
@@ -51,6 +56,7 @@
     "name": "Block Art",
     "symbol": "EBA20",
     "logo": "https://pbs.twimg.com/profile_images/1346925896683429897/c7iEnhk0_400x400.jpg",
+    "color": "#cfe1d5",
     "uniswap": "https://info.uniswap.org/pair/0x0f3e73907d11fd528fd8bffd4ed6e7e84465b32a",
     "factory_version": 1,
     "lpToken": "0x0f3e73907d11fd528fd8bffd4ed6e7e84465b32a",
@@ -62,21 +68,24 @@
     "name": "Pepemon",
     "symbol": "PEPEMON20",
     "logo": "https://pbs.twimg.com/profile_images/1356608727307194369/cTIAeNhq_400x400.jpg",
+    "color": "#83ad1d",
     "uniswap": false,
     "factory_version": 2
   },
-   {
+  {
     "name": "MEME LTD",
     "symbol": "MEME20",
     "logo": "https://pbs.twimg.com/profile_images/1346892692974755841/qlhy813N_400x400.png",
+    "color": "#df903e",
     "uniswap": "https://info.uniswap.org/pair/0xE14f1283059afA8d3c9c52EFF76FE91854F5D1B3",
     "lpToken": "0xE14f1283059afA8d3c9c52EFF76FE91854F5D1B3",
     "factory_version": 2
   },
-    {
+  {
     "name": "Golfer",
     "symbol": "GOLF20",
     "logo": "https://pbs.twimg.com/profile_images/1306215261792542724/0QILhxHj_400x400.jpg",
+    "color": "#3c348d",
     "uniswap": false,
     "factory_version": 2
   },
@@ -84,43 +93,49 @@
     "name": "Sergs",
     "symbol": "SERGS20",
     "logo": "https://pbs.twimg.com/profile_images/1330493190172905472/QYj65189_400x400.jpg",
+    "color": "#e5973a",
     "uniswap": false,
     "factory_version": 2
   },
-    {
+  {
     "name": "Hashmasks",
     "symbol": "MASK20",
     "logo": "https://pbs.twimg.com/profile_images/1359146238264963072/O7AOMif__400x400.jpg",
+    "color": "#f2c525",
     "uniswap": "https://info.uniswap.org/pair/0xaa617c8726adfde9e7b08746457e6b90ddb21480",
     "factory_version": 2,
-     "lpToken": "0xaa617c8726adfde9e7b08746457e6b90ddb21480"
+    "lpToken": "0xaa617c8726adfde9e7b08746457e6b90ddb21480"
   },
   {
     "name": "Sandbox's assets",
     "symbol": "ASSET20",
     "logo": "https://pbs.twimg.com/profile_images/1345248822361010176/Sen3q855_400x400.jpg",
+    "color": "#04acec",
     "uniswap": false,
     "factory_version": 2
   },
-    {
+  {
     "name": "AXIE",
     "symbol": "AXIE20",
     "logo": "https://pbs.twimg.com/profile_images/1207674606259187715/60siPMQn_400x400.jpg",
+    "color": "#c78cad",
     "uniswap": false,
     "factory_version": 2,
     "hide": true
   },
-     {
+  {
     "name": "Don't Rug Me",
     "symbol": "FUD20",
     "logo": "https://pbs.twimg.com/profile_images/1344419975268868097/j246C1eA_400x400.jpg",
+    "color": "#83db4e",
     "uniswap": false,
     "factory_version": 2
   },
-     {
+  {
     "name": "Crypto Voxel Wearables",
     "symbol": "CVW20",
     "logo": "https://pbs.twimg.com/profile_images/1027305171485786112/_To84gfT_400x400.jpg",
+    "color": "#939393",
     "uniswap": false,
     "factory_version": 2
   },
@@ -128,6 +143,7 @@
     "name": "CryptoTendies",
     "symbol": "TEND20",
     "logo": "https://lh3.googleusercontent.com/iEkrifpYy9Z4VBoY2C9ii7cfoMUsjrwjUmIoWtAdaVUGgymCI99gNCPdtMHncPqzfIaDEaYNAzN2wJbWPzac2FI=s100",
+    "color": "#ffffff",
     "uniswap": false,
     "hide": false,
     "factory_version": 2
@@ -136,6 +152,7 @@
     "name": "PolkaPets",
     "symbol": "POLKA20",
     "logo": "https://pbs.twimg.com/profile_images/1352278389781012482/X6eCAIdv_400x400.jpg",
+    "color": "#f484bf",
     "uniswap": false,
     "hide": false,
     "factory_version": 2
@@ -144,72 +161,81 @@
     "name": "Twerky Pepe",
     "symbol": "TWERK20",
     "logo": "https://lh3.googleusercontent.com/jNIrANvFgDNJINQQ3Ld1rVYGaTjsJ-F9l3OzbrEbtYvpI7RJuYBak_l4Yum2EejOalUbaUh_c__u6l0cI2HVPoD5Q5mZWvl1IohUZrU=s100",
+    "color": "#0c6c29",
     "uniswap": false,
     "hide": false,
     "factory_version": 2
   },
-    {
+  {
     "name": "BFH Unit",
     "symbol": "BFH20",
-    "logo": " https://pbs.twimg.com/profile_images/1200069399702409217/cwA0UgUS_400x400.png",
+    "logo": "https://pbs.twimg.com/profile_images/1200069399702409217/cwA0UgUS_400x400.png",
+    "color": "#d52a07",
     "uniswap": false,
     "hide": false,
     "factory_version": 2
   },
   {
-      "name": "Rude Boy",
+    "name": "Rude Boy",
     "symbol": "RUDE20",
-    "logo": " https://lh3.googleusercontent.com/c9MRoFsN_ZBM3vmQVdrqwRZS2vZo2vWSzInevMOm55eROvVfevEdWBsdkSP5xTDdpdpUzjrfnfqWUkwjSHI9EtG0eoEmm725Se23tA=s100",
+    "logo": "https://lh3.googleusercontent.com/c9MRoFsN_ZBM3vmQVdrqwRZS2vZo2vWSzInevMOm55eROvVfevEdWBsdkSP5xTDdpdpUzjrfnfqWUkwjSHI9EtG0eoEmm725Se23tA=s100",
+    "color": "#2f9f5d",
     "uniswap": false,
     "hide": false,
     "factory_version": 2
   },
   {
-        "name": "DECENTRALAND",
+    "name": "DECENTRALAND",
     "symbol": "LAND20",
     "logo": "https://pbs.twimg.com/profile_images/1349073194074910720/89_fXbxN_400x400.png",
+    "color": "#fb9b62",
     "uniswap": "https://info.uniswap.org/pair/0xb76df59f5ca77580266763eae2ff434cd21c21d6",
     "lpToken": "0xb76df59f5ca77580266763eae2ff434cd21c21d6",
     "hide": false,
     "factory_version": 2
   },
-    {
-        "name": "ROPE",
+  {
+    "name": "ROPE",
     "symbol": "ROPE20",
     "logo": "https://pbs.twimg.com/profile_images/1326035346824564737/jFldxDFp_400x400.jpg",
+    "color": "#0464d2",
     "uniswap": "https://info.uniswap.org/pair/0x95acf4ba2c53e31db1459172332d52baac433bb3",
     "lpToken": "0x95acf4ba2c53e31db1459172332d52baac433bb3",
     "hide": false,
     "factory_version": 2
-    },
-    {
-        "name": "MoonBase",
+  },
+  {
+    "name": "MoonBase",
     "symbol": "MOON20",
     "logo": "https://lh3.googleusercontent.com/50K10VLJ8JfXi9ZBFnOm_BLucWKjW_XkPnyTLmnUUdZdh7dCfHsfNh1UancfTEeiRfOsDgbntzL_swapR_rTeynFsw=s992",
+    "color": "#122081",
     "uniswap": false,
     "hide": false,
     "factory_version": 2
   },
-    {
-        "name": "ETH-MEN",
+  {
+    "name": "ETH-MEN",
     "symbol": "MEN20",
     "logo": "https://pbs.twimg.com/profile_images/1359980196494004227/7qxPtc21_400x400.jpg",
+    "color": "#a61775",
     "uniswap": false,
     "hide": false,
     "factory_version": 2
   },
-    {
-        "name": "Block Cities",
+  {
+    "name": "Block Cities",
     "symbol": "BCITIES20",
     "logo": "https://pbs.twimg.com/profile_images/995431024757796864/qSyilNiZ_400x400.jpg",
+    "color": "#76cbfa",
     "uniswap": false,
     "hide": false,
     "factory_version": 2
   },
-   {
+  {
     "name": "PUNK20",
     "symbol": "PUNK20",
     "logo": "https://lh3.googleusercontent.com/QB2kKuQEw04X02V9EoC2BNYZV652LYuewUv9ZdR7KJfI9Jocwmd28jIfsGg0umSCr2bOMV8O9UpLAkoaqfYwvwmC=s128",
+    "color": "#638394",
     "uniswap": false,
     "hide": false,
     "factory_version": 2
@@ -218,6 +244,7 @@
     "name": "SORARE",
     "symbol": "SOR20",
     "logo": "https://lh3.googleusercontent.com/gj47nmAR3valkmpVbwamiuTJfWEWSCyVeORdjM6DRWrZ1o8WaqBxFXmpBrzZnGoWaPwq1Y0jiXRrBLbnLcawAp92=s100",
+    "color": "#2b3483",
     "uniswap": false,
     "hide": false,
     "factory_version": 2
@@ -226,22 +253,25 @@
     "name": "AAH",
     "symbol": "AAH",
     "logo": "https://pbs.twimg.com/profile_images/1328850492315684864/QIasELQy_400x400.jpg",
-    "uniswap": false,
-    "hide": false,
-    "factory_version": 2  
-  },
-    {
-    "name": "Very Nifty ",
-    "symbol": "vNFT20",
-    "logo": "https://pbs.twimg.com/profile_images/1360017205686136833/zdJYITbz_400x400.png",
+    "color": "#a24239",
     "uniswap": false,
     "hide": false,
     "factory_version": 2
   },
-    {
+  {
+    "name": "Very Nifty ",
+    "symbol": "vNFT20",
+    "logo": "https://pbs.twimg.com/profile_images/1360017205686136833/zdJYITbz_400x400.png",
+    "color": "#040404",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2
+  },
+  {
     "name": "My Crypto Heroes Land",
     "symbol": "MCHL20",
     "logo": "https://pbs.twimg.com/profile_images/1074160618788147200/W-COgBLA_400x400.jpg",
+    "color": "#040404",
     "uniswap": false,
     "hide": false,
     "factory_version": 2
@@ -250,133 +280,147 @@
     "name": "Euler Beats",
     "symbol": "EB20",
     "logo": "https://pbs.twimg.com/profile_images/1357452870858264581/QTsZ2fri_400x400.jpg",
+    "color": "#e6e1d7",
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
     "removedFees": true
   },
-   {
+  {
     "name": "zarniwoop",
     "symbol": "zarniwoop",
     "logo": "https://lh3.googleusercontent.com/95A2igIBz5xJ2KddZNNFvwsi6g2x3jeC77UypV7V4l-x0q_2xGZ0Q3fTwSIi7uNehHlcf7v8N5Js6fpF2e75QoI-=s128",
+    "color": "#8f796a",
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
     "removedFees": false
   },
-    {
+  {
     "name": "BitPix",
     "symbol": "BitPix",
     "logo": false,
+    "color": "#ffffff",
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
     "removedFees": false
   },
-   {
+  {
     "name": "Zed Run",
     "symbol": "ZR20",
     "logo": "https://lh3.googleusercontent.com/tgpgbT3OwxX4REASLdyafzCWQ5EhOtgSiIlhI3am3aZ_mYPS0WbM9Z4F6hOhb0D-AKqhHlFg6BNBquchQy-_bwY=s128",
+    "color": "#1e2529",
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
     "removedFees": false
   },
-   {
+  {
     "name": "AutoGlyphs",
     "symbol": "GLYPH20",
     "logo": "https://pbs.twimg.com/profile_images/1329824274618724355/EFkK8mz0_400x400.jpg",
+    "color": "#ffffff",
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
     "removedFees": false
   },
-   {
+  {
     "name": "Art Blocks",
     "symbol": "ARTB20",
     "logo": "https://pbs.twimg.com/profile_images/1323483722453291009/0ykLxSdg_400x400.jpg",
+    "color": "#dc07e8",
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
     "removedFees": false
   },
-   {
+  {
     "name": "CryptoKitties",
     "symbol": "CK20",
     "logo": "https://pbs.twimg.com/profile_images/1195403391985319936/O-JoKUL4_400x400.jpg",
+    "color": "#faeb8f",
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
     "removedFees": false
   },
-   {
+  {
     "name": "Million Dollar Punk Draw",
     "symbol": "MDPD20",
     "logo": "https://lh3.googleusercontent.com/I2iQoqD-DbyZW6h9m9WscYTnEWhoYwvuOa5KaJTwlwS34h4rR-lBM63fPchpXsxTjw0oTgxvDPKpez6LJPFTGMVhAjI6wO_kICDc=s0",
+    "color": "#7d1410",
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
     "removedFees": false
   },
-   {
+  {
     "name": "UniSocks",
     "symbol": "SOCKS20",
     "logo": "https://pbs.twimg.com/profile_images/1128848431517192204/KPyylsM9_400x400.png",
+    "color": "#db77e2",
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
     "removedFees": false
   },
-   {
+  {
     "name": "SQUIGGLY",
     "symbol": "SGLY20",
     "logo": "https://storage.opensea.io/files/631a0a5b1c840e61ebe4a8d76e125b16.svg",
+    "color": "#234247",
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
     "removedFees": false
   },
-   {
+  {
     "name": "Unstoppable Domains",
     "symbol": "UD20",
     "logo": "https://pbs.twimg.com/profile_images/1104003821448192001/-dQPJ7tM_400x400.png",
+    "color": "#4c44f4",
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
     "removedFees": false
   },
-   {
+  {
     "name": "Beeple Round 2",
     "symbol": "BEEPLE220",
     "logo": "https://pbs.twimg.com/profile_images/264316321/beeple_headshot_beat_up_400x400.jpg",
+    "color": "#e09a52",
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
     "removedFees": false
   },
-   {
+  {
     "name": "Beeple Special Edition",
     "symbol": "BEEPLESE20",
     "logo": "https://pbs.twimg.com/profile_images/264316321/beeple_headshot_beat_up_400x400.jpg",
+    "color": "#e09a52",
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
     "removedFees": false
   },
-   {
+  {
     "name": "Makersplace Beeple",
     "symbol": "MBEEPLE20",
     "logo": "https://pbs.twimg.com/profile_images/264316321/beeple_headshot_beat_up_400x400.jpg",
+    "color": "#e09a52",
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
     "removedFees": false
-  }
-  ,
-   {
+  },
+  {
     "name": "Proof Of Beauty",
     "symbol": "POB20",
     "logo": "https://pbs.twimg.com/profile_images/1348851472000233472/egXENiN1_400x400.jpg",
+    "color": "#ffffff",
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
