@@ -353,5 +353,23 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+   {
+    "name": "Beeple Special Edition",
+    "symbol": "BEEPLESE20",
+    "logo": "https://pbs.twimg.com/profile_images/264316321/beeple_headshot_beat_up_400x400.jpg",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  },
+   {
+    "name": "Makersplace Beeple",
+    "symbol": "MBEEPLE20",
+    "logo": "https://pbs.twimg.com/profile_images/264316321/beeple_headshot_beat_up_400x400.jpg",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
