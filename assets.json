@@ -372,4 +372,14 @@
     "factory_version": 2,
     "removedFees": false
   }
+  ,
+   {
+    "name": "Proof Of Beauty",
+    "symbol": "POB20",
+    "logo": "https://pbs.twimg.com/profile_images/1348851472000233472/egXENiN1_400x400.jpg",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  }
 ]
