@@ -344,5 +344,14 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+   {
+    "name": "Beeple Round 2",
+    "symbol": "BEEPLE220",
+    "logo": "https://pbs.twimg.com/profile_images/264316321/beeple_headshot_beat_up_400x400.jpg",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
