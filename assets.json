@@ -335,5 +335,14 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+   {
+    "name": "Unstoppable Domains",
+    "symbol": "UD20",
+    "logo": "https://pbs.twimg.com/profile_images/1104003821448192001/-dQPJ7tM_400x400.png",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
