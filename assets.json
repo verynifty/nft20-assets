@@ -425,5 +425,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "Gala Games Cranebot",
+    "symbol": "GGC20",
+    "logo": "https://pbs.twimg.com/profile_images/1304321907798323200/g75pmWav_400x400.jpg",
+    "color": "#fffffs",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
