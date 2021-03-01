@@ -436,6 +436,7 @@
     "color": "#fffffs",
     "uniswap": "https://info.uniswap.org/pair/0xdf8e81873234313ed2064506d6d54a3434befb59",
     "hide": false,
+    "lpToken": "0xdf8e81873234313ed2064506d6d54a3434befb59",
     "factory_version": 2,
     "removedFees": false
   },
