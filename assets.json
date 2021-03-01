@@ -67,9 +67,12 @@
   {
     "name": "Pepemon",
     "symbol": "PEPEMON20",
-    "logo": "https://pbs.twimg.com/profile_images/1356608727307194369/cTIAeNhq_400x400.jpg",
+    "logo": "https://i.imgur.com/wUnW6LU.png",
     "color": "#83ad1d",
-    "uniswap": false,
+    "uniswap": "https://info.uniswap.org/pair/0x9479b62fd1cb36f8fed1eebb1bb373d238d08216",
+    "website": "https://pepemon.world",
+    "description": "Digital collectible card game on Blockchain. Powered by DeFi and using NFTs as in-game assets.",
+    "tags": ["Gaming", "Staking", "Pokemon", "Pixel", "8bit"]
     "factory_version": 2
   },
   {
