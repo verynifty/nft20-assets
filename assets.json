@@ -448,5 +448,35 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+   {
+    "name": "ENS",
+    "symbol": "ENS20",
+    "logo": "https://pbs.twimg.com/profile_images/1011937615619215360/r64kbrPi_400x400.jpg",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  },
+   {
+    "name": "Polyent Queen",
+    "symbol": "PQUEEN20",
+    "logo": "https://lh3.googleusercontent.com/CB6brq1zVWilGwVmUgc5Lc5dCQIgwaJcZUOvh53H_rWp9RXh_l3PVKYsgzekiRDpuGh6RrX7LHJ6L2R9g1GLS20a=s260",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  },
+   {
+    "name": "Polyent WenDex",
+    "symbol": "PWENDEX20",
+    "logo": "https://cdn.dribbble.com/users/720707/screenshots/14513812/media/c7ab10e8d732e332f69043d15fe92059.jpg?compress=1&resize=400x300",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
