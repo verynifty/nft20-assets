@@ -74,7 +74,7 @@
     "description": "Digital collectible card game on Blockchain. Powered by DeFi and using NFTs as in-game assets.",
     "tags": ["Gaming", "Staking", "Pokemon", "Pixel", "8bit"]
     "factory_version": 2
-  },
+  }, 
   {
     "name": "MEME LTD",
     "symbol": "MEME20",
