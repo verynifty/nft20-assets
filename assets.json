@@ -519,5 +519,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "Enjin",
+    "symbol": "ENJ20",
+    "logo": "https://pbs.twimg.com/profile_images/1153929975092961280/rUSbPgRj_400x400.png",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
