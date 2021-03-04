@@ -498,6 +498,16 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "Waifusion",
+    "symbol": "WAIFU20",
+    "logo": "https://pbs.twimg.com/profile_images/1362282696689344515/9JOrtZ3a_400x400.jpg",
+    "color": "#ffffff",
+    "uniswap": "https://info.uniswap.org/pair/0xdbcd07efd4f8c54023d438fb8a34f5ddadc067c8",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
   
 ]
