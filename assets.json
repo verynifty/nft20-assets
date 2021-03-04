@@ -507,7 +507,8 @@
     "uniswap": "https://info.uniswap.org/pair/0xdbcd07efd4f8c54023d438fb8a34f5ddadc067c8",
     "hide": false,
     "factory_version": 2,
-    "removedFees": false
+    "removedFees": false,
+    "lpToken": "0xdbcd07efd4f8c54023d438fb8a34f5ddadc067c8"
   }
   
 ]
