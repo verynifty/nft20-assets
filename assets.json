@@ -518,6 +518,6 @@
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
-    "removedFees": false,
+    "removedFees": false
   }
 ]
