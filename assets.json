@@ -452,7 +452,7 @@
   },
    {
     "name": "ChainFaces",
-    "symbol": "FACE20",
+    "symbol": "CHAINFACES20",
     "logo": "https://lh3.googleusercontent.com/oFurivnuicpRaNnh2rn5gjNsDEAflQ2UPuXcrHmGK9_D2g-5NdXEqM8R1pJgbSnANy2zMQnI4C5WfMney1CXW9hJ=s128",
     "color": "#ffffff",
     "uniswap": false,
@@ -525,6 +525,16 @@
     "name": "Enjin",
     "symbol": "ENJ20",
     "logo": "https://pbs.twimg.com/profile_images/1153929975092961280/rUSbPgRj_400x400.png",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  },
+  {
+    "name": "Rarebit Bunnies",
+    "symbol": "RAREBIT BUNNIES20",
+    "logo": "https://lh3.googleusercontent.com/8BdNHSvaDoNCdHjXOoXwGOvGrGdzKqAdv0Wwq1YBmox1CQg7XR-q1BTsojh0qIZ98Yrgemh61KWp7zaGqUf-Sh3Lt8CL4cIYDbaWOA=s100",
     "color": "#ffffff",
     "uniswap": false,
     "hide": false,
