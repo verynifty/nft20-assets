@@ -546,7 +546,8 @@
     "symbol": "TRISM20",
     "logo": "https://trism.io/wp-content/uploads/2021/03/trism_originals_300.png",
     "color": "#ffffff",
-    "uniswap": false,
+    "uniswap": "https://info.uniswap.org/pair/0x7bc32d054a9d2d15719211a1794d1a5c860f3bc3",
+    "lpToken": "0x7bc32d054a9d2d15719211a1794d1a5c860f3bc3",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
