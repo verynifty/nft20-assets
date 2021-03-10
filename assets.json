@@ -551,5 +551,17 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+   {
+    "name": "Nifty Nudes",
+    "symbol": "NUDES20",
+    "logo": "https://pbs.twimg.com/profile_images/1369270873711075331/s7BoHmTC_400x400.jpg",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
+  
+  
 ]
