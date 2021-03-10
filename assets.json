@@ -561,7 +561,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+   {
+    "name": "Gan Punks",
+    "symbol": "GPUNKS20",
+    "logo": "https://lh3.googleusercontent.com/7Ssuvp6Bks3nzHbfrFAbUSD2LuQyJFVIxs_ZiPuJkSucmxbOHVkUq1phXxNTml6cWH43W5s-n5FgxtnJooa_Ff0ruEWA-C6Nz6xleVY=s128",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
-  
-  
 ]
