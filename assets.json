@@ -557,8 +557,9 @@
     "symbol": "DUDES20",
     "logo": "https://pbs.twimg.com/profile_images/1369270873711075331/s7BoHmTC_400x400.jpg",
     "color": "#ffffff",
-    "uniswap": false,
-    "hide": false,
+    "uniswap": "https://info.uniswap.org/pair/0x04914cb01eec94e320e3a88b3c7a7e9b1609d13c",
+    "lpToken": "0x04914cb01eec94e320e3a88b3c7a7e9b1609d13c",
+     "hide": false,
     "factory_version": 2,
     "removedFees": false
   },
@@ -567,8 +568,7 @@
     "symbol": "GPUNKS20",
     "logo": "https://pbs.twimg.com/profile_images/1369326269859520515/O1cy0kN2_400x400.jpg",
     "color": "#ffffff",
-    "uniswap": "https://info.uniswap.org/pair/0x04914cb01eec94e320e3a88b3c7a7e9b1609d13c",
-    "lpToken": "0x04914cb01eec94e320e3a88b3c7a7e9b1609d13c"
+    "uniswap": false,
     "hide": false,
     "factory_version": 2,
     "removedFees": false
