@@ -583,5 +583,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+    {
+    "name": "Wrapped Moon Cats",
+    "symbol": "MCAT20",
+    "logo": "https://pbs.twimg.com/media/EwTH-90XIAAClxZ?format=png&name=900x900",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
