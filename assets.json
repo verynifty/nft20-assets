@@ -589,7 +589,8 @@
     "symbol": "MCAT20",
     "logo": "https://pbs.twimg.com/media/EwTH-90XIAAClxZ?format=png&name=900x900",
     "color": "#ffffff",
-    "uniswap": false,
+    "uniswap": "https://info.uniswap.org/pair/0x31c507636a4cab752a8a069b865099924bd5f1a9",
+    "lpToken": "0x31c507636a4cab752a8a069b865099924bd5f1a9",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
