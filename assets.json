@@ -594,5 +594,16 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "RARE PIZZA BOX",
+    "symbol": "PIZZA20",
+    "logo": "https://lh3.googleusercontent.com/mj0hMu9yrIjlx5KiHZb4w2bQ4F9T_H1McSoGmBN7PuzuAiRddZwwUdf3R9Ig21Jo-NpwJTsY3P5PK6CdjKU742MCV1xPkFeixe4J0lQ=s100",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
+
 ]
