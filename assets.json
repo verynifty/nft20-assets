@@ -266,7 +266,8 @@
     "symbol": "AAH_old",
     "logo": "https://pbs.twimg.com/profile_images/1328850492315684864/QIasELQy_400x400.jpg",
     "color": "#a24239",
-    "uniswap": false,
+    "uniswap": "https://info.uniswap.org/pair/0x8afda1b3234d4cf15010b2f528e6034dc4526455",
+    "lpToken": "0x8afda1b3234d4cf15010b2f528e6034dc4526455",
     "hide": true,
     "factory_version": 2
   },
