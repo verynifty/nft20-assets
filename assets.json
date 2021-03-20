@@ -257,7 +257,8 @@
     "symbol": "AAH",
     "logo": "https://i0.wp.com/ahegaodao.org/wp-content/uploads/2021/02/image01.png?fit=2048%2C2048",
     "color": "#a24239",
-    "uniswap": false,
+    "uniswap": "https://info.uniswap.org/pair/0x8afda1b3234d4cf15010b2f528e6034dc4526455",
+    "lpToken": "0x8afda1b3234d4cf15010b2f528e6034dc4526455",
     "hide": false,
     "factory_version": 2
   },
