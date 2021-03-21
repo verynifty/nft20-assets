@@ -614,6 +614,16 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "Chubbies",
+    "symbol": "CUBBIES20",
+    "logo": "https://chubbies.io/static/391175d91bcc890cf37e48098d54dbba/4531c/favicon.png",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 
   
