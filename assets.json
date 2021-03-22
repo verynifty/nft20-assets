@@ -620,7 +620,8 @@
     "symbol": "CHUBBIES20",
     "logo": "https://chubbies.io/static/391175d91bcc890cf37e48098d54dbba/4531c/favicon.png",
     "color": "#ffffff",
-    "uniswap": false,
+    "uniswap": "https://info.uniswap.org/pair/0x75eFD92Ff443c3D3342eaA64Dd32Be387F5ef328",
+    "lpToken": "0x75eFD92Ff443c3D3342eaA64Dd32Be387F5ef328",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
