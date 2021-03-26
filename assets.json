@@ -678,5 +678,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "CryptoCrystal",
+    "symbol": "CryptoCrystals20",
+    "logo": "https://lh3.googleusercontent.com/bmOfasRPirTPJdRzn8eeJ7NBEuv4PMU8Sfg21OJqO-iMn2JfKvs_yXjOfJIH_8TQRXzOS0F_53nUCxWQiYFUYvZw=s100",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
