@@ -673,7 +673,8 @@
     "symbol": "SQUAD20",
     "logo": "https://lh3.googleusercontent.com/LqAzBhkWob1IQrODvz4QsFko4bfBGOezuQ2m_FLH-Ysyht0tfQoR2FnAVkgmseDOXY7l00gLQhO_HsoijzlZXTr5QkCzHvCVnz3jlp0=s100",
     "color": "#ffffff",
-    "uniswap": false,
+    "lpToken": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "uniswap": "https://info.uniswap.org/pair/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
