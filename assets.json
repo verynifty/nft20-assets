@@ -666,5 +666,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+    {
+    "name": "TRADE SQUAD",
+    "symbol": "SQUAD20",
+    "logo": "https://lh3.googleusercontent.com/LqAzBhkWob1IQrODvz4QsFko4bfBGOezuQ2m_FLH-Ysyht0tfQoR2FnAVkgmseDOXY7l00gLQhO_HsoijzlZXTr5QkCzHvCVnz3jlp0=s100",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
