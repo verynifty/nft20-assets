@@ -652,7 +652,8 @@
     "symbol": "ECAT20",
     "logo": "https://pbs.twimg.com/profile_images/1350802120186986498/H09e3uCa_400x400.png",
     "color": "#ffffff",
-    "uniswap": false,
+    "uniswap": "https://info.uniswap.org/pair/0x6bf9ef9f8602c135140cfe298de7e8c59100c626",
+    "lpToken": "0x6bf9ef9f8602c135140cfe298de7e8c59100c626"
     "hide": false,
     "factory_version": 2,
     "removedFees": false
