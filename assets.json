@@ -650,7 +650,7 @@
   {
     "name": "Ether Cats",
     "symbol": "ECAT20",
-    "logo": "https://cdn.discordapp.com/attachments/775438447123890196/824885556411367424/EtherCats-logo-400x400.png",
+    "logo": "https://pbs.twimg.com/profile_images/1350802120186986498/H09e3uCa_400x400.png",
     "color": "#ffffff",
     "uniswap": "https://info.uniswap.org/pair/0x6bf9ef9f8602c135140cfe298de7e8c59100c626",
     "lpToken": "0x6bf9ef9f8602c135140cfe298de7e8c59100c626",
@@ -675,6 +675,17 @@
     "color": "#ffffff",
     "lpToken": "0x9814f819de0127d7458c7e4c2638b72ccc4bb727",
     "uniswap": "https://info.uniswap.org/pair/0x9814f819de0127d7458c7e4c2638b72ccc4bb727",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  },
+  {
+    "name": "CryptoCrystal",
+    "symbol": "CryptoCrystal20",
+    "logo": "https://lh3.googleusercontent.com/bmOfasRPirTPJdRzn8eeJ7NBEuv4PMU8Sfg21OJqO-iMn2JfKvs_yXjOfJIH_8TQRXzOS0F_53nUCxWQiYFUYvZw=s100",
+    "color": "#ffffff",
+    "lpToken": "0x06f86fe02998c4c2ebc555765b0b3fdc8dec8430",
+    "uniswap": https://info.uniswap.org/pair/0x06f86fe02998c4c2ebc555765b0b3fdc8dec8430,
     "hide": false,
     "factory_version": 2,
     "removedFees": false
