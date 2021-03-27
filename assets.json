@@ -689,5 +689,27 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
-  }
+  },
+  {
+    "name": "NFY",
+    "symbol": "NFY20",
+    "logo": "https://nfy.finance/images/logo.svg",
+    "color": "#ffffff",
+    "lpToken": "0xae3d5be874e976748a13d08dc53f42a40f8905cb",
+    "uniswap": "https://info.uniswap.org/pair/0xae3d5be874e976748a13d08dc53f42a40f8905cb",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  },
+  {
+    "name": "Alchemist Crucible",
+    "symbol": "ALCH20",
+    "logo": "https://pbs.twimg.com/profile_images/1369998798726959108/sxQjkXg4_400x400.jpg",
+    "color": "#ffffff",
+    "lpToken": "0xe170bcdd22efebe3535edddb08fe40ebbebeec3f",
+    "uniswap": "https://info.uniswap.org/pair/0xe170bcdd22efebe3535edddb08fe40ebbebeec3f",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  },
 ]
