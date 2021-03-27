@@ -711,5 +711,16 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "EDITIONAL",
+    "symbol": "EDIT",
+    "logo": "https://pbs.twimg.com/profile_images/1136351784761417728/dFKqntpF_400x400.png",
+    "color": "#ffffff",
+    "lpToken": "0x6b76a847e468b0be02f91cfc8a01f0644c8cc3f1",
+    "uniswap": "https://info.uniswap.org/pair/0x6b76a847e468b0be02f91cfc8a01f0644c8cc3f1",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
