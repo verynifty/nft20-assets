@@ -722,5 +722,16 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+    {
+    "name": "DegenArts",
+    "symbol": "DGA20",
+    "logo": "https://pbs.twimg.com/profile_images/1376003544189386754/HuN5tmdA_400x400.jpg",
+    "color": "#ffffff",
+    "lpToken": "0xb710d14a2be4768349a50e2dccfb68bdd3461936",
+    "uniswap": "https://info.uniswap.org/pair/0xb710d14a2be4768349a50e2dccfb68bdd3461936",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
