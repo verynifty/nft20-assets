@@ -743,5 +743,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+ },
+  {
+    "name": "	Excess Bits",
+    "symbol": "XSBITS20",
+    "logo": "https://lh3.googleusercontent.com/T0ZVFAFrxZWJGbBJ8o2qnuSOs9qq2sJWCGumEpFUvXg5ExQaoiVZQKEcBNZnl7kAhOAbFHNQo9IOHI7cUVNSIIB6hkcjS58IOY_l=s100",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
