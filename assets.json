@@ -753,5 +753,16 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "Framergence",
+    "symbol": "FRAM20",
+    "logo": "https://pbs.twimg.com/profile_images/1376233786829123590/zXFF8nmm_400x400.jpg",
+    "color": "#ffffff",
+    "lpToken": "0x85c76f758db7005a350e3c99a68e721304169de8",
+    "uniswap": "https://info.uniswap.org/pair/0x85c76f758db7005a350e3c99a68e721304169de8",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
