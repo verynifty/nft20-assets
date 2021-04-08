@@ -764,5 +764,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "FoxPunkJrs",
+    "symbol": "FoxPunk",
+    "logo": "https://gateway.pinata.cloud/ipfs/QmTqPsjoXRQzcS6WvKd7uq5RdPkRVxUgx89EoJ6vjG2dEP",
+    "color": "#ffffff",
+    "uniswap": "false",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
