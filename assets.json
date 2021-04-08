@@ -774,5 +774,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "ENTROPYSEEDS",
+    "symbol": "HSEED20",
+    "logo": "https://lh3.googleusercontent.com/F-0G_xV8mq_30ZblEl0dNtN4qXyBaVpUjWddVOrfTc-uRXJImrgawj3dnObmgUVXQVzF7U2h7EqMNA2Yu9Sk-_yWiIhS_-59iERvbw=s100",
+    "color": "#ffffff",
+    "uniswap": "false",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
