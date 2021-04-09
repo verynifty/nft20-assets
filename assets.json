@@ -784,5 +784,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "Crypto Combat Collection",
+    "symbol": "CKC20",
+    "logo": "https://lh3.googleusercontent.com/65BAbftrUBVoc1RQvZ5hx8zjUZIiAhJj2FzMlX-4Kyc8zE0Z_laMiDjsrH-XUCKjOrA-ji5_Nvc8bBiXjMWfbCDK5bEF1ytE84Bjug=s100",
+    "color": "#ffffff",
+    "uniswap": "false",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
