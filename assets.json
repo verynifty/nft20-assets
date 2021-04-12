@@ -811,7 +811,8 @@
     "symbol": "CRYPTONIA20",
     "logo": "https://lh3.googleusercontent.com/WPYBYvpvvBKnrpfu6tKobRbyEagfkw6e1O1k-6MD-54zoBkgjoisyGNz74v_-R4Hd707gXfuzF5l1tCg-5dCCB73k5NOg1yj8cxQhyY=s130",
     "color": "#ffffff",
-    "uniswap": "false",
+    "lpToken": "0xb47e403b4d8bac9c4bb2fc6cbc0bfbec38efd04e",
+    "uniswap": "https://info.uniswap.org/pair/0xb47e403b4d8bac9c4bb2fc6cbc0bfbec38efd04e",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
