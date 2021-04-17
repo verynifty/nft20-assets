@@ -816,5 +816,16 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "Covenants Indexes",
+    "symbol": "INDEX20",
+    "logo": "https://lh3.googleusercontent.com/aRdcVCFmGoJd-50tx4c3QylFU9HFDI_TQRjFC1l4K3qSG8dndP1pltF6UeYOPsZl44VakidmiN2PJ2vf8pPtVI665_ArS3YrHZqvKls=s0",
+    "color": "#ffffff",
+    "lpToken": "0xf38c8016be205511a484863c1191f9410fa841a5",
+    "uniswap": "https://info.uniswap.org/pair/0xf38c8016be205511a484863c1191f9410fa841a5",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
