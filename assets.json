@@ -837,5 +837,16 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "Acclimated MoonCats",
+    "symbol": "CAT20",
+    "logo": "https://lh3.googleusercontent.com/0Dc4CsBHSRrkQc5W0-bTWOn2fXnqi1Hldf92yAmSZCOhIolUyWs4wUuMJ52SEL8e3kk4U0Z76RQlJxAzM48B_hs7XKgi7Xxg9DfpAA=s130",
+    "color": "#ffffff",
+    "uniswap": "false",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
+  
 ]
