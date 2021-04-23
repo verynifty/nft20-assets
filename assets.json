@@ -831,7 +831,7 @@
   {
     "name": "The Fungible Open Editions by Pak",
     "symbol": "CUBE20",
-    "logo": "https://lh3.googleusercontent.com/ijC_URNi0k014Oqzfp2-1K73DUCfTcOTcm84ny_5pXeSUKMw3iUV-WSZU_5UZlVKiuA5BnFZGvvysoqvxQerQQMmizl5aDN3BGjtzw=s130",
+    "logo": "",
     "color": "#ffffff",
     "uniswap": "false",
     "hide": false,
@@ -847,6 +847,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "Etherworlds",
+    "symbol": "EW20",
+    "logo": "https://pbs.twimg.com/profile_images/1376477516941115394/ihtYZWiB_400x400.jpg",
+    "color": "#ffffff",
+    "uniswap": "false",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
-  
 ]
