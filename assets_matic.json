@@ -1,11 +1,11 @@
 [
-  {
-    "name": "Doki",
-    "symbol": "doki20",
+    {
+    "name": "Doki Doki",
+    "symbol": "DOKI20",
     "logo": "https://lh3.googleusercontent.com/yGrLCoaytc-9-6mE_ydnQU4xy5EUC46ffIxFYnUkWu5pPZ82raJpInJ_J-Kow9wpHRW9tBnZChNch01DX3ENIhlKqSKxki_jFbXbgQ=s992",
     "color": "#f7c5ec",
-    "uniswap": "https://info.uniswap.org/token/0x22c4ad011cce6a398b15503e0ab64286568933ed",
-    "lpToken": "0x68b049c8bd1d8b20814b41c73a73ab126c19b42e",
+    "uniswap": false,
+    "lpToken": false,
     "factory_version": 1,
     "website": "https://degacha.com/",
     "description": "DeGacha - A Gamified Marketplace for NFTs & Digital Collectibles. Make collecting fun & inspire creations in the digital world.",
