@@ -858,5 +858,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "LENS COLLECTION",
+    "symbol": "LENS",
+    "logo": "https://cdn.discordapp.com/attachments/799907052729532416/837729775682453554/lens-logo.png",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
