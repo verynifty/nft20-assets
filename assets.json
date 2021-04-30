@@ -874,7 +874,8 @@
     "symbol": "KONGZ20",
     "logo": "https://lh3.googleusercontent.com/LIpf9z6Ux8uxn69auBME9FCTXpXqSYFo8ZLO1GaM8T7S3hiKScHaClXe0ZdhTv5br6FE2g5i-J5SobhKFsYfe6CIMCv-UfnrlYFWOM4=s130",
     "color": "#ffffff",
-    "uniswap": false,
+    "lpToken": "0x67513ffFec1F9BC1E7D971D067446205049Ffe71",
+    "uniswap": "https://info.uniswap.org/pair/0x67513ffFec1F9BC1E7D971D067446205049Ffe71",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
