@@ -839,22 +839,11 @@
     "removedFees": false
   },
   {
-    "name": "Acclimated MoonCats",
-    "symbol": "CAT20",
-    "logo": "https://lh3.googleusercontent.com/0Dc4CsBHSRrkQc5W0-bTWOn2fXnqi1Hldf92yAmSZCOhIolUyWs4wUuMJ52SEL8e3kk4U0Z76RQlJxAzM48B_hs7XKgi7Xxg9DfpAA=s130",
+    "name": "LENS COLLECTION",
+    "symbol": "LENS",
+    "logo": "https://cdn.discordapp.com/attachments/799907052729532416/837729775682453554/lens-logo.png",
     "color": "#ffffff",
-    "uniswap": "false",
-    "hide": false,
-    "factory_version": 2,
-    "removedFees": false
-  },
-  {
-    "name": "Etherworlds",
-    "symbol": "EW20",
-    "logo": "https://pbs.twimg.com/profile_images/1376477516941115394/ihtYZWiB_400x400.jpg",
-    "color": "#ffffff",
-    "lpToken": "0x4310b2889b8df5d84da2cba50eed31d4aa3eeef0",
-    "uniswap": "https://info.uniswap.org/pair/0x4310b2889b8df5d84da2cba50eed31d4aa3eeef0",
+    "uniswap": false,
     "hide": false,
     "factory_version": 2,
     "removedFees": false
