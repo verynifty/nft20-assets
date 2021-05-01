@@ -879,5 +879,16 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "Bored Ape Yacht Club",
+    "symbol": "BAYC20",
+    "logo": "https://lh3.googleusercontent.com/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB=s130",
+    "color": "#ffffff",
+    "lpToken": "0xa39ce99cc323472a27602017eeec4f2ea828a737",
+    "uniswap": "https://info.uniswap.org/pair/0xa39ce99cc323472a27602017eeec4f2ea828a737",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
