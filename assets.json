@@ -901,5 +901,14 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
-  }
+  },
+  {
+    "name": "DICKS: THE SEED COLLECTION (FUN)",
+    "symbol": "DICK29",
+    "logo": "https://lh3.googleusercontent.com/dk6zgdO6ve3vrXZcSnlTSF5CPV4PR8XL9FO2tPdPVllAoknpVQ_epQtj9I4XJp2AtnN6g_kxj8oTrbsVz2J_vcUsQi1X70J7qepshb4=s128",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
 ]
