@@ -890,5 +890,16 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "DOOMCATRESCUE",
+    "symbol": "CAT20",
+    "logo": "https://lh3.googleusercontent.com/-_djlEgAuh5P-rYsMEQ0aq8mWiGWtLSgDU21aJ2NIV8Gm6kElRLd4OR2PBbZN-cODc2sxnGYIQM6yBWO-823C3S5XGC6iyVrj2zzWQ=s130",
+    "color": "#ffffff",
+    "lpToken": "0x1e8703458ad891fbf78c9320cd78a343fb2f73b3",
+    "uniswap": "https://info.uniswap.org/pair/0x1e8703458ad891fbf78c9320cd78a343fb2f73b3",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
