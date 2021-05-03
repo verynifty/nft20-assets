@@ -26,5 +26,35 @@
     "tags": ["Gatchapon", "Japan", "Retro"],
     "metadata": "https://api.dokidoki.finance/",
     "metadata_extension": "jpeg"
+  },
+   {
+    "name": "Artvatars",
+    "symbol": "ARTV20",
+    "logo": "https://nft-marketplace.api.matic.network/public/2021-04-14T20:11:36.238Zartvatars_logo%20-%20Reneil.jpg",
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
+    "website": "https://artvatars.com/",
+    "description": "Artvatars is a new project that will revolutionize how collectors buy and collect NFTs.",
+  },
+   {
+    "name": "ZED RUN",
+    "symbol": "ZED20",
+    "logo": "https://nft-marketplace.api.matic.network/public/2021-03-16T23:03:37.844ZZED%20Matic%20-%20150%20x%20150%20-%20Trung%20Trinh.png",
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
+    "website": "https://zed.run/",
+    "description": "Zed is a horse racing game that offers users the chance to build a stable through buying, selling and breeding digital racehorses.",
+  },
+   {
+    "name": "Marble Cards",
+    "symbol": "MRBL20",
+    "logo": "https://nft-marketplace.api.matic.network/public/2021-03-16T23:00:03.152Zdownload.jpeg",
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
+    "website": "https://marble.cards/",
+    "description": "Marble lets anyone create unique digital cards based on URLs",
   }
-]
+]    
