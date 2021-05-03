@@ -56,5 +56,14 @@
     "factory_version": 2,
     "website": "https://marble.cards/",
     "description": "Marble lets anyone create unique digital cards based on URLs"
+  },
+   {
+    "name": "PepemonWorld",
+    "symbol": "PEP20",
+    "logo": "https://nft-marketplace.api.matic.network/public/2021-03-19T10:14:32.290Zppblz-transparent%20-%20Entrigd%20App.png",
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
+    "website": "https://pepemon.finance/",
   }
 ]    
