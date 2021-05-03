@@ -35,7 +35,7 @@
     "uniswap": false,
     "factory_version": 2,
     "website": "https://artvatars.com/",
-    "description": "Artvatars is a new project that will revolutionize how collectors buy and collect NFTs.",
+    "description": "Artvatars is a new project that will revolutionize how collectors buy and collect NFTs."
   },
    {
     "name": "ZED RUN",
@@ -45,7 +45,7 @@
     "uniswap": false,
     "factory_version": 2,
     "website": "https://zed.run/",
-    "description": "Zed is a horse racing game that offers users the chance to build a stable through buying, selling and breeding digital racehorses.",
+    "description": "Zed is a horse racing game that offers users the chance to build a stable through buying, selling and breeding digital racehorses."
   },
    {
     "name": "Marble Cards",
@@ -55,6 +55,6 @@
     "uniswap": false,
     "factory_version": 2,
     "website": "https://marble.cards/",
-    "description": "Marble lets anyone create unique digital cards based on URLs",
+    "description": "Marble lets anyone create unique digital cards based on URLs"
   }
 ]    
