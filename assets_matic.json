@@ -55,7 +55,7 @@
     "uniswap": false,
     "factory_version": 2,
     "website": "https://marble.cards/",
-    "description": "Marble lets anyone create unique digital cards based on URLs"
+    "description": "Marble lets anyone create unique digital cards based on URLs."
   },
    {
     "name": "PepemonWorld",
@@ -65,5 +65,25 @@
     "uniswap": false,
     "factory_version": 2,
     "website": "https://pepemon.finance/"
+  },
+   {
+    "name": "CryptoPick",
+    "symbol": "PICK20",
+    "logo": "https://nft-marketplace.api.matic.network/public/2021-03-31T20:14:48.454Zcp_icon-300x300%20(1)%20-%20Guillaume%20Veldekens.png",
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
+    "website": "https://cryptopick.net/",
+    "description": "CryptoPick is a market prediction game that rewards players for making predictions while unlocking valuable trading insights."
+  },
+   {
+    "name": "Flowerpatch",
+    "symbol": "FLOWER20",
+    "logo": "https://nft-marketplace.api.matic.network/public/2021-04-14T13:29:43.927ZFP-VAPE%20-%20Bruno%20Geoly.png",
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
+    "website": "https://flowerpatch.app/",
+    "description": "Flowerpatch is a peaceful Ethereum indie game about farming cannabis."
   }
-]    
+] 
