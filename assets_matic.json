@@ -84,6 +84,8 @@
     "uniswap": false,
     "factory_version": 2,
     "website": "https://flowerpatch.app/",
-    "description": "Flowerpatch is a peaceful Ethereum indie game about farming cannabis."
+    "description": "Flowerpatch is a peaceful Ethereum indie game about farming cannabis.",
+    "metadata": "https://flowerpatch.app/polygon/data/flower-721.opensea.json",
+    "metadata_extension": "jpeg"
   }
 ] 
