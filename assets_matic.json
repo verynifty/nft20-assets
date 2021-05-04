@@ -87,5 +87,28 @@
     "description": "Flowerpatch is a peaceful Ethereum indie game about farming cannabis.",
     "metadata": "https://flowerpatch.app/polygon/data/flower-721.opensea.json",
     "metadata_extension": "jpeg"
+  },
+   {
+    "name": "Drakons",
+    "symbol": "DRAK20",
+    "logo": "https://nft-marketplace.api.matic.network/public/2021-03-18T12:27:07.508ZLogo-Transparent_500%20-%20Drakons%20IO.png",
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
+    "website": "https://www.drakons.io/",
+    "description": "Drakons are genetically unique, artistically designed digital dragons created as crypto collectibles.",
+    "metadata": "https://www.drakons.io/server/api/dragon/metadata/matic/%7Bid%7D",
+    "metadata_extension": "jpeg"
+  },
+   {
+    "name": "CryptoSkulls",
+    "symbol":"CRS20",
+    "logo": "https://nft-marketplace.api.matic.network/public/2021-04-01T05:26:32.711Zlogo_750%C3%97750%20-%20Alexey%20Kazarinov.png",
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
+    "website": "https://cryptoskulls.com/",
+    "metadata": "https://cryptoskulls.com/api/token/_tokenId_",
+    "metadata_extension": "jpeg"
   }
 ] 
