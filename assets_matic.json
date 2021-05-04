@@ -110,5 +110,14 @@
     "website": "https://cryptoskulls.com/",
     "metadata": "https://cryptoskulls.com/api/token/_tokenId_",
     "metadata_extension": "jpeg"
+  },
+   {
+    "name": "Battle Racers Part",
+    "symbol": "BRP20",
+    "logo": "https://nft-marketplace.api.matic.network/public/2021-01-11T22:34:29.847ZbattleLogo.png",
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
+    "website": "https://battleracers.io/"
   }
 ] 
