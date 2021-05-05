@@ -917,7 +917,8 @@
     "symbol": "MEEBITS20",
     "logo": "https://lh3.googleusercontent.com/d784iHHbqQFVH1XYD6HoT4u3y_Fsu_9FZUltWjnOzoYv7qqB5dLUqpGyHBd8Gq3h4mykK5Enj8pxqOUorgD2PfIWcVj9ugvu8l0=s128",
     "color": "#ffffff",
-    "uniswap": false,
+    "uniswap": "https://info.uniswap.org/pair/0xf2ecb7740dc01a16db0ecc0af12ba8e32511bebf",
+    "lpToken": "0xf2ecb7740dc01a16db0ecc0af12ba8e32511bebf",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
