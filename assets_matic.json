@@ -119,5 +119,15 @@
     "uniswap": false,
     "factory_version": 2,
     "website": "https://battleracers.io/"
+  },
+   {
+    "name": "Cometh",
+    "symbol": "COM20",
+    "logo": "https://nft-marketplace.api.matic.network/public/2021-03-16T23:23:07.704Zlogo-cometh%20-%20Fre%01de%01ric%20De%20Matos.png",
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
+    "website": "https://www.cometh.io/",
+    "description": "Cometh is a DeFi powered game with yield generating NFT."
   }
 ] 
