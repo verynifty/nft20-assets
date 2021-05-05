@@ -97,8 +97,8 @@
     "factory_version": 2,
     "website": "https://www.drakons.io/",
     "description": "Drakons are genetically unique, artistically designed digital dragons created as crypto collectibles.",
-    "metadata": "https://www.drakons.io/server/api/dragon/metadata/matic/%7Bid%7D",
-    "metadata_extension": "jpeg"
+    "metadata": "https://www.drakons.io/server/api/dragon/metadata/matic/",
+    "metadata_extension": "json"
   },
    {
     "name": "CryptoSkulls",
@@ -108,8 +108,8 @@
     "uniswap": false,
     "factory_version": 2,
     "website": "https://cryptoskulls.com/",
-    "metadata": "https://cryptoskulls.com/api/token/_tokenId_",
-    "metadata_extension": "jpeg"
+    "metadata": "https://cryptoskulls.com/api/token/",
+    "metadata_extension": false
   },
    {
     "name": "Battle Racers Part",
