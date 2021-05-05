@@ -55,6 +55,8 @@
     "uniswap": false,
     "factory_version": 2,
     "website": "https://marble.cards/",
+     "metadata": "https://ws.marble.cards/marble/token/",
+       "metadata_extension": false,
     "description": "Marble lets anyone create unique digital cards based on URLs."
   },
    {
