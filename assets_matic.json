@@ -135,7 +135,7 @@
    {
     "name": "Dogecolors",
     "symbol": "DC20",
-    "logo": "https://dogecolors.com/icon.png",
+    "logo": "https://pbs.twimg.com/profile_images/1384273978638798863/JykyHOAg_400x400.jpg",
     "color": "#f7c5ec",
     "uniswap": false,
     "factory_version": 2,
@@ -159,5 +159,15 @@
     "color": "#f7c5ec",
     "uniswap": false,
     "factory_version": 2
+  },
+   {
+    "name": "SHROOMTOPIA",
+    "symbol": "SHRM20",
+    "logo": "https://pbs.twimg.com/profile_images/1382232763000971267/1Rq6X29d_400x400.jpg",
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
+    "website": "hhttps://shroomtopia.io/",
+    "description": "ShroomTopia is a colony of cute and unique pixel art mushrooms"
   }
 ]
