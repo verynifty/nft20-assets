@@ -131,5 +131,33 @@
     "factory_version": 2,
     "website": "https://www.cometh.io/",
     "description": "Cometh is a DeFi powered game with yield generating NFT."
+  },
+   {
+    "name": "Dogecolors",
+    "symbol": "DC20",
+    "logo": "https://dogecolors.com/icon.png",
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
+    "website": "https://dogecolors.com/",
+    "description": "A doge color is an ERC-721 token that exists on the matic blockchain."
+  },
+   {
+    "name": "TOKENIZED TWEETS,
+    "symbol": "TT20",
+    "logo": "https://nft-marketplace.api.matic.network/public/2021-05-03T06:24:16.391Ztokenizedtweetslogo%20-%20Steve%20Gachau.png",
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
+    "website": "https://tokenizedtweets.com/",
+    "description": "Archive your favorite social media memories as digital collectibles."
+  },
+   {
+    "name": "COIN ARTIST ROAD TO 50K",
+    "symbol": "50K20",
+    "logo": "https://pbs.twimg.com/profile_images/1382367174782713856/E_vVkEyk_400x400.jpg",
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2
   }
-] 
+]
