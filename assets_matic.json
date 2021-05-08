@@ -171,5 +171,15 @@
     "factory_version": 2,
     "website": "hhttps://shroomtopia.io/",
     "description": "ShroomTopia is a colony of cute and unique pixel art mushrooms"
+  },
+      {
+    "name": "ALIEN EYES",
+    "symbol": "IALI20",
+    "logo": false,
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
   }
+    
+    
 ]
