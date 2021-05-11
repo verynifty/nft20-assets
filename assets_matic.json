@@ -160,6 +160,7 @@
     "logo": "https://pbs.twimg.com/profile_images/1382367174782713856/E_vVkEyk_400x400.jpg",
     "color": "#f7c5ec",
     "uniswap": false,
+       "metadata": "https://coin-artist-road-to-50k.s3.amazonaws.com/[ID_REPLACE].json",
     "factory_version": 2
   },
    {
