@@ -172,6 +172,8 @@
     "uniswap": false,
     "factory_version": 2,
     "website": "hhttps://shroomtopia.io/",
-    "description": "ShroomTopia is a colony of cute and unique pixel art mushrooms"
+    "description": "ShroomTopia is a colony of cute and unique pixel art mushrooms",
+       "metadata": "https://gateway.pinata.cloud/ipfs/Qmf16E6uRV3uUyZQnhmQHa9R5QnB2EeTrxPBRkPiUsWggk/",
+       "metadata_extension": false
   }  
 ]
