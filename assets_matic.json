@@ -124,8 +124,8 @@
   },
    {
     "name": "Cometh",
-    "symbol": "COM20",
-    "logo": "https://pbs.twimg.com/profile_images/1349304984576397312/_-ZnZQdz_400x400.jpg",
+    "symbol": "COMETH20",
+    "logo": "https://github.com/verynifty/nft20-assets/raw/master/cometh.png",
     "color": "#f7c5ec",
     "uniswap": false,
     "factory_version": 2,
