@@ -177,5 +177,15 @@
     "description": "ShroomTopia is a colony of cute and unique pixel art mushrooms",
        "metadata": "https://gateway.pinata.cloud/ipfs/Qmf16E6uRV3uUyZQnhmQHa9R5QnB2EeTrxPBRkPiUsWggk/",
        "metadata_extension": false
+  },  
+   {
+    "name": "Hokusai",
+    "symbol": "HOKU",
+    "logo": "https://nft-marketplace.api.matic.network/public/2021-04-28T23:03:02.948ZHokusai_logo%20-%20command%20Hokusai.png",
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
+    "website": "https://shop.hokusai.app/",
+    "description": "Redeemable NFT Platform",
   }  
 ]
