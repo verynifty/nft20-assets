@@ -35,7 +35,9 @@
     "uniswap": false,
     "factory_version": 2,
     "website": "https://artvatars.com/",
-    "description": "Artvatars is a new project that will revolutionize how collectors buy and collect NFTs."
+    "description": "Artvatars is a new project that will revolutionize how collectors buy and collect NFTs.",
+    "metadata": "https://api.artvatars.com/meta-data/",
+    "metadata_extension": false
   },
    {
     "name": "ZED RUN",
