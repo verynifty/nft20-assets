@@ -24,7 +24,7 @@
     "website": "https://neondistrict.io/",
     "description": "DeGacha - A Gamified Marketplace for NFTs & Digital Collectibles. Make collecting fun & inspire creations in the digital world.",
     "tags": ["Gatchapon", "Japan", "Retro"],
-    "metadata": false,
+    "metadata": "https://portal.neondistrict.io/api/getNft/",
     "metadata_extension": false
   },
    {
