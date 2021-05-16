@@ -186,7 +186,9 @@
     "uniswap": false,
     "factory_version": 2,
     "website": "https://shop.hokusai.app/",
-    "description": "Redeemable NFT Platform"
+    "description": "Redeemable NFT Platform",
+       "metadata": "https://api2.cargo.build/v5/get-token-details/609910a099650e0e02a7e299/",
+       "metadata_extension": false
   },  
   {
     "name": "AAVEGOTCHI",
