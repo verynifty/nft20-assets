@@ -187,5 +187,25 @@
     "factory_version": 2,
     "website": "https://shop.hokusai.app/",
     "description": "Redeemable NFT Platform"
-  }  
+  },  
+   {
+    "name": "Hokusai",
+    "symbol": "HOKU",
+    "logo": "https://nft-marketplace.api.matic.network/public/2021-04-28T23:03:02.948ZHokusai_logo%20-%20command%20Hokusai.png",
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
+    "website": "https://shop.hokusai.app/",
+    "description": "Redeemable NFT Platform"
+  },
+  {
+    "name": "AAVEGOTCHI",
+    "symbol": "GOTCHI20",
+    "logo": "https://pbs.twimg.com/profile_images/1282933852529291266/PRYeCD6A_400x400.jpg",
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
+       "metadata": "https://aavegotchi.com/metadata/aavegotchis/",
+       "metadata_extension": false
+  }
 ]
