@@ -922,5 +922,16 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "CryptoTrunks",
+    "symbol": "TRUNK20",
+    "logo": "https://lh3.googleusercontent.com/oZ3rNvsIZGyj_BInkVOQotVWjoToROEwBEOAKOiElByQcV_zHqYUE61Nds2g_s1rg0vEjSV_ADix8jForAya5zZPtWnamJNcdBWWcA=s0",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
+
 ]
