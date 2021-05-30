@@ -928,7 +928,8 @@
     "symbol": "TRUNK20",
     "logo": "https://lh3.googleusercontent.com/oZ3rNvsIZGyj_BInkVOQotVWjoToROEwBEOAKOiElByQcV_zHqYUE61Nds2g_s1rg0vEjSV_ADix8jForAya5zZPtWnamJNcdBWWcA=s0",
     "color": "#ffffff",
-    "uniswap": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0x3cc36e0c66833b4458ac326c5a21cb4fe51fc3bb",
+    "lpToken": "0x3cc36e0c66833b4458ac326c5a21cb4fe51fc3bb",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
