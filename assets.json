@@ -434,10 +434,11 @@
     "symbol": "POB20",
     "logo": "https://pbs.twimg.com/profile_images/1348851472000233472/egXENiN1_400x400.jpg",
     "color": "#040404",
-    "uniswap": false,
     "hide": false,
     "factory_version": 2,
-    "removedFees": false
+    "removedFees": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0x73b065b3bfd6ad817e6760dc11be180362702262",
+    "lpToken": "0x73b065b3bfd6ad817e6760dc11be180362702262"
   },
   {
     "name": "Gala Games",
