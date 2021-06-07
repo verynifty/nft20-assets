@@ -950,7 +950,7 @@
     "name": "Bonsai",
     "symbol": "BNSI20",
     "color": "#ffffff",
-    "uniswap": "https://info.uniswap.org/#/pools/0x45972207d5b666b73a1b75512f6665d3acd87f79",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x45972207d5b666b73a1b75512f6665d3acd87f79",
     "lpToken": "0x45972207d5b666b73a1b75512f6665d3acd87f79",
     "hide": false,
     "factory_version": 2,
