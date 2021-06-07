@@ -952,6 +952,7 @@
     "color": "#ffffff",
     "uniswap": "https://v2.info.uniswap.org/pair/0x45972207d5b666b73a1b75512f6665d3acd87f79",
     "lpToken": "0x45972207d5b666b73a1b75512f6665d3acd87f79",
+    "logo": "https://lh3.googleusercontent.com/IJwhZLLAvgMNI2hu2FLtCjqoq8m9JihIW96_OGnfSeUwAPgeEOOMu4Cp4YVx8xAldd6ZUSy6weScUX-KnCNmFp8E813Xr0ux3gyhAs8=s120",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
