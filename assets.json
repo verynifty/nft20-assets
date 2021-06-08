@@ -906,10 +906,11 @@
   },
   {
     "name": "DICKS THE SEED COLLECTION (FUN)",
-    "symbol": "DICK29",
+    "symbol": "DICK20",
     "logo": "https://lh3.googleusercontent.com/XceDRZU1z5Xl6S7w7dSzDUC0shD5YF5fvuI7phMCLo6s9GdM4vgbnsK0UAeyYLfm7gk1L0QqREmc4vh6FN1rWYS9rRA51OOKgfjioA=s130",
     "color": "#ffffff",
-    "uniswap": false,
+    "lpToken": "0x9d6a38ce1760a5f9e9a0c60872a658337102195b",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x9d6a38ce1760a5f9e9a0c60872a658337102195b",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
