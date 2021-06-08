@@ -183,7 +183,8 @@
     "symbol": "RUDE20",
     "logo": "https://lh3.googleusercontent.com/c9MRoFsN_ZBM3vmQVdrqwRZS2vZo2vWSzInevMOm55eROvVfevEdWBsdkSP5xTDdpdpUzjrfnfqWUkwjSHI9EtG0eoEmm725Se23tA=s100",
     "color": "#2f9f5d",
-    "uniswap": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0xc189ac491c4b69198d39a9b691f65901b747c52e",
+    "lpToken": "0xc189ac491c4b69198d39a9b691f65901b747c52e",
     "hide": false,
     "factory_version": 2
   },
