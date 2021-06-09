@@ -958,5 +958,16 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+    {
+    "name": "Gutter Cat Gang",
+    "symbol": "GCG",
+    "color": "#ffffff",
+    "uniswap": false,
+    "lpToken": false,
+    "logo": "https://guttercatgang.com/wp-content/uploads/2021/06/guttercat_0019_Layer-4.png",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
