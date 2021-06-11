@@ -969,5 +969,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+   {
+    "name": "PunkBabies",
+    "symbol": "DAYCARE20",
+    "color": "#ffffff",
+    "uniswap": false,
+    "logo": "https://lh3.googleusercontent.com/1d3PzMTT-dS0zDZ3S5zaQI8cgbpcdR3LgoQPEsQD6lAM_KrSVwBZs2BUWnJu9Y_bvQ55PK_0aTMS1919AIlGNdtk_m0DKiZ6jCBOXQ=s128",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
