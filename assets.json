@@ -980,5 +980,16 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+   {
+    "name": "DREAMLOOPS V1",
+    "symbol": "DRMLOOPS20",
+    "color": "#ffffff",
+    "uniswap": "https://v2.info.uniswap.org/pair/0xcf117da39e46678f4f61295b91dd13108f26e463",
+    "lpToken": "0xcf117da39e46678f4f61295b91dd13108f26e463",
+    "logo": "https://lh3.googleusercontent.com/Isk5pilTitfcetBkHzWQcx72iwHrU0zj7L3XkfkmkxetoeONMVWIjLF3IPpGR0CilINwqD8qBZcfM27WC38wx_I874pPldODZZqkxA",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
