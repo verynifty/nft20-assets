@@ -1007,7 +1007,8 @@
     "symbol": "SODIUM",
     "logo": "https://lh3.googleusercontent.com/K9Rk9mpUZyCNtSqynI5KOsE3Eu3oD9m-ft2aqFZyW5dlI79XtuT563gbn_Ooks7wBrG9dMQ9n9qC84wbTHjmmXoYBAz_2NyBCZgNZrw=s130",
     "color": "#ffffff",
-    "uniswap": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0x7618abc852cfb5c05e8d75cdf8f21222c09c2f0a",
+    "lpToken": "0x7618abc852cfb5c05e8d75cdf8f21222c09c2f0a",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
