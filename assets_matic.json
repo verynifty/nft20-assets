@@ -199,5 +199,15 @@
     "factory_version": 2,
        "metadata": "https://aavegotchi.com/metadata/aavegotchis/",
        "metadata_extension": false
+  },
+   {
+    "name": "GORILLA BILL",
+    "symbol": "GORILLABILL",
+    "logo": false,
+    "color": "#f7c5ec",
+    "uniswap": false,
+    "factory_version": 2,
+    "metadata": "https://ipfs.io/ipfs/QmekgTMMNL3dePitTFeXhqW1b3jJTQ8timk2sVyCmqJqQR/",
+    "metadata_extension": false
   }
 ]
