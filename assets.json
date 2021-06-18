@@ -1001,5 +1001,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "My Fucking Pickle",
+    "symbol": "SODIUM",
+    "logo": "https://lh3.googleusercontent.com/K9Rk9mpUZyCNtSqynI5KOsE3Eu3oD9m-ft2aqFZyW5dlI79XtuT563gbn_Ooks7wBrG9dMQ9n9qC84wbTHjmmXoYBAz_2NyBCZgNZrw=s130",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
