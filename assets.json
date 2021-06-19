@@ -997,7 +997,8 @@
     "symbol": "YETI20",
     "logo": "https://lh3.googleusercontent.com/SCLQ9GXToC6SHT2SIayi1E1bzngDbBDzjpn_ikU3dV52xxTVSQqo3AjtPtAWMUfulMdFH4gAbv1vQNpmtYz5KAIsBE_7EfnpcahmFw=s130",
     "color": "#ffffff",
-    "uniswap": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0x2e5552c727883dc230d3f1b41a23a3579fccebb4",
+    "lpToken": "0x2e5552c727883dc230d3f1b41a23a3579fccebb4",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
