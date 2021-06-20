@@ -1019,7 +1019,8 @@
     "symbol": "TABOY20",
     "logo": "https://lh3.googleusercontent.com/mnNWlPXlDTp8N1JP2kiCrTy-w0lGU0S1AX5sMm0ZhWjSTpIh4RTwXERNjz83aKI1uKjyqf8yZJlsId6TeUgvJRhwaWScJPdWZSlISJc=s130",
     "color": "#ffffff",
-    "uniswap": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0x3435bacbb79baa5c4019419dc21db790d47595d8",
+    "lpToken": "0x3435bacbb79baa5c4019419dc21db790d47595d8",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
