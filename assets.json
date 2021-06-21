@@ -1034,5 +1034,16 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  }, 
+  {
+    "name": "Slumdoge Billionaires",
+    "symbol": "SLUMDOGE",
+    "logo": "https://lh3.googleusercontent.com/6l-zgR2XAsB4tw1SYGxTpFHRvLn-fz9oXT8GfBaDUHrdNkK00KzNs4yJcBoZ98AdpaIFlNuUzNEU_mSLpU4GUvTRv6Muf_6QjJPi=s130",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }  
+  
 ]
