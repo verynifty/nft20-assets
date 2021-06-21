@@ -1024,5 +1024,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
-  }
+  },
+  {
+    "name": "The Wicked Craniums",
+    "symbol": "CRANIUM20",
+    "logo": "https://lh3.googleusercontent.com/e5s2WcnoPKpVZ4MxRA6v1IYPcCmC_3LSDCTI-Cp_pAxu_J81v0iQUiOByr5gLdQjM083RHQZd_izPmTeB1w2P9r8YmjxHNJNRi4RRw=s130",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  }  
 ]
