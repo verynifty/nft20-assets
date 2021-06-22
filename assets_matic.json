@@ -209,5 +209,14 @@
     "factory_version": 2,
     "metadata": "https://ipfs.io/ipfs/QmekgTMMNL3dePitTFeXhqW1b3jJTQ8timk2sVyCmqJqQR/",
     "metadata_extension": false
+  },
+   {
+    "name": "BEANS BEANS BEANS",
+    "symbol": "BEANS",
+    "logo": false,
+    "color": "#f7c5ec",
+    "uniswap": "https://charts.cometh.io/pair/0xc6095764e0d7e684310bcc695e1b3f66354ce587",
+    "lpToken": "0xc6095764e0d7e684310bcc695e1b3f66354ce587",
+    "factory_version": 2,
   }
 ]
