@@ -213,10 +213,19 @@
    {
     "name": "BEANS BEANS BEANS",
     "symbol": "BEANS",
-    "logo": false,
+    "logo": "https://lh3.googleusercontent.com/qESI9j0AkSIya6Ee3bxdOQlf4-nZKs4kXU126xzsUAz06QLHvP2wJq08rXvgCzSIrp6hGHoxrb0Jbgw9d-VUVPDu0j3crbYvwFtvHQ=s130",
     "color": "#f7c5ec",
     "uniswap": "https://charts.cometh.io/pair/0xc6095764e0d7e684310bcc695e1b3f66354ce587",
     "lpToken": "0xc6095764e0d7e684310bcc695e1b3f66354ce587",
     "factory_version": 2,
-  }
+  },
+   {
+    "name": "Gorilla Billz",
+    "symbol": "GBILLZ",
+    "logo": "https://lh3.googleusercontent.com/uJj20TLJg1po-vs7sHcJ4TdMpnmAegj8X47vW-Mb4PYFAiPwoH2BGXGRx6sEVhNMWWUXmsYUR3oWSLc5NEqS3h0lC4I7HRs_GhKUJQ=s128",
+    "color": "#f7c5ec",
+    "uniswap": "https://charts.cometh.io/pair/0x4f47A0Cc2aBb3c50E06B2f4e03064dfbA4A49093",
+    "lpToken": "0x4f47A0Cc2aBb3c50E06B2f4e03064dfbA4A49093",
+    "factory_version": 2,
+  },
 ]
