@@ -1045,6 +1045,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
-  }  
-  
+  },
+  {
+    "name": "ETHERTHINGS",
+    "symbol": "ETHINGS20",
+    "logo": "https://lh3.googleusercontent.com/ETekYxr-SuXiIKw46Vv1bCltB_lhwCbMYl-kRtVoTtR-n1qa-FLqGLJp0iCsazeFtahUbHgguFHzcNttetm5KJDjuymBQJ4w0I8B=s130",
+    "color": "#ffffff",
+    "uniswap": "false",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  }
 ]
