@@ -1040,8 +1040,8 @@
     "symbol": "SLUMDOGE",
     "logo": "https://lh3.googleusercontent.com/6l-zgR2XAsB4tw1SYGxTpFHRvLn-fz9oXT8GfBaDUHrdNkK00KzNs4yJcBoZ98AdpaIFlNuUzNEU_mSLpU4GUvTRv6Muf_6QjJPi=s130",
     "color": "#ffffff",
-    "uniswap": "https://v2.info.uniswap.org/token/0x4141c9bb4901cb3ba8a8b91db330c0246ba74818",
-    "lpToken": "0x4141c9bb4901cb3ba8a8b91db330c0246ba74818",
+    "uniswap": "https://v2.info.uniswap.org/token/0x8d2d4b6bab6d97d6d5077db72908c5923af5eae9",
+    "lpToken": "0x8d2d4b6bab6d97d6d5077db72908c5923af5eae9",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
