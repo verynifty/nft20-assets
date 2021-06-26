@@ -1055,5 +1055,26 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
-  }
+  },
+  {
+    "name": "Spunks",
+    "symbol": "SPUNK20",
+    "logo": "https://lh3.googleusercontent.com/ULYeCKiVRQweeGhIxtu-HfHGPAVrZORRGPaS1Dfx6egL0lKg_BNhg0qk1_ZlnEUkriWb76nXY6wvLieoDAx2vfunYwv3xRPVnBY=s130",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  },
+  {
+    "name": "STRAWBERRY.WTF",
+    "symbol": "STRAWBERRY20",
+    "logo": "https://lh3.googleusercontent.com/IKLCTyaUGoKGQR1bmAOCDRmHxWXjI5MTbEagQX24w2c-YVZj1mUTE6JNw5tr76kuL_yw9npV6Qtj0lyF8tjNoNA3jPk1_UZi9w2fFw=s130",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  },
+
 ]
