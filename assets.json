@@ -1071,7 +1071,8 @@
     "symbol": "STRAWBERRY20",
     "logo": "https://lh3.googleusercontent.com/IKLCTyaUGoKGQR1bmAOCDRmHxWXjI5MTbEagQX24w2c-YVZj1mUTE6JNw5tr76kuL_yw9npV6Qtj0lyF8tjNoNA3jPk1_UZi9w2fFw=s130",
     "color": "#ffffff",
-    "uniswap": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0xb48ef2d08de8efff274592b2ec160a810bc53c90",
+    "lpToken": "0xb48ef2d08de8efff274592b2ec160a810bc53c90",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
