@@ -1076,6 +1076,26 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "SLACKER DUCK POND",
+    "symbol": "SDP20",
+    "logo": "https://lh3.googleusercontent.com/zvtJX_zNqJsh9lJI0Ct5QcoSqK6Z1VbaKH_tTPAUC7Mr1mCi6BLc2zMSty3K9CNhiamY6O2BqOZyfF1foLPKjgMfD5ANyDDgcFn8zw=s64",
+    "color": "#ffffff",
+    "uniswap": false,
+    "lpToken": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  },
+  {
+    "name": "HELLO ANON",
+    "symbol": "ANON20",
+    "logo": "https://lh3.googleusercontent.com/6V-nj2PHnuT6GHMUNN7JJLB5Lbmrpyknvu8Vi_zfLircTx7sN_TrWY0CrrVH-oXIbfsO4_7P_2ROhA2fgcraEk7sAMFAV2KMY7w81g=s64",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
-
 ]
