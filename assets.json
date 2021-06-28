@@ -1083,10 +1083,11 @@
     "symbol": "SDP20",
     "logo": "https://lh3.googleusercontent.com/zvtJX_zNqJsh9lJI0Ct5QcoSqK6Z1VbaKH_tTPAUC7Mr1mCi6BLc2zMSty3K9CNhiamY6O2BqOZyfF1foLPKjgMfD5ANyDDgcFn8zw=s64",
     "color": "#ffffff",
-    "uniswap": false,
-    "lpToken": false,
+    "uniswap": "https://info.uniswap.org/#/pools/0x4429d161f86f94180ecbbe71963d73ea74f5212c",
+    "lpToken": "0x4429d161f86f94180ecbbe71963d73ea74f5212c",
     "hide": false,
     "factory_version": 2,
+    "uni_v3": true,
     "removedFees": false
   },
   {
