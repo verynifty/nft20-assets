@@ -1104,11 +1104,11 @@
     "symbol": "DYSTO20",
     "logo": "https://lh3.googleusercontent.com/7zEnd81nFlOlxpfGuVTF6Ic8j5zpQTSNwqXSFnEWIa0OK3U19q_-lIkW1VPDOnwlH1ijMsSyeMVOUlb51Tx4F8hkRbwI9sDb7W6K7A=s120",
     "color": "#ffffff",
-    "uniswap": false,
-    "lpToken": null,
+    "uniswap": "https://info.uniswap.org/#/pools/0xaf9c98cf6e5a63442d6599a44f113fcbbd7c9338",
+    "lpToken": "0xaf9c98cf6e5a63442d6599a44f113fcbbd7c9338",
     "hide": false,
     "factory_version": 2,
-    "uniswap_v3": false,
+    "uniswap_v3": true,
     "removedFees": false
   }
 ]
