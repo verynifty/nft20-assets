@@ -107,7 +107,8 @@
     "color": "#f2c525",
     "uniswap": "https://v2.info.uniswap.org/pair/0xaa617c8726adfde9e7b08746457e6b90ddb21480",
     "factory_version": 2,
-    "lpToken": "0xaa617c8726adfde9e7b08746457e6b90ddb21480"
+    "lpToken": "0xaa617c8726adfde9e7b08746457e6b90ddb21480",
+    "uniswap_v3": true
   },
   {
     "name": "Sandbox's assets",
