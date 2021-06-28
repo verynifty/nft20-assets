@@ -1098,5 +1098,17 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "DystoPunks V2",
+    "symbol": "DYSTO20",
+    "logo": "https://lh3.googleusercontent.com/7zEnd81nFlOlxpfGuVTF6Ic8j5zpQTSNwqXSFnEWIa0OK3U19q_-lIkW1VPDOnwlH1ijMsSyeMVOUlb51Tx4F8hkRbwI9sDb7W6K7A=s120",
+    "color": "#ffffff",
+    "uniswap": false,
+    "lpToken": null,
+    "hide": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
