@@ -1131,5 +1131,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "Crypto Birbs",
+    "symbol": "BIRB20",
+    "logo": "https://lh3.googleusercontent.com/OHtxKUwCd7svX0hChrhDZ3jywJCgdsoCB_vcqR1Gmov0Y1_2e6McGHkhQalaPtwLygDMSo6GYnL5R9-TVUOH-dzcs_Za5RZf9M4rC8Q=s64",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
