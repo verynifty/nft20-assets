@@ -1121,5 +1121,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "BullsOnTheBlock",
+    "symbol": "BOTB20",
+    "logo": "https://lh3.googleusercontent.com/_NtqXix6Pg4hOouZyg8n6BpC5fHwQ-xEzoEo_XbFFJYWg0GtpfpDZmnt94z9cgNBluRHHTAikPLrd8r6QIRqkx8Sv8MWts8Di8JD=s64",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
