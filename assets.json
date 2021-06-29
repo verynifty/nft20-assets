@@ -1111,5 +1111,15 @@
     "factory_version": 2,
     "uniswap_v3": true,
     "removedFees": false
+  },
+  {
+    "name": "Wen Rug Pull",
+    "symbol": "WENRUG",
+    "logo": "https://lh3.googleusercontent.com/Veb3TEvVWvbxi0lzcRYsMTGbOJt3tx_sqC85wKCIocBq6SSj-H689c5GLSJFAa3kw-yOU7qax5kRxkQt6Sd7vD2aw5XMNTUHeM2W=s130",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
