@@ -1031,7 +1031,9 @@
     "symbol": "CRANIUM20",
     "logo": "https://lh3.googleusercontent.com/e5s2WcnoPKpVZ4MxRA6v1IYPcCmC_3LSDCTI-Cp_pAxu_J81v0iQUiOByr5gLdQjM083RHQZd_izPmTeB1w2P9r8YmjxHNJNRi4RRw=s130",
     "color": "#ffffff",
-    "uniswap": false,
+    "lpToken": "0x098eb57a36eccde36e8cc91036ac3597e4f07c95",
+    "uniswap": "https://info.uniswap.org/#/pools/0x098eb57a36eccde36e8cc91036ac3597e4f07c95"
+    "uniswap_v3": true,
     "hide": false,
     "factory_version": 2,
     "removedFees": false
