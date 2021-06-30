@@ -1145,5 +1145,38 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "MISFIT UNIVERSITY OFFICIAL",
+    "symbol": "MU20",
+    "logo": "https://lh3.googleusercontent.com/0nKC-GekErrTSi8R7mceAD4LU47FtP_T4C2OLmHnaEA6Cd-HJa2WTRACBiSlRQ2qj6ccYtqiT6NotjL_usdjiRibUfeNDHzogdC3=s120",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "uniswap_v3": true,
+    "removedFees": false
+  },
+  {
+    "name": "BORING BANANAS CO.",
+    "symbol": "BBC",
+    "logo": "https://lh3.googleusercontent.com/QyaD6gIdSOJQPCbq9l_KgpPebbwfBqomb4Dl_yCyF1sM4qIJFz-WpXoWgtBudYGAJ1jWV_kmtJsPexZ-2laczBVUZH3oGNR-v0K4=s120",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "uniswap_v3": true,
+    "removedFees": false
+  },
+  {
+    "name": "Forgotten Runes Wizards Cult",
+    "symbol": " WIZARDS20",
+    "logo": "https://lh3.googleusercontent.com/rfEd3YcRfS8Hk8YcZjD20Vrqu8XTazvnzklVN9pUcROrwhoLO8RbP0yiBQuemgGPpWMgEDGU7qO164x42GRn60Xv6aeFbdZkttzBjx8=s128",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "uniswap_v3": true,
+    "removedFees": false
   }
 ]
