@@ -1034,6 +1034,7 @@
     "lpToken": "0xa6d825d424742a01076169786cee46135eb9e285",
     "uniswap": "https://info.uniswap.org/#/pools/0xa6d825d424742a01076169786cee46135eb9e285",
     "uniswap_v3": true,
+    "lp_fees": 3000, // 0.3%
     "hide": false,
     "factory_version": 2,
     "removedFees": false
@@ -1090,6 +1091,7 @@
     "hide": false,
     "factory_version": 2,
     "uniswap_v3": true,
+    "lp_fees": 10000, //0.1%
     "removedFees": false
   },
   {
