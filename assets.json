@@ -1184,7 +1184,7 @@
     "symbol": "MORPH20",
     "logo": "https://lh3.googleusercontent.com/ooq7xxvwJjzXffNZ_pyct8-234WwTyHhQZUzD1oBp82EQVitaYdoxxP3s3X8i6dtYqF0bDiDQC0VoGjQDtAxaGqg97_TVoMlNYW55Q=s64",
     "color": "#ffffff",
-    "uniswap": "https://v2.info.uniswap.org/pair/0xD947FDCc67EB4E8dEdCAc393E1129eC69DD4591c"
+    "uniswap": "https://v2.info.uniswap.org/pair/0xD947FDCc67EB4E8dEdCAc393E1129eC69DD4591c",
     "lpToken": "0xD947FDCc67EB4E8dEdCAc393E1129eC69DD4591c",
     "hide": false,
     "uniswap_v3": false,
