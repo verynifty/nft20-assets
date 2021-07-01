@@ -1180,14 +1180,25 @@
     "removedFees": false
   },
   {
-    "name": "Lucky Maneki",
-    "symbol": " MANEKI20",
-    "logo": "https://lh3.googleusercontent.com/R0lowv4sI8S6h0MB5TKKBu12BgWTtkWLKE6EspcGzb5KXfEhhdnNKRWtn06pPRajKK-FO9zHhuPkiVI523NaeZU_bfRX_em1dzj7=s130",
+    "name": "Polymorphs",
+    "symbol": "MORPH20",
+    "logo": "https://lh3.googleusercontent.com/ooq7xxvwJjzXffNZ_pyct8-234WwTyHhQZUzD1oBp82EQVitaYdoxxP3s3X8i6dtYqF0bDiDQC0VoGjQDtAxaGqg97_TVoMlNYW55Q=s64",
+    "color": "#ffffff",
+    "uniswap": "https://info.uniswap.org/#/pools/0xD947FDCc67EB4E8dEdCAc393E1129eC69DD4591c",
+    "lpToken": "0xD947FDCc67EB4E8dEdCAc393E1129eC69DD4591c",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
+  }
+  ,
+  {
+    "name": "SEWER RAT SOCIAL CLUB",
+    "symbol": "SRSC20",
+    "logo": "https://lh3.googleusercontent.com/vwbDSvRqig3x97Naox7vV1yBSnUUfOz0Taq_QQZKWFVoKFPZpBmXjnrJ0OcBIWiN5HCNIvS3B7HYJggg8RQsrJHBjCjoyekDQ_ky=s120",
     "color": "#ffffff",
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
-    "uniswap_v3": false,
     "removedFees": false
   }
 ]
