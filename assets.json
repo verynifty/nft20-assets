@@ -1178,5 +1178,16 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "Lucky Maneki",
+    "symbol": " MANEKI20",
+    "logo": "https://lh3.googleusercontent.com/R0lowv4sI8S6h0MB5TKKBu12BgWTtkWLKE6EspcGzb5KXfEhhdnNKRWtn06pPRajKK-FO9zHhuPkiVI523NaeZU_bfRX_em1dzj7=s130",
+    "color": "#ffffff",
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
