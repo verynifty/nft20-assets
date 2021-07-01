@@ -1211,5 +1211,16 @@
      "factory_version": 2,
      "uniswap_v3": false,
      "removedFees": false
+   },
+  {
+     "name": "Bored Ape Kennel Club",
+     "symbol": "BAKC20",
+     "logo": "https://lh3.googleusercontent.com/l1wZXP2hHFUQ3turU5VQ9PpgVVasyQ79-ChvCgjoU5xKkBA50OGoJqKZeMOR-qLrzqwIfd1HpYmiv23JWm0EZ14owiPYaufqzmj1=s128",
+     "color": "#ffffff",
+     "uniswap": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+     "removedFees": false
    }
 ]
