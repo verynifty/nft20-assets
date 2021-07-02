@@ -1162,10 +1162,12 @@
     "symbol": "BBC",
     "logo": "https://lh3.googleusercontent.com/QyaD6gIdSOJQPCbq9l_KgpPebbwfBqomb4Dl_yCyF1sM4qIJFz-WpXoWgtBudYGAJ1jWV_kmtJsPexZ-2laczBVUZH3oGNR-v0K4=s120",
     "color": "#ffffff",
-    "uniswap": false,
+    "uniswap": "https://info.uniswap.org/#/pools/0xbf124abd5dd70f20114adc3fe5c644f7fa027d4d",
+    "lpToken": "0xbf124abd5dd70f20114adc3fe5c644f7fa027d4d",
     "hide": false,
     "factory_version": 2,
-    "uniswap_v3": false,
+    "uniswap_v3": true,
+    "lp_fees": 3000,
     "removedFees": false
   },
   {
