@@ -1244,7 +1244,7 @@
      "logo": "https://lh3.googleusercontent.com/LIov33kogXOK4XZd2ESj29sqm_Hww5JSdO7AFn5wjt8xgnJJ0UpNV9yITqxra3s_LMEW1AnnrgOVB_hDpjJRA1uF4skI5Sdi_9rULi8=s120",
      "color": "#ffffff",
      "uniswap": "https://v2.info.uniswap.org/pair/0x1e8703458ad891fbf78c9320cd78a343fb2f73b3",
-     "lpToken": "0x97ae32f530a68a097c5587101854fd8c4789f09c",
+     "lpToken": "0x1e8703458ad891fbf78c9320cd78a343fb2f73b3",
      "hide": false,
      "factory_version": 2,
      "uniswap_v3": false,
