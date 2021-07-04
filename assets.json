@@ -1131,7 +1131,8 @@
     "symbol": "BOTB20",
     "logo": "https://lh3.googleusercontent.com/_NtqXix6Pg4hOouZyg8n6BpC5fHwQ-xEzoEo_XbFFJYWg0GtpfpDZmnt94z9cgNBluRHHTAikPLrd8r6QIRqkx8Sv8MWts8Di8JD=s64",
     "color": "#ffffff",
-    "uniswap": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0x2a9db598abb59c165773e837acffc6c6e48e1162",
+    "lpToken": "0x2a9db598abb59c165773e837acffc6c6e48e1162",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
