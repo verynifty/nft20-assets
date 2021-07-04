@@ -1274,5 +1274,32 @@
      "factory_version": 2,
      "uniswap_v3": false,
      "removedFees": false
+   },
+  {
+     "name": "CypherBot",
+     "symbol": "CBOT20",
+    "logo": "https://lh3.googleusercontent.com/Nsl0uRxL0fr0aVCw2SXa0dUKPZ3-DreJPTo-0_c_lFQaa-hFvTT-DM_DR3hShVwl_COJjlggGrPO4jERJ_L3ZFHCp50YDsJMZCK3=s120",
+     "logo": "0xc75e8439beb3eec22bbb25d7218937ea04693c74",
+     "color": "#ffffff",
+     "uniswap": "https://info.uniswap.org/#/pools/0xc9535bef6b03891bb93be47058f91fb7a9b3279e",
+     "lpToken": "0xc9535bef6b03891bb93be47058f91fb7a9b3279e",
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": true,
+    "lp_fees": 10000,
+     "removedFees": false
+   },
+    {
+     "name": "HD Punks",
+     "symbol": "HDPUNKS20",
+      "logo": "https://lh3.googleusercontent.com/Uf8HsYZ8DS8vYO19FhRbNxai0GSjewaDHdoZ8pi6b1YPuYNt8BIVjBbod0vabrDyYmpX3ETg9TUMhkRipIw4Y2u_6ueBUvP5_nYFuw=s120",
+     "color": "#ffffff",
+     "uniswap": false,
+     "lpToken": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "lp_fees": 0,
+     "removedFees": false
    }
 ]
