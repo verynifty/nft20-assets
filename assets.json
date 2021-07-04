@@ -1302,4 +1302,17 @@
     "lp_fees": 0,
      "removedFees": false
    }
+   {
+     "name": "Visitors of Imma Degen",
+     "symbol": "VOID20",
+      "logo": "https://lh3.googleusercontent.com/QgL-Fe5rQ5R4EN-DzbvPZoCILrMlrC0lRsbJMN9YERnuqeP2_IuCp1a1gTV02uRyvIV12OwS1kDmAj5UY2fMe1QgzovdfrjN4IQvOA=s130",
+     "color": "#ffffff",
+     "uniswap": false,
+     "lpToken": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "lp_fees": 0,
+     "removedFees": false
+   }
 ]
