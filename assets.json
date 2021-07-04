@@ -1199,7 +1199,8 @@
     "symbol": "SRSC20",
     "logo": "https://lh3.googleusercontent.com/vwbDSvRqig3x97Naox7vV1yBSnUUfOz0Taq_QQZKWFVoKFPZpBmXjnrJ0OcBIWiN5HCNIvS3B7HYJggg8RQsrJHBjCjoyekDQ_ky=s120",
     "color": "#ffffff",
-    "uniswap": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0x02346c6d7dcdcbfa511eb72bf61f7545f7bd2527",
+    "lpToken": "0x02346c6d7dcdcbfa511eb72bf61f7545f7bd2527",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
