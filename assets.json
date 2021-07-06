@@ -1323,7 +1323,7 @@
      "symbol": "DEGENZ20",
       "logo": "https://lh3.googleusercontent.com/vH7gGLr1U-MQ2wS_Xtxhd5UcA_y-vs4RNFIvh6_2I2zVIf9pahLQB8Om5_q80FbbOAWioTFyP5Pof7EpdY4zfrCuNEzGDWVE9bTy=s130",
      "color": "#ffffff",
-    "uniswap": "https://v2.info.uniswap.org/token/0x050dcf35ea2bf92fd2c35ca8b9a0ddf59a8e08d8",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x050dcf35ea2bf92fd2c35ca8b9a0ddf59a8e08d8",
     "lpToken": "0x050dcf35ea2bf92fd2c35ca8b9a0ddf59a8e08d8",
      "hide": false,
      "factory_version": 2,
