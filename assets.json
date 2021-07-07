@@ -1086,12 +1086,12 @@
     "symbol": "SDP20",
     "logo": "https://lh3.googleusercontent.com/zvtJX_zNqJsh9lJI0Ct5QcoSqK6Z1VbaKH_tTPAUC7Mr1mCi6BLc2zMSty3K9CNhiamY6O2BqOZyfF1foLPKjgMfD5ANyDDgcFn8zw=s64",
     "color": "#ffffff",
-    "uniswap": "https://info.uniswap.org/#/pools/0x4429d161f86f94180ecbbe71963d73ea74f5212c",
-    "lpToken": "0x4429d161f86f94180ecbbe71963d73ea74f5212c",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x365d11a27c4d8366ce3816c81ecc56a6ee1f69bb",
+    "lpToken": "0x365d11a27c4d8366ce3816c81ecc56a6ee1f69bb",
     "hide": false,
     "factory_version": 2,
-    "uniswap_v3": true,
-    "lp_fees": 10000,
+    "uniswap_v3": false,
+    "lp_fees": 0,
     "removedFees": false
   },
   {
