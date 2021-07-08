@@ -1336,7 +1336,8 @@
     "symbol": "DEAD20",
     "logo": "https://lh3.googleusercontent.com/m4u8qv8O3DsDz9pZo1_jAOBD9p67j5KoSTcgVy2JwfuDI1Bw309v0bPUwAKlJqpsUem1tzEZmqfeXMn1ZgIXBGdzzEBuyaSuPYi38A=s64",
     "color": "#ffffff",
-    "uniswap": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0x82a3aa57c691416c7e8515066a63996ec7e0f4fb",
+    "lpToken": "0x82a3aa57c691416c7e8515066a63996ec7e0f4fb",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
