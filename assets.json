@@ -1365,6 +1365,17 @@
      "factory_version": 2,
      "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "GOATz",
+    "symbol": "GOATZ20",
+    "logo": "https://lh3.googleusercontent.com/PNhM3guU1avuFnI1r39kG8uzxCWV2SneyJ6YEk2VbyPju5rvCaerfICixQpVG0gi4Is4d8bnhVLIpgMg8k2ph43Z0MLYl4MefpD2qA=s130",
+    "color": "#ffffff",
+     "uniswap": false,
+     "lpToken": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
   }
-
 ]
