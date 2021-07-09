@@ -1341,5 +1341,17 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "Top Dog Beach Club",
+    "symbol": "TDBC20",
+    "logo": "https://lh3.googleusercontent.com/tr3wg5r8ODofoDTEXucBjUbOWVEBYbhhuOSWUuHhd3eaGbJ3Bz6iHmanFUo-UYFeFYEnOtEsuhWOx48udrqN9WJTDkUc6_NCtYXJpQ=s130",
+    "color": "#ffffff",
+     "uniswap": false,
+     "lpToken": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
   }
 ]
