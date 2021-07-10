@@ -1377,5 +1377,16 @@
      "factory_version": 2,
      "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "BITPIX",
+    "symbol": "BitPix",
+    "logo": "https://lh3.googleusercontent.com/65cdGGe2_BV4d8wyW2M2uVdfqvxBuU4BrnpGhurBMo4jm89sgob4TdgKOLeN4p6vR1z5H3Sas_XHQESXqs3963YvF6m5K1Mo60DAFw=s64",
+    "color": "#dedede",
+     "uniswap": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
   }
 ]
