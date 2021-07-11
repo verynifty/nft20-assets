@@ -1347,8 +1347,8 @@
     "symbol": "TDBC20",
     "logo": "https://lh3.googleusercontent.com/tr3wg5r8ODofoDTEXucBjUbOWVEBYbhhuOSWUuHhd3eaGbJ3Bz6iHmanFUo-UYFeFYEnOtEsuhWOx48udrqN9WJTDkUc6_NCtYXJpQ=s130",
     "color": "#b83533",
-     "uniswap": false,
-     "lpToken": false,
+     "uniswap": "https://v2.info.uniswap.org/pair/0xe8b9a3d581cd70e8c18f8842f23327d2d24e31f1",
+     "lpToken": "0xe8b9a3d581cd70e8c18f8842f23327d2d24e31f1",
      "hide": false,
      "factory_version": 2,
      "uniswap_v3": false,
@@ -1388,5 +1388,5 @@
      "factory_version": 2,
      "uniswap_v3": false,
     "removedFees": false
-  }
+  }  
 ]
