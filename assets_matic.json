@@ -44,8 +44,8 @@
     "symbol": "ZED20",
     "logo": "https://nft-marketplace.api.matic.network/public/2021-03-16T23:03:37.844ZZED%20Matic%20-%20150%20x%20150%20-%20Trung%20Trinh.png",
     "color": "#f7c5ec",
-    "uniswap": "https://analytics-polygon.sushi.com/tokens/0x77c5aba9cd27bf721d2a6426ed1dc6859c907412",
-    "lpToken": "0x77c5aba9cd27bf721d2a6426ed1dc6859c907412",
+    "uniswap": "https://analytics-polygon.sushi.com/pairs/0xe95d382d9ff16b8ae23b297287426ef7b44e01b3",
+    "lpToken": "0xe95d382d9ff16b8ae23b297287426ef7b44e01b3",
     "factory_version": 2,
     "website": "https://zed.run/",
     "description": "Zed is a horse racing game that offers users the chance to build a stable through buying, selling and breeding digital racehorses."
