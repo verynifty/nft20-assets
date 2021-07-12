@@ -1388,5 +1388,17 @@
      "factory_version": 2,
      "uniswap_v3": false,
     "removedFees": false
-  }  
+  },
+  {
+    "name": "THE MONSTROCITIES",
+    "symbol": "MONSTRO20",
+    "logo": "https://lh3.googleusercontent.com/KlIwruR_wKumVrawUXYBGOWxgasNRwHiVVAfx1-O0tlg7f5WVhVZtNhoSWlVDmSD9osdLSUWYpz_OOk7NMH4lR_g7Y67cIrahNc9=s64",
+    "color": "#dedede",
+     "uniswap": "https://v2.info.uniswap.org/pair/0x783aE62Bb153a55371F8680c85a6CDef93b2899A",
+     "lpToken": "0x783aE62Bb153a55371F8680c85a6CDef93b2899A",
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
+  } 
 ]
