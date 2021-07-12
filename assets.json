@@ -108,6 +108,7 @@
     "uniswap": "https://v2.info.uniswap.org/pair/0xaa617c8726adfde9e7b08746457e6b90ddb21480",
     "factory_version": 2,
     "lpToken": "0xaa617c8726adfde9e7b08746457e6b90ddb21480",
+    "guide": "https://medium.com/nft20-guides/a-detailed-guide-for-using-the-hashmasks-nft20-pool-8dc817f6685c",
     "uniswap_v3": false
   },
   {
@@ -882,6 +883,7 @@
     "uniswap": "https://v2.info.uniswap.org/pair/0x67513ffFec1F9BC1E7D971D067446205049Ffe71",
     "hide": false,
     "factory_version": 2,
+    "guide": "https://medium.com/nft20-guides/a-detailed-guide-for-using-the-cyberkongz-nft20-pool-11092b3ec75a",
     "removedFees": false
   },
   {
@@ -893,6 +895,7 @@
     "uniswap": "https://v2.info.uniswap.org/pair/0xa39ce99cc323472a27602017eeec4f2ea828a737",
     "hide": false,
     "factory_version": 2,
+    "guide": "https://medium.com/nft20/how-to-use-the-bored-ape-yacht-club-nft20-pool-9c8bc230ff85",
     "removedFees": false
   },
   {
@@ -969,6 +972,7 @@
     "logo": "https://guttercatgang.com/wp-content/uploads/2021/06/guttercat_0019_Layer-4.png",
     "hide": false,
     "factory_version": 2,
+    "guide": "https://medium.com/nft20/how-to-use-the-gutter-cat-gang-nft20-pool-65bf92d1274",
     "removedFees": false
   },
    {
@@ -1002,6 +1006,7 @@
     "lpToken": "0x2e5552c727883dc230d3f1b41a23a3579fccebb4",
     "hide": false,
     "factory_version": 2,
+    "guide": "https://medium.com/nft20/a-detailed-guide-for-using-the-super-yeti-nft20-pool-dda14be436ae",
     "removedFees": false
   },
   {
@@ -1013,6 +1018,7 @@
     "lpToken": "0x7618abc852cfb5c05e8d75cdf8f21222c09c2f0a",
     "hide": false,
     "factory_version": 2,
+    "guide": "https://medium.com/nft20/a-detailed-guide-for-using-my-fucking-pickle-nft20-pool-f6b5493d5728",
     "removedFees": false
   },
   {
@@ -1024,6 +1030,7 @@
     "lpToken": "0x3435bacbb79baa5c4019419dc21db790d47595d8",
     "hide": false,
     "factory_version": 2,
+    "guide": "https://medium.com/nft20/a-detailed-guide-for-using-the-alien-boy-nft20-pool-96656eb8a6e3",
     "removedFees": false
   },
   {
@@ -1037,6 +1044,7 @@
     "lp_fees": 0,
     "hide": false,
     "factory_version": 2,
+    "guide": "https://medium.com/nft20-guides/a-detailed-guide-for-using-the-wicked-craniums-nft20-pool-be79b356733",
     "removedFees": false
   }, 
   {
@@ -1092,6 +1100,7 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "lp_fees": 0,
+    "guide": "https://medium.com/nft20/a-detailed-guide-for-using-the-slacker-duck-pond-nft20-pool-2aac91163594",
     "removedFees": false
   },
   {
@@ -1192,6 +1201,7 @@
     "hide": false,
     "uniswap_v3": false,
     "factory_version": 2,
+    "guide": "https://medium.com/nft20/how-to-use-th-polymorphs-nft20-pool-9662bd6ee424",
     "removedFees": false
   },
   {
@@ -1203,6 +1213,7 @@
     "lpToken": "0x02346c6d7dcdcbfa511eb72bf61f7545f7bd2527",
     "hide": false,
     "factory_version": 2,
+    "guide": "https://medium.com/nft20-guides/a-detailed-guide-for-using-the-sewer-rat-social-club-nft20-pool-296355e8afaa",
     "removedFees": false
   },
   {
@@ -1215,7 +1226,8 @@
      "hide": false,
      "factory_version": 2,
      "uniswap_v3": false,
-     "removedFees": false
+     "guide": "https://medium.com/nft20/a-detailed-guide-for-using-the-lucky-maneki-nft20-pool-b2da59dd6aab",
+    "removedFees": false
    },
   {
      "name": "Bored Ape Kennel Club",
@@ -1251,6 +1263,7 @@
      "hide": false,
      "factory_version": 2,
      "uniswap_v3": false,
+     "guide": "https://medium.com/nft20/how-to-use-the-cool-cats-liquidity-pool-7403b902a461",
      "removedFees": false
    },
     {
@@ -1276,6 +1289,7 @@
      "hide": false,
      "factory_version": 2,
      "uniswap_v3": false,
+     "guide": "https://medium.com/nft20/how-to-use-the-punks-comic-nft20-pool-e671a962ef68",
      "removedFees": false
    },
   {
@@ -1328,7 +1342,8 @@
      "hide": false,
      "factory_version": 2,
      "uniswap_v3": false,
-    "lp_fees": 0,
+     "lp_fees": 0,
+     "guide": "https://medium.com/nft20-guides/how-to-use-the-degenz-nft20-pool-5b3df3810d69",
      "removedFees": false
    },
   {
@@ -1375,7 +1390,8 @@
      "lpToken": "0x6D8554C0F2844F299A3E3a39b59AFB9BCCBb12d0",
      "hide": false,
      "factory_version": 2,
-     "uniswap_v3": false,
+    "uniswap_v3": false,
+    "guide": "https://medium.com/nft20-guides/a-detailed-guide-for-using-the-goatz-nft20-pool-8377cac137b5",
     "removedFees": false
   },
   {
