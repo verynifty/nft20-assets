@@ -1412,5 +1412,17 @@
      "factory_version": 2,
      "uniswap_v3": false,
     "removedFees": false
-  } 
+  },
+   {
+    "name": "CryptoPhunksV2",
+    "symbol": "PHUNK20",
+    "logo": "https://lh3.googleusercontent.com/ccdmIcd5la0zycmAZ4zPowfZtFZQrXiYzWjmvdjJLjpwu7FcY-C85V_9Vm_YV5g8pCbL0UaEdG8aaKAbzUw-Vo7BU2tNN6n1DEoDcw=s0,
+    "color": "#dedede",
+     "uniswap": false,
+     "lpToken": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
+  }  
 ]
