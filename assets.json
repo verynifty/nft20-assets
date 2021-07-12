@@ -1400,5 +1400,17 @@
      "factory_version": 2,
      "uniswap_v3": false,
     "removedFees": false
+  },
+   {
+    "name": "Untamed Elephants",
+    "symbol": "UE20",
+    "logo": "https://lh3.googleusercontent.com/CPAMFIGqkWBBChPab5ZH7oVEvbTnTEjjFXNkkngzhIk6DnS4Fplh7zmNCjAd4fWFAy18N9olYjRwwQ3cgGUHJcLX1FVbSon0T0y5bQ=s120",
+    "color": "#dedede",
+     "uniswap": false,
+     "lpToken": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
   } 
 ]
