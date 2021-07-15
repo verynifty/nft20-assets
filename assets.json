@@ -1441,5 +1441,29 @@
      "factory_version": 2,
      "uniswap_v3": false,
     "removedFees": false
-  }  
+  },
+   {
+    "name": "FuckCashGrabs",
+    "symbol": "FUCK20",
+    "logo": "https://lh3.googleusercontent.com/1D4jaHZGnXUAmDFlxBBxcykJ1kxXntScDLYWqToottDrnycxIboqNec6wl0EDCW2Ki57Epuu1w7LP1T7UV9du0kEIFbmMpIdnRm93UA=s130",
+    "color": "#dedede",
+     "uniswap": false,
+     "lpToken": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
+  },
+  {
+    "name": "Rabbit College Club",
+    "symbol": "RCC20",
+    "logo": "https://lh3.googleusercontent.com/TfVziuiPHWfELnXRZYOTw8qHPWTwG0-wNzeqvt_4K8XMdTfSKsCsfZ7_JgVxiTpSMj46doD0J60KU2Krp6IfJIxYbu8kFt5h_Pvt4W0=s130",
+    "color": "#dedede",
+     "uniswap": false,
+     "lpToken": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
+  }
 ]
