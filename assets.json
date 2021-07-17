@@ -1465,5 +1465,17 @@
      "factory_version": 2,
      "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "DEGEN'$ FARM CREATURES",
+    "symbol": "DGNFRM20",
+    "logo": "https://lh3.googleusercontent.com/FQvMwDNvkmibY3i58cUxnq2bLxxqpW-SP26kgVxUgL0-i9bykp23XvFOtuSl6PoCwPxxHvHTk8Py9Ruiv4Gd0H_-pOJwVwSqb-mt3A=s130",
+    "color": "#dedede",
+     "uniswap": false,
+     "lpToken": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
   }
 ]
