@@ -55,7 +55,8 @@
     "symbol": "MRBL20",
     "logo": "https://lh3.googleusercontent.com/JHs53JRA6f3VcBqqORnoL4_q4kLDeZkDgZkmbY3iziyQQ14IRtP3mQglePCmHpXE_fit88FH8cAFMUA3j54mivAA=s64",
     "color": "#221dcc",
-    "uniswap": false,
+    "uniswap": "https://charts.cometh.io/pair/0xc59c35eba258da5a11df84bcf71991c6276d98dd",
+    "lpToken": "0xc59c35eba258da5a11df84bcf71991c6276d98dd",
     "factory_version": 2,
     "website": "https://marble.cards/",
      "metadata": "https://ws.marble.cards/marble/token/",
@@ -200,5 +201,38 @@
     "factory_version": 2,
        "metadata": "https://aavegotchi.com/metadata/aavegotchis/",
        "metadata_extension": false
+  },  
+  {
+    "name": "EGG",
+    "symbol": "EGG",
+    "logo": "https://lh3.googleusercontent.com/Cu6LPpeyd0KoW6qmF3KZsJn9QaNyfFoAXJgyVJVza8ez9Y_vt3kaYgk5EqOZxoZTJjg4Y984qtRrJwT70VzrH_joeg7Sr7PW8T3y=s0",
+    "color": "#c163f6",
+    "uniswap": "https://charts.cometh.io/pair/0xD2c2EE6213957F754059ed7a0f29ec3197446076",
+    "lpToken": "0xD2c2EE6213957F754059ed7a0f29ec3197446076",
+    "factory_version": 2,
+    "metadata": null,
+    "metadata_extension": false
+  },  
+  {
+    "name": "BEANS BEANS BEANS",
+    "symbol": "BEANS",
+    "logo": "https://lh3.googleusercontent.com/qESI9j0AkSIya6Ee3bxdOQlf4-nZKs4kXU126xzsUAz06QLHvP2wJq08rXvgCzSIrp6hGHoxrb0Jbgw9d-VUVPDu0j3crbYvwFtvHQ=s120",
+    "color": "#c163f6",
+    "uniswap": "https://charts.cometh.io/pair/0xc6095764e0d7e684310bcc695e1b3f66354ce587",
+    "lpToken": "0xc6095764e0d7e684310bcc695e1b3f66354ce587",
+    "factory_version": 2,
+    "metadata": null,
+    "metadata_extension": false
+  },  
+  {
+    "name": "GBILLZ",
+    "symbol": "GBILLZ",
+    "logo": "https://lh3.googleusercontent.com/uJj20TLJg1po-vs7sHcJ4TdMpnmAegj8X47vW-Mb4PYFAiPwoH2BGXGRx6sEVhNMWWUXmsYUR3oWSLc5NEqS3h0lC4I7HRs_GhKUJQ=s120",
+    "color": "#c163f6",
+    "uniswap": "https://charts.cometh.io/pair/0x4f47a0cc2abb3c50e06b2f4e03064dfba4a49093",
+    "lpToken": "0x4f47a0cc2abb3c50e06b2f4e03064dfba4a49093",
+    "factory_version": 2,
+    "metadata": null,
+    "metadata_extension": false
   }
 ]
