@@ -1477,5 +1477,19 @@
      "factory_version": 2,
      "uniswap_v3": false,
     "removedFees": false
+  },
+   {
+    "name": "FameLadySquad",
+    "symbol": "FLS20",
+    "logo": "https://fameladysquad.com/images/image02.png",
+    "color": "#dedede",
+     "uniswap": false,
+     "lpToken": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
   }
+  
+  
 ]
