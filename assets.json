@@ -1489,6 +1489,18 @@
      "factory_version": 2,
      "uniswap_v3": false,
     "removedFees": false
+  },
+     {
+    "name": "SpaceShibas",
+    "symbol": "SHIBAS20",
+    "logo": "https://lh3.googleusercontent.com/7xeoxVDgPib-ZKnYB5JWb56msoQTnEpPkGlTwaSxjaiS4WhFy3dsOteWW1oFsa7tgm8uFpJCcyurFjDeX0c_FtZCsWrKdF1HeBqB=s120",
+    "color": "#dedede",
+     "uniswap": "https://v2.info.uniswap.org/pair/0xbc5f320b900bda049b9c8f03e1d88bfd08ad3435",
+     "lpToken": "0xbc5f320b900bda049b9c8f03e1d88bfd08ad3435",
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
   }
   
   
