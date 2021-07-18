@@ -1501,7 +1501,17 @@
      "factory_version": 2,
      "uniswap_v3": false,
     "removedFees": false
+  },
+     {
+    "name": "CRYPTO HODLERS",
+    "symbol": "CRHDL20",
+    "logo": "https://lh3.googleusercontent.com/DBhm94zFLr4BaOeXgh9x68k8Og7j11fLZgdE6vLxLxI_3l2el8gBBrGh25UdmesDh0LQZVx5cx_ymlwJ5I2OGi42tSlrL_Kx9NXUOQ=s120",
+    "color": "#dedede",
+     "uniswap": "https://v2.info.uniswap.org/pair/0xafea43cb019c70b657585ee55a32002388e8d04f",
+     "lpToken": "0xafea43cb019c70b657585ee55a32002388e8d04f",
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
   }
-  
-  
 ]
