@@ -1490,7 +1490,7 @@
      "uniswap_v3": false,
     "removedFees": false
   },
-     {
+   {
     "name": "SpaceShibas",
     "symbol": "SHIBAS20",
     "logo": "https://lh3.googleusercontent.com/7xeoxVDgPib-ZKnYB5JWb56msoQTnEpPkGlTwaSxjaiS4WhFy3dsOteWW1oFsa7tgm8uFpJCcyurFjDeX0c_FtZCsWrKdF1HeBqB=s120",
@@ -1502,13 +1502,24 @@
      "uniswap_v3": false,
     "removedFees": false
   },
-     {
+   {
     "name": "CRYPTO HODLERS",
     "symbol": "CRHDL20",
     "logo": "https://lh3.googleusercontent.com/DBhm94zFLr4BaOeXgh9x68k8Og7j11fLZgdE6vLxLxI_3l2el8gBBrGh25UdmesDh0LQZVx5cx_ymlwJ5I2OGi42tSlrL_Kx9NXUOQ=s120",
     "color": "#dedede",
      "uniswap": "https://v2.info.uniswap.org/pair/0xafea43cb019c70b657585ee55a32002388e8d04f",
      "lpToken": "0xafea43cb019c70b657585ee55a32002388e8d04f",
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
+  },
+   {
+    "name": "WEIRDWHALES",
+    "symbol": "WHALE20",
+    "logo": "https://lh3.googleusercontent.com/88MMlyhOGXV85s2yTqowslZsU6CObwC7tFOUi5faTs9jR3KRaBAyg5hRK1SuwJZw7iO6JersTiiHM-vJ_oA1iwQ_0SEwxfboNaoY=s64",
+    "color": "#dedede",
+     "uniswap": false,
      "hide": false,
      "factory_version": 2,
      "uniswap_v3": false,
