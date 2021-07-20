@@ -1524,5 +1524,16 @@
      "factory_version": 2,
      "uniswap_v3": false,
     "removedFees": false
+  },
+   {
+    "name": "LONELY ALIEN SPACE CLUB",
+    "symbol": "LASC",
+    "logo": "https://lh3.googleusercontent.com/oSfF6-Rq1oT4jdKvaQUGSo_7vTRkUc2UdpTOnd0EQMnFA5d7T63l_0QnOfLzcBItp79r3Iczt1qiHAKhZ9o_L5ZBR_IYIh4hE9asmKQ=s64",
+    "color": "#dedede",
+     "uniswap": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
   }
 ]
