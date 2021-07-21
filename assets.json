@@ -1547,15 +1547,59 @@
      "uniswap_v3": false,
     "removedFees": false
   },
-   {
-    "name": "MAD CAT MILITIA",
-    "symbol": "MCM",
-    "logo": "https://lh3.googleusercontent.com/y1GRiCklakELsK2PStt0pek045UCMIho2th8OsxcjiAcOUKxwRaIb95A05zF8Q1EZmwxZQCJekBktzp_uHMb__KygzJI0ocyRIqZSA=s64",
+  {
+    "name": "Kamagang",
+    "symbol": "KAMA20",
+    "logo": "https://lh3.googleusercontent.com/fv0lI0knPUgEd068UevTGEBIzn9FOXaN-QoHuh72IXSSalx-I3y3zDg6aJANLIJ1d73XEPS6kS30EEto3MV3wRmkVvgbjPezUzgRkMo=s130",
     "color": "#dedede",
      "uniswap": false,
      "hide": false,
      "factory_version": 2,
      "uniswap_v3": false,
     "removedFees": false
-  }
+  },
+  {
+    "name": "Qubits On The Ice",
+    "symbol": "QUBIT20",
+    "logo": "https://lh3.googleusercontent.com/I2kenJgxBWFsN-31ZxH5hkQWYMQGOev8rTb35KukR5CKH7ONs5ZiQMEAnSHNqvydnpOsvQMUQYKFn1_ekZLXmQbsWbflpKiFHJl_Tlo=s130",
+    "color": "#dedede",
+     "uniswap": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
+  },
+  {
+    "name": "MaestroPups",
+    "symbol": "PUPS20",
+    "logo": "https://lh3.googleusercontent.com/d47DW1NdOQeafPRG6MiVADmntI00N6DqwYc03xfKjywzGUYfbu_Zp4ZcAj9Q6OO4Wb1kLhmsZRl6TmwNcFkJuA5yeugSyjxJsg6kJg=s130",
+    "color": "#dedede",
+     "uniswap": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
+  },
+  {
+    "name": "BYOPills",
+    "symbol": "BYO20",
+    "logo": "https://lh3.googleusercontent.com/zhCC9jZrj9037Ex59PZBS1ABu8wAhWc-K-VkaTN5QRM2lfi-8e2e93VJvXO6iXZlbGzxpNQ4TRAK9aNrN61E8wp5C7zA5qjWyozm3w=s130",
+    "color": "#dedede",
+     "uniswap": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
+  },
+  {
+    "name": "Evaverse",
+    "symbol": "EVA20",
+    "logo": "https://lh3.googleusercontent.com/Y7Jq7ehCEiVrEBR6U4b8-f8stuU-I72dxJjiM9sqts9wQMj8W7H1M2Yrm0SPIStoJoXyLcd33zOYzUxLCG-L8DU8kO64ZonQxoA9tA=s130",
+    "color": "#dedede",
+     "uniswap": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
+  }  
 ]
