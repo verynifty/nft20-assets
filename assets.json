@@ -1535,5 +1535,16 @@
      "factory_version": 2,
      "uniswap_v3": false,
     "removedFees": false
+  },
+   {
+    "name": "RECKLESS WHALES",
+    "symbol": "RWHALE20",
+    "logo": "https://lh3.googleusercontent.com/AMcucsCR-7ZeFTR2dt-v949IO-hpwUPzKSDbgiR32I-lXJHejH1D9RA-DBxylQC2-GJouUEbnBpV0qdbNZq3ssguamCxmELZO1WGoA=s64",
+    "color": "#dedede",
+     "uniswap": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
   }
 ]
