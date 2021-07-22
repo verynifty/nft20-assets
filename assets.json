@@ -1554,6 +1554,7 @@
     "color": "#dedede",
      "uniswap": false,
      "hide": false,
+      "guide": "https://medium.com/nft20-guides/a-detailed-guide-for-using-the-mad-cat-militia-nft20-pool-6a4aba6f7d9c",
      "factory_version": 2,
      "uniswap_v3": false,
     "removedFees": false
