@@ -1610,6 +1610,7 @@
     "uniswap": "https://v2.info.uniswap.org/pair/0x2eccad8c2b54df26811094f299b88759ecf5056b",
     "lpToken": "0x2eccad8c2b54df26811094f299b88759ecf5056b",
     "hide": false,
+    "guide": "https://medium.com/nft20-guides/a-detailed-guide-for-using-the-gorilla-nemesis-nft20-pool-bcc32275453e",
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
