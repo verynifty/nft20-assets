@@ -1614,5 +1614,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "GALACTIC SECRET AGENCY",
+    "symbol": "GSA20",
+    "logo": "https://lh3.googleusercontent.com/JjjIijPiIZpb42pvbm4hwCjuZv0uM2qfSn6T_8Z2z4npTCdSKT1GOAvckbEHsQ5_K7lRyGAvv6ffVitp6x4-SCQ9KvZajEBPT5nepkI=s120",
+    "color": "#dedede",
+     "uniswap": "https://v2.info.uniswap.org/pair/0x7b9ff72a22f328023e951e142e63103a0acafc61",
+     "lpToken": "0x7b9ff72a22f328023e951e142e63103a0acafc61",
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
   }
 ]
