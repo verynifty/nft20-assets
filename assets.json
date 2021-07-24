@@ -1626,5 +1626,16 @@
      "factory_version": 2,
      "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "Hall Of Fame Goat Lodge",
+    "symbol": "GOAT20",
+    "logo": "https://lh3.googleusercontent.com/9aFLF3BsRUeiReE1xu-mVgLAh4WZDWslj5JvYpr1hh5G7EeZHSzKAGQPGBmBKz4NnlYlx9RE5KCSMQBu1ecJw5f4RtVyEYPCPS1x=s130",
+    "color": "#dedede",
+     "uniswap": false,
+     "hide": false,
+     "factory_version": 2,
+     "uniswap_v3": false,
+    "removedFees": false
   }
 ]
