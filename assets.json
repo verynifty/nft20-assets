@@ -1646,6 +1646,7 @@
     "uniswap": "https://v2.info.uniswap.org/pair/0x9beb564b2b6f7e4136a215b00703ae0118d2e9c9",
     "lpToken": "0x9beb564b2b6f7e4136a215b00703ae0118d2e9c9",
     "hide": false,
+    "guide": "https://medium.com/nft20-guides/a-detailed-guide-for-using-the-thetigersguild-nft20-pool-baefa1e72c76",
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
