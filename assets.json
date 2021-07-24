@@ -1574,10 +1574,10 @@
     "symbol": "PUPS20",
     "logo": "https://lh3.googleusercontent.com/d47DW1NdOQeafPRG6MiVADmntI00N6DqwYc03xfKjywzGUYfbu_Zp4ZcAj9Q6OO4Wb1kLhmsZRl6TmwNcFkJuA5yeugSyjxJsg6kJg=s130",
     "color": "#dedede",
-     "uniswap": false,
-     "hide": false,
-     "factory_version": 2,
-     "uniswap_v3": false,
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
     "removedFees": false
   },
   {
@@ -1585,10 +1585,10 @@
     "symbol": "BYO20",
     "logo": "https://lh3.googleusercontent.com/zhCC9jZrj9037Ex59PZBS1ABu8wAhWc-K-VkaTN5QRM2lfi-8e2e93VJvXO6iXZlbGzxpNQ4TRAK9aNrN61E8wp5C7zA5qjWyozm3w=s130",
     "color": "#dedede",
-     "uniswap": false,
-     "hide": false,
-     "factory_version": 2,
-     "uniswap_v3": false,
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
     "removedFees": false
   },
   {
@@ -1596,10 +1596,10 @@
     "symbol": "EVA20",
     "logo": "https://lh3.googleusercontent.com/Y7Jq7ehCEiVrEBR6U4b8-f8stuU-I72dxJjiM9sqts9wQMj8W7H1M2Yrm0SPIStoJoXyLcd33zOYzUxLCG-L8DU8kO64ZonQxoA9tA=s130",
     "color": "#dedede",
-     "uniswap": false,
-     "hide": false,
-     "factory_version": 2,
-     "uniswap_v3": false,
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
     "removedFees": false
   },
    {
@@ -1620,11 +1620,11 @@
     "symbol": "GSA20",
     "logo": "https://lh3.googleusercontent.com/JjjIijPiIZpb42pvbm4hwCjuZv0uM2qfSn6T_8Z2z4npTCdSKT1GOAvckbEHsQ5_K7lRyGAvv6ffVitp6x4-SCQ9KvZajEBPT5nepkI=s120",
     "color": "#dedede",
-     "uniswap": "https://v2.info.uniswap.org/pair/0x7b9ff72a22f328023e951e142e63103a0acafc61",
-     "lpToken": "0x7b9ff72a22f328023e951e142e63103a0acafc61",
-     "hide": false,
-     "factory_version": 2,
-     "uniswap_v3": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0x7b9ff72a22f328023e951e142e63103a0acafc61",
+    "lpToken": "0x7b9ff72a22f328023e951e142e63103a0acafc61",
+    "hide": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
     "removedFees": false
   },
   {
@@ -1632,10 +1632,22 @@
     "symbol": "GOAT20",
     "logo": "https://lh3.googleusercontent.com/9aFLF3BsRUeiReE1xu-mVgLAh4WZDWslj5JvYpr1hh5G7EeZHSzKAGQPGBmBKz4NnlYlx9RE5KCSMQBu1ecJw5f4RtVyEYPCPS1x=s130",
     "color": "#dedede",
-     "uniswap": false,
-     "hide": false,
-     "factory_version": 2,
-     "uniswap_v3": false,
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  },
+  {
+    "name": "THETIGERSGUILD",
+    "symbol": "TTGD20",
+    "logo": "https://lh3.googleusercontent.com/tJj5e9Snkul8w0iF5oZhNn1O7D0cLHpZxu41klxpDY-IOZt1m8OhfoMag8GxDOEQuJje_OEDGhnvubgc6wIAstJzMTzAovBZ3ACBPw=s120",
+    "color": "#dedede",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x9beb564b2b6f7e4136a215b00703ae0118d2e9c9",
+    "lpToken": "0x9beb564b2b6f7e4136a215b00703ae0118d2e9c9",
+    "hide": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
     "removedFees": false
   }
 ]
