@@ -1660,6 +1660,7 @@
     "lpToken": "0x07138071fc2E21aae59c126dce1695A648A78e94",
     "hide": false,
     "factory_version": 2,
+    "guide": "https://medium.com/nft20-guides/a-detailed-guide-for-using-the-pixelglyphs-nft20-pool-244482e499",
     "uniswap_v3": false,
     "removedFees": false
   }
