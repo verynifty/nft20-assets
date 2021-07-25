@@ -1529,11 +1529,12 @@
     "symbol": "WHALE20",
     "logo": "https://lh3.googleusercontent.com/AMcucsCR-7ZeFTR2dt-v949IO-hpwUPzKSDbgiR32I-lXJHejH1D9RA-DBxylQC2-GJouUEbnBpV0qdbNZq3ssguamCxmELZO1WGoA=s64",
     "color": "#dedede",
-     "uniswap": "https://v2.info.uniswap.org/pair/0xe746d8240c4eb35ebad26bbeb6798757d17bfee8",
+    "uniswap": "https://v2.info.uniswap.org/pair/0xe746d8240c4eb35ebad26bbeb6798757d17bfee8",
     "lpToken": "0xe746d8240c4eb35ebad26bbeb6798757d17bfee8",
-     "hide": false,
-     "factory_version": 2,
-     "uniswap_v3": false,
+    "hide": false,
+    "guide": "https://medium.com/nft20-guides/a-detailed-guide-for-using-the-reckless-whale-nft20-pool-933a82eab18",
+    "factory_version": 2,
+    "uniswap_v3": false,
     "removedFees": false
   },
   {
