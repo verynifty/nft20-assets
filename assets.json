@@ -1650,5 +1650,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "PixelGlyphs",
+    "symbol": "PxG20",
+    "logo": "https://lh3.googleusercontent.com/CVNrW79CrsCsF_oiNHicb7p6dy6uO6suXgNZUvGBniFi2zYC2WPbZ7YEY5Nm99TDE1ph389Sa3ql0_GKWO0OmZpUXr6I8W4MmtG0=s130",
+    "color": "#dedede",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x07138071fc2E21aae59c126dce1695A648A78e94",
+    "lpToken": "0x07138071fc2E21aae59c126dce1695A648A78e94",
+    "hide": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
