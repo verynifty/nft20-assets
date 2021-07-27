@@ -1664,5 +1664,17 @@
     "guide": "https://medium.com/nft20-guides/a-detailed-guide-for-using-the-pixelglyphs-nft20-pool-244482e499",
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "Blazed Cats",
+    "symbol": "BLAZED20",
+    "logo": "https://lh3.googleusercontent.com/WbYbqQyTeGkZYc775-OBwGLxowkhPoTQ5NNh-W-esHdBns2e7wpkwarmgiVniwjBUpjq-HfyYGR4um8yaD1TbmiWLHJQbuhSCX5VgPQ=s130",
+    "color": "#dedede",
+    "uniswap": "https://v2.info.uniswap.org/pair/0xe041bfb26f88a8cf1a2e8e35b0dafc3468c8fec9",
+    "lpToken": "0xe041bfb26f88a8cf1a2e8e35b0dafc3468c8fec9",
+    "hide": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
