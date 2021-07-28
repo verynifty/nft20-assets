@@ -1673,6 +1673,7 @@
     "uniswap": "https://v2.info.uniswap.org/pair/0xe041bfb26f88a8cf1a2e8e35b0dafc3468c8fec9",
     "lpToken": "0xe041bfb26f88a8cf1a2e8e35b0dafc3468c8fec9",
     "hide": false,
+    "guide": "https://medium.com/nft20-guides/a-detailed-guide-for-using-the-blazed-cats-nft20-pool-881ce9df39e7",
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
