@@ -1677,5 +1677,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "THE WOLFGANG",
+    "symbol": "WOLF20",
+    "logo": "https://lh3.googleusercontent.com/6ryiJWWrm27TkbXYEhfxfhrA5H6eqUQXih8UQSeHx5pwVFdS3jJTBwNXi_9N3EP2pO-czkyKGqV9Pnwvjn8qIAWeWSkkFEpMJlfH=s120",
+    "color": "#dedede",
+    "uniswap": false,
+    "hide": false,
+    "guide": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
