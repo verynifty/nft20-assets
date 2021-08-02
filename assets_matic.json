@@ -234,5 +234,16 @@
     "factory_version": 2,
     "metadata": null,
     "metadata_extension": false
+  },  
+  {
+    "name": "MURALL NFT SHARDS",
+    "symbol": "PNT20",
+    "logo": "https://lh3.googleusercontent.com/fjLdZ3gt8hWZ3qKedfMUZ_rTdeL6wP6YT2UPy2ZCLONJ-biL3L-sxBrwDgGvC26cBWybUVhavrF6eF0O2laeJoHRQywtmzYRSAQVzQ=s120",
+    "color": "#c163f6",
+    "uniswap": "https://charts.cometh.io/pair/0xd906479Ddb8c128263F02EBC2FA322CF7579f098",
+    "lpToken": "0xd906479Ddb8c128263F02EBC2FA322CF7579f098",
+    "factory_version": 2,
+    "metadata": null,
+    "metadata_extension": false
   }
 ]
