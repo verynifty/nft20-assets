@@ -1689,5 +1689,41 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
-  }
+  },
+  {
+    "name": "Ape Harbour Yachts",
+    "symbol": "YACHT20",
+    "logo": "https://lh3.googleusercontent.com/0HEFF6a2VheilPkrwamdMydRBFec0UHNA5CTAqiZKoE3IHAmVz55vGaGrRSRIFRbl8coozxGh0arruRn62NnXyKyNxtnXCk9Czw_=s130",
+    "color": "#dedede",
+    "uniswap": false,
+    "hide": false,
+    "guide": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  },
+  {
+    "name": "Ape Harbour Dinghies",
+    "symbol": "DINGHY20",
+    "logo": "https://lh3.googleusercontent.com/0HEFF6a2VheilPkrwamdMydRBFec0UHNA5CTAqiZKoE3IHAmVz55vGaGrRSRIFRbl8coozxGh0arruRn62NnXyKyNxtnXCk9Czw_=s130",
+    "color": "#dedede",
+    "uniswap": false,
+    "hide": false,
+    "guide": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  },
+  {
+    "name": "The Wicked Stallions",
+    "symbol": "STALLION20",
+    "logo": "https://lh3.googleusercontent.com/cGl2brjQSuXcBDuxpbYv_EF0HozM9NamHjXS8vUa9dFfFjeksCoRyG_pjVchQS8g27ii2ZCYsCXZB6SpL85rluYU2ISvBFz8Rrw3ug=s130",
+    "color": "#dedede",
+    "uniswap": false,
+    "hide": false,
+    "guide": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  }  
 ]
