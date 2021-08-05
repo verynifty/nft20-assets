@@ -1122,6 +1122,7 @@
     "lpToken": "0xaf9c98cf6e5a63442d6599a44f113fcbbd7c9338",
     "lp_fees": 10000,
     "hide": false,
+    "guide": "https://medium.com/nft20-guides/a-detailed-guide-for-using-the-dystopunks-v2-nft20-pool-b5448c8bd04a",
     "factory_version": 2,
     "uniswap_v3": true,
     "removedFees": false
