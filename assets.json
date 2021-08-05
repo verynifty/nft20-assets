@@ -1120,7 +1120,7 @@
     "color": "#8cfb9d",
     "uniswap": "https://info.uniswap.org/#/pools/0xaf9c98cf6e5a63442d6599a44f113fcbbd7c9338",
     "lpToken": "0xaf9c98cf6e5a63442d6599a44f113fcbbd7c9338",
-    lp_fees: 1000,
+    "lp_fees": 1000,
     "hide": false,
     "factory_version": 2,
     "uniswap_v3": true,
