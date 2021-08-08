@@ -627,6 +627,7 @@
     "uniswap": "https://v2.info.uniswap.org/pair/0x75eFD92Ff443c3D3342eaA64Dd32Be387F5ef328",
     "lpToken": "0x75eFD92Ff443c3D3342eaA64Dd32Be387F5ef328",
     "hide": false,
+    "guide": "https://medium.com/nft20/how-to-use-the-chubbies-nft20-pool-38aae6b7f9fa",
     "factory_version": 2,
     "removedFees": false 
   },
