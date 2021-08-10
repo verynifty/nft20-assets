@@ -1727,5 +1727,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+    {
+    "name": "AlphaBetty Doodles",
+    "symbol": "ABD",
+    "logo": "https://lh3.googleusercontent.com/EVGmlNOYT4yeXYKOpt1f_BRpzouJyCSuWxefy2YoDlsuP8ftVSFOKtaVQdN7AOsUfsb_dVfk7PA-54V1ECe4MNks4jCMdmYdcGPjwg=s120",
+    "color": "#dedede",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x230495120dadf6cc77907a4ecff8681e320bdfe7",
+    "hide": false,      
+    "lpToken": "0x230495120dadf6cc77907a4ecff8681e320bdfe7",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }  
 ]
