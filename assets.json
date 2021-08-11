@@ -1751,7 +1751,18 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
-  }  
+  },
+     {
+    "name": "ForgottenRunesWizardsCult",
+    "symbol": "WIZARDS20",
+    "color": "#dedede",
+    "uniswap": false,
+    "hide": false,      
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  } 
   
   
 ]
