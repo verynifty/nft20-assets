@@ -1739,5 +1739,19 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+      {
+    "name": "Arabian Camels",
+    "symbol": "CAMELS20",
+    "logo": "https://lh3.googleusercontent.com/TGMPFCWhKi4wC8k93MqvquFZAJwec6SM0FxtKZOfhY38GMBU-1PLaTw6vYklUnjKYO8Va5cJ8NQBf0EPcZO_Rfgw2IPXxjcSXiKBKQ=s120",
+    "color": "#dedede",
+    "uniswap": false,
+    "hide": false,      
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }  
+  
+  
 ]
