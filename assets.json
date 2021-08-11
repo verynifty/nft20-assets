@@ -744,7 +744,8 @@
     "symbol": "CURIO20",
     "logo": "https://pbs.twimg.com/profile_images/1376287411894882310/orAZZFzY_400x400.png",
     "color": "#f27243",
-    "uniswap": false,
+    "lpToken": "0x9d7797d0d5a238b658ef38c73e2cd6ed63604a9c",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x9d7797d0d5a238b658ef38c73e2cd6ed63604a9c",
     "hide": false,
     "factory_version": 2,
     "removedFees": false
