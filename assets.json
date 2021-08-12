@@ -1769,9 +1769,9 @@
     "symbol": "PLANET20",
     "color": "#dedede",
     "logo": "https://lh3.googleusercontent.com/wD-UF32QHSOnzUeUPt2z9KctXjlOpxM8Wz6vUu-9TdD_U8TB6NPpSjVX--KMbKhdGAUJrK8AeRboYrhlR8sDC9KoUo18cnSQ2_c9WA=s120",
-    "uniswap": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0x82e7c8ad181f5075af022b4b5ae5c9a903481354",
     "hide": false,      
-    "lpToken": false,
+    "lpToken": "0x82e7c8ad181f5075af022b4b5ae5c9a903481354",
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
