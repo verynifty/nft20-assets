@@ -1775,7 +1775,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "Warriors of Aradena",
+    "symbol": "WOA20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/WN1F4Fhnz3eobWlxspWzt49aa90KOP16iIKdFG4_iiOsaq_k14x0RlIDYKnlSbIxRXevkAoThVlLIsOdATFET8jdLo11h9PX8ACT5w=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0xaee21dbe9b0d2feba81c9b229ad1cb69d82be5e7",
+    "hide": false,      
+    "lpToken": "0xaee21dbe9b0d2feba81c9b229ad1cb69d82be5e7",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   } 
-  
-  
 ]
