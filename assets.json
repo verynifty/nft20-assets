@@ -1787,5 +1787,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "The BirdHouse",
+    "symbol": "BIRD20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/7FEQYbhjVDuYwFXqJbzmDeW1Y-AsNRW9gorFhSEEVY1cb8sgSqP9XMHYSVLPt4H1ejRmN4w2O4NTEycd0C2kD_xrOrh8q-9TFuL-HPc=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0xEb93474668861f0a2d04D019014e0048572883dD",
+    "hide": false,      
+    "lpToken": "0xEb93474668861f0a2d04D019014e0048572883dD",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   } 
 ]
