@@ -1799,5 +1799,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "PURRNELOPES COUNTRY CLUB",
+    "symbol": "PCC20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/5yYsbRGh47Mnml9Fxca7TLJL6jtqTEIrgkGYwxBs2Cn4zam3EsVHJCakLcJ2riWbH6xax9bbgYA_mjqcSj0X5PEY-OXAUHY98m3Jdw=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x803587d76cd6427debbcba82d60e859d9840dcde",
+    "hide": false,      
+    "lpToken": "0x803587d76cd6427debbcba82d60e859d9840dcde",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   } 
 ]
