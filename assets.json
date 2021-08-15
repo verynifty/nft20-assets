@@ -1811,5 +1811,16 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "Cheddaz",
+    "symbol": "CHEDDA20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/0g9DSXyxqPDM0lmfCpIxrJRl52F9rW1Wsf9jOeGwGVq4Z3iSjToX6PeN1DAFU0_-VAYCG1DDdCzfOmHQffqA4OUbJxkjE_PTm23t1w=s130",
+    "uniswap": false,
+    "hide": false,      
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   } 
 ]
