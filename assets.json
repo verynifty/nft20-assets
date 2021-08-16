@@ -1828,8 +1828,9 @@
     "symbol": "KONGZ VX20",
     "color": "#dedede",
     "logo": "https://lh3.googleusercontent.com/vpJFZRfBl9ghj9IinaDB3w3xScD9AHwuXxpId50Yo80bw1Tt1BOhJg5pltBN-_wJwA0aCyHbcxIbXNnQ1cKd9xlc5ATdJUL4Yy3kDQ=s120",
-    "uniswap": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0xf8f039c7a782c599879b9356cba6d9ecd3fb4d16",
     "hide": false,      
+    "lpToken": "0xf8f039c7a782c599879b9356cba6d9ecd3fb4d16",
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
