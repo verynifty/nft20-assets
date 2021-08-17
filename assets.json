@@ -1859,4 +1859,16 @@
     "uniswap_v3": false,
     "removedFees": false
   } 
+       {
+    "name": "JunkYard Dogs",
+    "symbol": "JYD",
+    "color": "#dedede",
+    "logo": "https://junkyarddogs.io/static/media/logo.6da88182.png",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x917fd1875315a121b6e6090b1ef6764658e6fdfc",
+    "hide": false,      
+    "lpToken": "0x917fd1875315a121b6e6090b1ef6764658e6fdfc",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  } 
 ]
