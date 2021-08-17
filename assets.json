@@ -1846,5 +1846,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+        {
+    "name": "SPOOKIES",
+    "symbol": "SPOOKIES20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/AZPmZ_3B4vjbbdSx2K2P4eQBCfj60ApxDjM97otHdgLeNZTPvdGvpSfOa8oKD9E_eRlz-RSiJ-83Lj9sIIKKNaTuArPq_ITFBqJ0hw=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x15a4948d1190f89e30d6b056fcb80fca120d1ebe",
+    "hide": false,      
+    "lpToken": "0x15a4948d1190f89e30d6b056fcb80fca120d1ebe",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   } 
 ]
