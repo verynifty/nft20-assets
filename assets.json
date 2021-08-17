@@ -1834,5 +1834,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+      {
+    "name": "WORLD OF WOMEN",
+    "symbol": "WOW20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/hlXF2pfdF0Lw0Vy78fNs1_E2OLSa6UOiBEv2SZPe2NG4qCrb0ARplv8r7A8o6TLrn0pGi7h4GYREDiCz4f-qlt1lCN8W9FzUFVFYeA=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0xcc6fc948739dfb9e60abc36510898ce8b8d9c17c",
+    "hide": false,      
+    "lpToken": "0xcc6fc948739dfb9e60abc36510898ce8b8d9c17c",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   } 
 ]
