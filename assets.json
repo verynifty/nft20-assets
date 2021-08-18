@@ -1870,5 +1870,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
-  } 
+  }, 
+  {
+    "name": "SaveTheMartians",
+    "symbol": "MARS20",
+    "color": "#dedede",
+    "logo": "https://www.savethemartians.com/logo.png"
+    "uniswap": false,
+    "hide": false,      
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  },
 ]
