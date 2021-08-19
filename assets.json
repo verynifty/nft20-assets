@@ -1871,7 +1871,7 @@
     "uniswap_v3": false,
     "removedFees": false
   },
-         {
+  {
     "name": "SAVE THE MARTIANS",
     "symbol": "STM20",
     "color": "#dedede",
@@ -1879,6 +1879,18 @@
     "uniswap": "https://v2.info.uniswap.org/pair/0xf1fc9b106eed373ea1c7578a7af52c1dfa9f9e17",
     "hide": false,      
     "lpToken": "0xf1fc9b106eed373ea1c7578a7af52c1dfa9f9e17",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  },
+   {
+    "name": "HappyLand Gummy Bears",
+    "symbol": "HAPPY20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/v5ZNj-pN1W0j10_OehLILENMGTntAVEcV-FNVaJ5tyU4mV_SN_Dj9nkHaFXnjm2pzHWC9y0nnHVeZUYvCSsFOTi7kSIF5W0uv2IDHYw=s130",
+    "uniswap": "https://v2.info.uniswap.org/pair/0xaad18c914ed65c0427668641f5b3d107c91b4035",
+    "hide": false,      
+    "lpToken": "0xaad18c914ed65c0427668641f5b3d107c91b4035",
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
