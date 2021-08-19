@@ -1870,5 +1870,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+         {
+    "name": "SAVE THE MARTIANS",
+    "symbol": "STM20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/22fHDesuzBYHgDPfmIUFSJ8YvzF8vkjhoLuR7K2qv6vvYr9ZkV3K-jpcZna0_CddaOY5g3cVxU7EnVGOs1b2yGSxMoN41oxGc98V8Q=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0xf1fc9b106eed373ea1c7578a7af52c1dfa9f9e17",
+    "hide": false,      
+    "lpToken": "0xf1fc9b106eed373ea1c7578a7af52c1dfa9f9e17",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   } 
 ]
