@@ -1894,5 +1894,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  } ,
+   {
+    "name": "DEADFELLAZ",
+    "symbol": "DEADFELLAZ20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/EkqTrPfrb-g2yBCZnVhrzEqcTXdpSvP-AR_wdGpD_v5cEhSnN5kah3jaWhbZLfhyjipXA-1hqsd7IA1-fytDOMCCkHfgPZKtK8cD=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x984e4Ba4C4033B2E665a505C0cA780018a16e5AA",
+    "hide": false,      
+    "lpToken": "0x984e4Ba4C4033B2E665a505C0cA780018a16e5AA",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   } 
 ]
