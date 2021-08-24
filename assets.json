@@ -1912,9 +1912,9 @@
     "symbol": "BMWU20",
     "color": "#dedede",
     "logo": "https://lh3.googleusercontent.com/OF4HNDtt7Pc7EZFLNP5HPeqdDpzCfp0eX9SfizZ8P1u4HE1nyzgOO8yaIE0D-H4vOgtXa6d5yOvFMz7STMfdh1TkyNkRojZFWtPEeg=s0",
-    "uniswap": "https://app.uniswap.org/#/add/v2/ETH/0x4071f2328e9dc39da4d12e1bb6f77c31563adeab",
+    "uniswap": false,
     "hide": false,
-    "lpToken": "",
+    "lpToken": false,
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
