@@ -1927,6 +1927,7 @@
     "uniswap": "https://v2.info.uniswap.org/pair/0x71d7246ace427457f2bc802e3e1a4a658a5a3364",
     "hide": false,
     "lpToken": "0x71d7246ace427457f2bc802e3e1a4a658a5a3364",
+    "guide": "https://medium.com/nft20-guides/how-to-use-the-space-poggers-nft20-pool-ff1b390e2d22",
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
