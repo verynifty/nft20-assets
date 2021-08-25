@@ -1918,5 +1918,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "Space Poggers",
+    "symbol": "POGGER20",
+    "color": "#FF44CC",
+    "logo": "https://lh3.googleusercontent.com/DDsN1_g7d3SCG4sWpQvMzJU2ZJeOQt2nkXTXHx2ZWIBirev1mXJDl7KlA_pvVhQtM5hzMjaegMZuybp_ylDalQDHn8lwSbra_hMmDw=s130",
+    "uniswap": false,
+    "hide": false,
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
