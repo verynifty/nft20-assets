@@ -246,6 +246,7 @@
     "metadata": null,
     "metadata_extension": false
   },
+  {
     "name": "EVERTELL FILMS",
     "symbol": "$EVFLM20",
     "logo": "https://twitter.com/EvertellS/photo",
@@ -255,5 +256,6 @@
     "website": "https://www.evertell.app/",
     "description": "EVERTELL is an VOD Streamer and Production House offering several open Film/TV NFT & NFT POOLS.",
     "metadata": "https://evertell.s3.amazonaws.com/api/filmNFT/",
-    "metadata_extension": false
+    "metadata_extension": ".json"
+  }
 ]
