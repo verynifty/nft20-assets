@@ -245,5 +245,17 @@
     "factory_version": 2,
     "metadata": null,
     "metadata_extension": false
+  },
+  {
+    "name": "EVERTELL FILMS",
+    "symbol": "$EVFLM20",
+    "logo": "https://twitter.com/EvertellS/photo",
+    "color": "#5bb7c9",
+    "uniswap": false,
+    "factory_version": 2,
+    "website": "https://www.evertell.app/",
+    "description": "EVERTELL is an VOD Streamer and Production House offering several open Film/TV NFT & NFT POOLS.",
+    "metadata": "https://evertell.s3.amazonaws.com/api/filmNFT/",
+    "metadata_extension": ".json"
   }
 ]
