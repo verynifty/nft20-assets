@@ -1956,5 +1956,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+    {
+    "name": "Goons",
+    "symbol": "GOONS20",
+    "color": "#FF44CC",
+    "logo": "https://lh3.googleusercontent.com/B3Q-ki2HbkPNoX2Y3RvEoNS9IFQTehVRq7v0w2qBcPMwygtWkhmhY7r-MmmO-c4ss4mpk9YF0Aor5yuYOViIFbDxuL7Hr4PZxn0cQA=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x84e1163959055a331fcdfd6a86994c0201858c12",
+    "hide": false,
+    "lpToken": "0x84e1163959055a331fcdfd6a86994c0201858c12",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
