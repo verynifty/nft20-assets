@@ -1967,6 +1967,7 @@
     "lpToken": "0x84e1163959055a331fcdfd6a86994c0201858c12",
     "factory_version": 2,
     "uniswap_v3": false,
+     "guide": "https://medium.com/nft20-guides/how-to-use-the-goons-nft20-pool-7fa7e062785e",
     "removedFees": false
   },
       {
