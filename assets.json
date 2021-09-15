@@ -1968,5 +1968,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+      {
+    "name": "PineapplesDayOut",
+    "symbol": "PDO20",
+    "color": "#FF44CC",
+    "logo": "https://lh3.googleusercontent.com/RnISYe5EqRbqBu5CgzOlqPLMJB5vs0OboXJsUFN-aaGPmIbtLQYe6B6oLi7XYem_51BAeG2CBW9wPBZHB8zfKdoj0Uat2KMcYV8N=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0xf606b06074241e1b95955340805cb1c74f9faa93",
+    "hide": false,
+    "lpToken": "0xf606b06074241e1b95955340805cb1c74f9faa93",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
