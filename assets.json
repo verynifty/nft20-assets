@@ -1981,5 +1981,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
-  }
+  },
+     {
+    "name": "BORED MUMMY WAKING UP",
+    "symbol": "BMWU20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/KbLqxFD_JsSdyMKtabR8Mf_qrinLu9EOkL4HWhQm5bsCdlf-Nh54wBxva7_gmEnoLNFxw6OZSAgVwDBnNoO97_im2VSSsqRkyr0gTQ=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x32db25b739276cab4a9d521de1a4c6a8b221b376",
+    "hide": false,      
+    "lpToken": "0x32db25b739276cab4a9d521de1a4c6a8b221b376",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  } 
 ]
