@@ -1908,14 +1908,14 @@
     "uniswap_v3": false,
     "removedFees": false
   } ,
-  {
-    "name": "Bored Mummy Waking Up",
+     {
+    "name": "BORED MUMMY WAKING UP",
     "symbol": "BMWU20",
     "color": "#dedede",
-    "logo": "https://lh3.googleusercontent.com/OF4HNDtt7Pc7EZFLNP5HPeqdDpzCfp0eX9SfizZ8P1u4HE1nyzgOO8yaIE0D-H4vOgtXa6d5yOvFMz7STMfdh1TkyNkRojZFWtPEeg=s0",
-    "uniswap": false,
-    "hide": false,
-    "lpToken": false,
+    "logo": "https://lh3.googleusercontent.com/KbLqxFD_JsSdyMKtabR8Mf_qrinLu9EOkL4HWhQm5bsCdlf-Nh54wBxva7_gmEnoLNFxw6OZSAgVwDBnNoO97_im2VSSsqRkyr0gTQ=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x32db25b739276cab4a9d521de1a4c6a8b221b376",
+    "hide": false,      
+    "lpToken": "0x32db25b739276cab4a9d521de1a4c6a8b221b376",
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
@@ -1989,7 +1989,7 @@
     "logo": "https://worker.snapshot.org/mirror?img=https%3A%2F%2Fcloudflare-ipfs.com%2Fipfs%2FQmY52MqMXuehMAV52ieehSmaXkFpxPn3womzXZ1TyGtLxz",
     "uniswap": "https://v2.info.uniswap.org/pair/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
     "hide": false,
-    "lpToken": "0xf606b06074241e1b95955340805cb1c74f9faa93",
+    "lpToken": "0x2339dabd4bf681196ccb676cabb12010d97c26ce",
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
