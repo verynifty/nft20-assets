@@ -1983,5 +1983,16 @@
     "uniswap_v3": false,
     "removedFees": false
   }
-
+      {
+    "name": "SKVLLPVNKZ HIDEOUT",
+    "symbol": "SKVLLZ20",
+    "color": "#FF44CC",
+    "logo": "https://worker.snapshot.org/mirror?img=https%3A%2F%2Fcloudflare-ipfs.com%2Fipfs%2FQmY52MqMXuehMAV52ieehSmaXkFpxPn3womzXZ1TyGtLxz",
+    "uniswap": "https://v2.info.uniswap.org/pair/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "hide": false,
+    "lpToken": "0x2339dabd4bf681196ccb676cabb12010d97c26ce",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  }
 ]
