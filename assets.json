@@ -1994,5 +1994,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },     
+     {
+    "name": "BORED MUMMY BABY WAKING UP",
+    "symbol": "BMBWU20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/YxXN2wBK-aYEebOhlCIvgZEUaFW63kfVbUNoGfonesBo1Tt7RqPJA2S9V4hH1X5ucnR-Sg0a7fq7fhXYNFsVxo-_st45RkgaC6aq=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x1547046d09f8bdac6757af4fd3b55113246c3d57",
+    "hide": false,    
+    "lpToken": "0x1547046d09f8bdac6757af4fd3b55113246c3d57",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
