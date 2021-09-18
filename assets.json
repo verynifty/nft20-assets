@@ -1989,9 +1989,22 @@
     "logo": "https://lh3.googleusercontent.com/YxXN2wBK-aYEebOhlCIvgZEUaFW63kfVbUNoGfonesBo1Tt7RqPJA2S9V4hH1X5ucnR-Sg0a7fq7fhXYNFsVxo-_st45RkgaC6aq=s120",
     "uniswap": "https://v2.info.uniswap.org/pair/0x32db25b739276cab4a9d521de1a4c6a8b221b376",
     "hide": false,    
+    "lpToken": "0x1547046d09f8bdac6757af4fd3b55113246c3d57",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  },
+  {
+    "name": "BORED MUMMY WAKING UP",
+    "symbol": "BMWU20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/KbLqxFD_JsSdyMKtabR8Mf_qrinLu9EOkL4HWhQm5bsCdlf-Nh54wBxva7_gmEnoLNFxw6OZSAgVwDBnNoO97_im2VSSsqRkyr0gTQ=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x32db25b739276cab4a9d521de1a4c6a8b221b376",
+    "hide": false,    
+    "guide": "https://medium.com/nft20-guides/how-to-use-the-bored-mummy-waking-up-nft20-pool-9803874e4bc0",
     "lpToken": "0x32db25b739276cab4a9d521de1a4c6a8b221b376",
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
-  }
+  },
 ]
