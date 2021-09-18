@@ -992,11 +992,13 @@
     "name": "DREAMLOOPS V1",
     "symbol": "DRMLOOPS20",
     "color": "#09e891",
-    "uniswap": "https://v2.info.uniswap.org/pair/0xcf117da39e46678f4f61295b91dd13108f26e463",
-    "lpToken": "0xcf117da39e46678f4f61295b91dd13108f26e463",
+    "uniswap": "https://info.uniswap.org/#/pools/0x131414602a0af4f9c304e524ac94b60a4d59deae",
+    "lpToken": "0x131414602a0af4f9c304e524ac94b60a4d59deae",
     "logo": "https://lh3.googleusercontent.com/Isk5pilTitfcetBkHzWQcx72iwHrU0zj7L3XkfkmkxetoeONMVWIjLF3IPpGR0CilINwqD8qBZcfM27WC38wx_I874pPldODZZqkxA",
+    "lp_fees": 10000,
     "hide": false,
     "factory_version": 2,
+    "uniswap_v3": true,
     "removedFees": false
   },
   {
