@@ -2006,5 +2006,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+    {
+    "name": "Mighty Manateez",
+    "symbol": "MM20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/Hp6aNFd7XRaGfXloVwGVQaKawg-cdbGa8XJPuhwLb-0uXKDimvN4-ur4Pdivo2eKGTUrurlvuV7EF6DJwF4slIjS1Rk9WsjVFBIrwg=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0xe5ca548ef406218b06a6ffb6b950f5b900047bdc",
+    "hide": false,
+    "lpToken": "0xe5ca548ef406218b06a6ffb6b950f5b900047bdc",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
