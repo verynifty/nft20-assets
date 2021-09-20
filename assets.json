@@ -2020,5 +2020,20 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "CanineCartel",
+    "symbol": "CARTEL20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/zUf26Ey4H7PdWLdADWpfFHoyiNGKucs2uG53B4YHwSFiMvdH_bEMkjFE5-Qk87AUcYFGQGeumxUJzHamnnhsNlV3DVe3Wmtg3abskwA=s120",
+    "uniswap": "https://analytics.sushi.com/pairs/0xfa86d83964484d93fe4c1447e8e18c1863c861a5",
+    "hide": false,
+    "lpToken": "0xfa86d83964484d93fe4c1447e8e18c1863c861a5",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
+
+
+  
 ]
