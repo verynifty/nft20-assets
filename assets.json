@@ -2032,6 +2032,18 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "CUDL WEAPON",
+    "symbol": "CWEAPON20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/jMReQlyN2BR4Jj9JtegbyFV635QRkawLeua6b1ySZDWd2l73EU3of9M3qvoIFV41tmlFaVnZy0DLwnaFlDohjG6_ZZYtVoyRpJU3xJY=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x9f198278339f14097abcb09da6a0f485df04389f",
+    "hide": false,
+    "lpToken": "0x9f198278339f14097abcb09da6a0f485df04389f",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 
 
