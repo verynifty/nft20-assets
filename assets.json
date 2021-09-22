@@ -2044,7 +2044,68 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+    {
+    "name": "MoonCatLootprint",
+    "symbol": "lprint20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/tlQgOCUYTKt_Nz_VMnPPXK1Z8fRX_urG3FsWF_U-BGkqP67NzD3VuUZSj1gsinOKykV_BgL2hKTUqv1b-3_C7lA7f1WY5zTqUV2VWw=s130",
+    "uniswap": false,
+    "hide": false,
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  },
+    {
+    "name": "Pepper Attack",
+    "symbol": "PEPPER20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/1UIvayLGM1K31cxNYJkaw_HN5aTBS4EyFnsmASUS1JDSJLcSsLNt9_F0160LAOBxRtviWKA_s8hqEVEFAmH4GGRP02D8h1urucJAhw=s130",
+    "uniswap": false,
+    "hide": false,
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  },
+    {
+    "name": "Primate Social Society",
+    "symbol": "PSS20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/7w25TheXXmN5aM2Won3BWhH1Rw2WqTnh_6sHg2pT08Czj3afoECKDHsa-pgYlYlBwMOBpUIhgFhk8MbiLmVpIIXIbg5GzoIXggEv=s130",
+    "uniswap": false,
+    "hide": false,
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  },
+    {
+    "name": "DizzyDragons",
+    "symbol": "DIZZYDRAGONS",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/UG_wxefxhDVaSsixwgFW-61aDyRtWeGnJDhiwSyq6GE_INcp8yyBatrr6HCBDjq7lBrk2Jv6-msFbfkLEkWY9s70ZX4OfcgwhyEjgA=s130",
+    "uniswap": false,
+    "hide": false,
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  },
+    {
+    "name": "Ethereans Official",
+    "symbol": "ETHS",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/bGbsLFDQIVPkuWnIinIL2cXy7xU3IiR2ouURBAJHwNKxOEOyjrzCiRoiHsgk9QHpRyo2i0VmZ4fLix8gC2_jxUO8tEmHP2OPl4txf6U=s130",
+    "uniswap": false,
+    "hide": false,
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
+  
 
 
   
