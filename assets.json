@@ -2104,9 +2104,31 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+    {
+    "name": "Ballin' PickHeads",
+    "symbol": "PICK20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/haBfJDWKj0rava5mHbJsyrwVLAt8pBVAQgXpq1UIwPiCbRxr7kSabfhR-WClMqZ4E_GG6KkICd-RtR9Ik4eUAGk1Fp5j-DVbxxYo=s130",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x03810cd49536773cb14c687081de12b91ae37d97",
+    "hide": false,
+    "lpToken": "0x03810cd49536773cb14c687081de12b91ae37d97",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  },
+    {
+    "name": "Lazy Lions",
+    "symbol": "LION20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/kFZpw-bkoyH03qFbfqkwkkhHVxT7qclK_tYFmhU1K2HegU3v2wSMmhL6TIgw7Stx1KIoKs1sdJQ4My71ktXV7GygPBjaQZCACERt=s130",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x434221162462a9dd8c111f1090680aa285da849d",
+    "hide": false,
+    "lpToken": "0x434221162462a9dd8c111f1090680aa285da849d",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
   
-
-
   
 ]
