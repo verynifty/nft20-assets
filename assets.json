@@ -2135,6 +2135,7 @@
     "color": "#dedede",
     "logo": "https://lh3.googleusercontent.com/jp3OeskDt-Jk69YDLjTTgVNMpGpmohM-h5AcCMLiVTeiRLNvpeGnW1sEhGIoWV6WxGYVKCrJQRGiHyfj4V9OLmkHpfhGGTM-kks8DA=s130",
     "uniswap": "https://v2.info.uniswap.org/pair/0x434221162462a9dd8c111f1090680aa285da849d",
+          "lpToken": "0x434221162462a9dd8c111f1090680aa285da849d",
     "hide": false,
     "factory_version": 2,
     "uniswap_v3": false,
