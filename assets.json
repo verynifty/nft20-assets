@@ -2140,6 +2140,18 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+    {
+    "name": "Goobers",
+    "symbol": "GOOB",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/bzzVVgmQHF5cBlC6L8znTlSdrcs6j70eSyTi3eIQsYLjbzLeZ-jO1lVOJVjyF8g340RKv6pOCMw4SVmSCEyxUzC04lG8KKBs4pmxDA=s130",
+    "uniswap": "https://v2.info.uniswap.org/pair/0xe0385c73d164f60af2231a32dd848ae0c0b6117d",
+    "hide": false,
+    "lpToken": "0xe0385c73d164f60af2231a32dd848ae0c0b6117d",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
   
   
