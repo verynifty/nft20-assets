@@ -2152,6 +2152,18 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+    {
+    "name": "Hall of Fame",
+    "symbol": "HoF20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/vtWFN8QfrpgpsEIrq0NSvAcrf-fY2C_oroAIMXYp9rI_ZFuekxCKVQAMkINCXqT2iNDfEfvWPOHI9aMjSXR1Fh3pgTBQyZMTY2EF0w=s130",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x555f2e419d7285da08c293812342af934d986093",
+    "hide": false,
+    "lpToken": "0x555f2e419d7285da08c293812342af934d986093",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
   
   
