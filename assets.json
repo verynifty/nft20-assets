@@ -2164,6 +2164,18 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+    {
+    "name": "SOCCER DOGE CLUB",
+    "symbol": "SDC20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/QupTFNGorBxDFw1jEsHiej9SAY-TVZcH7FDf7VIq_wq743vkgYL9-D5ocGwYEDYhe-blVBVlYgU1d9nW9hpbUEmN19-OBVyVwNtBLQ=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x3b4361c3fa5e93e72dc4c8da4cb6d49c7333042e",
+    "hide": false,
+    "lpToken": "0x3b4361c3fa5e93e72dc4c8da4cb6d49c7333042e",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
   
   
