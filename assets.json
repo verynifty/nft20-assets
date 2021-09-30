@@ -2188,5 +2188,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false 
-  }
+  },
+    {
+    "name": "Sad Girls Bar",
+    "symbol": "SGB20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/tDq_9Vqull9yDeWdotD818etAFEIJo8r893K-rEg_ZFTnBQGzzGAjk6SkMjrpADnmo7t0RKUE53j-uQnB72buAP0PgAB9tH6GIV9=s130",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x10DbeE2eAe18f4f649Ef59c0AED5F875268161Df",
+    "hide": false,
+    "lpToken": "0x10DbeE2eAe18f4f649Ef59c0AED5F875268161Df",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false 
+  },
 ]
