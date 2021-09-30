@@ -2201,4 +2201,16 @@
     "uniswap_v3": false,
     "removedFees": false 
   },
+      {
+    "name": "Elven",
+    "symbol": "ELVN20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/LT5HfVlPRVLkzperyRXrF27xOmk7_t6ZScFcXtkV5147zUFGFkBrdIAFS8S05MO2l-3nAlhxXgZBUdoxQs-Mqgb0UO_JBaiynmLEww8=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0xc445210d7c658a6a377f83da573c082520d25cc8",
+    "hide": false,
+    "lpToken": "0xc445210d7c658a6a377f83da573c082520d25cc8",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false 
+  }
 ]
