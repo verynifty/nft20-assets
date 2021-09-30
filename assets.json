@@ -2212,5 +2212,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false 
+  },
+      {
+    "name": "PURR EVIL",
+    "symbol": "PURREVIL",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/ZQgbyFanb1ZljV1IicSZyV0ZlG-zRBuf7G70BZFHaVqgxyBfAS3NrvKbYXbTWG3DYDfL-Ujbcm2hg-_AjTGI330G3TkKvsuvs3Z4=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0xbc05532b1caaf3fa6ea910750388f75ec2b49a4e",
+    "hide": false,
+    "lpToken": "0xbc05532b1caaf3fa6ea910750388f75ec2b49a4e",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false 
   }
 ]
