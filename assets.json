@@ -2182,9 +2182,9 @@
     "symbol": "HOBO20",
     "color": "#dedede",
     "logo": "https://lh3.googleusercontent.com/TuTBdca8pe5UpG0l0IxhSg65jtfbmefgKfhcFFLb8-roSRqzzfSHIJiZvT5Kevb0L1mbZ8EJZE4QnBh5bWPGa-7a3Zu6hK75wUF4EQ=s130",
-    "uniswap": "false",
+    "uniswap": false,
     "hide": false,
-    "lpToken": "false",
+    "lpToken": false,
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false 
