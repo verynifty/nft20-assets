@@ -2224,5 +2224,29 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false 
+  },
+    {
+    "name": "Top Cat Beach Club",
+    "symbol": "TCBC20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/FUFH27MFvpKbd1zb8cMTjcuAITzqKuW0Bh0ubvdd2SEoAaS476PPTAwCU3ocZ_-I-5eACKlZN4DrtYjMzzdiD5dR3RC8pEXJeaglUPA=s130",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x2560df7e51b63a63485a6b7905f5de64aa01c5af",
+    "hide": false,
+    "lpToken": "0x2560df7e51b63a63485a6b7905f5de64aa01c5af",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false 
+  },
+    {
+    "name": "PixelPrimates",
+    "symbol": "PXPR20",
+    "color": "#dedede",
+    "logo": "https://lh3.googleusercontent.com/73WPgJwqIkfgbILjDHV73Ha8L0HN4joLGnUS27epZyXogzrjQIPTqihIqMUncNKeLeJ_ZTzgWFdcl_jpzVhzRNgWFl7SzUfKktbNVg=s130",
+    "uniswap": false,
+    "hide": false,
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false 
   }
 ]
