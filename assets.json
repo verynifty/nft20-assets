@@ -2248,5 +2248,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false 
+  },
+  {
+    "name": "NiftyDegen",
+    "symbol": "DEGEN20",
+    "color": "#6127e2",
+    "logo": "https://github.com/NiftyLeague/Nifty-League-Images/blob/main/NFTL-256x256.png",
+    "uniswap": "https://v2.info.uniswap.org/pair/0xe4b895820f163b957d166f5a8ccc444e1fac4ff3",
+    "lpToken": "0xe4b895820f163b957d166f5a8ccc444e1fac4ff3",
+    "hide": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
