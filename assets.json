@@ -2253,7 +2253,7 @@
     "name": "NiftyDegen",
     "symbol": "DEGEN20",
     "color": "#6127e2",
-    "logo": "https://github.com/NiftyLeague/Nifty-League-Images/blob/main/NFTL-256x256.png",
+    "logo": "https://github.com/NiftyLeague/Nifty-League-Images/blob/main/NFTL-256x256.png?raw=true",
     "uniswap": false,
     "hide": false,
     "factory_version": 2,
