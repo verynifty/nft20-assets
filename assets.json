@@ -2256,6 +2256,7 @@
     "logo": "https://github.com/NiftyLeague/Nifty-League-Images/blob/main/NFTL-256x256.png?raw=true",
     "uniswap": "https://v2.info.uniswap.org/pair/0x7a09c21034d404707cb3c38cf9356e9693f6c52c",
     "hide": false,
+    "guide": "https://medium.com/nft20-guides/how-to-use-the-nifty-league-degens-nft20-pool-7f41ecd33932",
     "lpToken": "0x7a09c21034d404707cb3c38cf9356e9693f6c52c",
     "factory_version": 2,
     "uniswap_v3": false,
