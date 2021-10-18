@@ -2261,5 +2261,16 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+    "name": "GRILLZ GANG",
+    "symbol": "GRILLZ",
+    "color": "#6127e2",
+    "logo": "https://lh3.googleusercontent.com/s10PxQzUpRQgZVrP_Ymi1-ao4mATm3jFE1ZjngLglqbfoirsCpG8u6U-xny-bA6vDjQzkIkvN4uidb2uQy4HFBo0wIHTenbIETLrJA=s120",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x45b5cd243c7e0ead4e3282d62148d5d5e7ee3937",
+    "hide": false,
+    "lpToken": "0x45b5cd243c7e0ead4e3282d62148d5d5e7ee3937",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
