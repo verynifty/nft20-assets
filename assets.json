@@ -2279,9 +2279,9 @@
     "symbol": "FOXFAM20",
     "color": "#6127e2",
     "logo": "https://lh3.googleusercontent.com/ZdUz4EOKP8ItbaP0z8m6quH7s75ODBNtqYzZBJC8SE_CV4xHZMTArEQAIzcBIUYuK5uy-M4fmC_C9zSPZTpSrGh8Ypij7NiQXiYDGA=s130",
-    "uniswap": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0x0df445f55fc81c523564c0ecdd999ff1e4bda136",
     "hide": false,
-    "lpToken": false,
+    "lpToken": "0x0df445f55fc81c523564c0ecdd999ff1e4bda136",
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
