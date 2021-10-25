@@ -2137,6 +2137,7 @@
     "uniswap": "https://v2.info.uniswap.org/pair/0xca29a6d2933399d0d4c831798c3fc5d1f0936c4b",
     "lpToken": "0xca29a6d2933399d0d4c831798c3fc5d1f0936c4b",
     "hide": false,
+    "guide": "https://medium.com/nft20-guides/how-to-use-the-lostboy-nft20-pool-d143543d53dc",
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
