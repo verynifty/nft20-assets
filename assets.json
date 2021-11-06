@@ -2307,6 +2307,7 @@
     "logo": "https://lh3.googleusercontent.com/5PO4I0APxP3xVDiOlSWewhb7iVf5Hnp5trQ22EVCAiKkSAnBTu0u1W6UgELpQtxr0LQz4rfNaScadZ4279naNCd6rXzewLIRrfEa=s130",
     "uniswap": "https://v2.info.uniswap.org/pair/0xf88188a461ecd5e692245d1275c7e4316cdd88e3",
     "hide": false,
+    "guide": "https://medium.com/nft20-guides/how-to-use-the-robotos-nft20-pool-c81ef2e3daa9",
     "lpToken": "0xf88188a461ecd5e692245d1275c7e4316cdd88e3",
     "factory_version": 2,
     "uniswap_v3": false,
