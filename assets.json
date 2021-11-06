@@ -2299,5 +2299,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+   {
+    "name": "Robotos",
+    "symbol": "ROBO20",
+    "color": "#6127e2",
+    "logo": "https://lh3.googleusercontent.com/5PO4I0APxP3xVDiOlSWewhb7iVf5Hnp5trQ22EVCAiKkSAnBTu0u1W6UgELpQtxr0LQz4rfNaScadZ4279naNCd6rXzewLIRrfEa=s130",
+    "uniswap": "https://v2.info.uniswap.org/pair/0xf88188a461ecd5e692245d1275c7e4316cdd88e3",
+    "hide": false,
+    "lpToken": "0xf88188a461ecd5e692245d1275c7e4316cdd88e3",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
