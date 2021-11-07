@@ -2312,5 +2312,18 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "Whatty Club",
+    "symbol": "WHATTY20",
+    "color": "#6127e2",
+    "logo": "https://lh3.googleusercontent.com/diq_UMLUk_Ua75tGaODONv_MKFIkMad5WuS-bnv7JlmLdixIlpvapoiOzocwYqQtwEmkbTPJwcx35lDbpz2WmrjpYA7Ppj-CxbQAWg=s130",
+    "uniswap": false,
+    "hide": false,
+    "guide": false,
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
