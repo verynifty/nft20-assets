@@ -2325,5 +2325,18 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "Wild Horses",
+    "symbol": "WH",
+    "color": "#6127e2",
+    "logo": "https://lh3.googleusercontent.com/174vUPGhJXJZHPLDI4O4rBJWEzmq8JmKYAlyff0gPTpcxXLHRn1Oolapx-QghcHgkZqafr70IbeRDBq0uxfw83tYeQ4ktfDYup6V=s0",
+    "uniswap": false,
+    "hide": false,
+    "guide": false,
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
