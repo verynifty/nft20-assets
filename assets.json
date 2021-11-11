@@ -2318,10 +2318,10 @@
     "symbol": "WHATTY20",
     "color": "#6127e2",
     "logo": "https://lh3.googleusercontent.com/diq_UMLUk_Ua75tGaODONv_MKFIkMad5WuS-bnv7JlmLdixIlpvapoiOzocwYqQtwEmkbTPJwcx35lDbpz2WmrjpYA7Ppj-CxbQAWg=s130",
-    "uniswap": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0x4a175bd1738c814bc5d7904ffbbc65b7078490d3",
     "hide": false,
     "guide": false,
-    "lpToken": false,
+    "lpToken": "0x4a175bd1738c814bc5d7904ffbbc65b7078490d3",
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
