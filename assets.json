@@ -2320,7 +2320,7 @@
     "logo": "https://lh3.googleusercontent.com/diq_UMLUk_Ua75tGaODONv_MKFIkMad5WuS-bnv7JlmLdixIlpvapoiOzocwYqQtwEmkbTPJwcx35lDbpz2WmrjpYA7Ppj-CxbQAWg=s130",
     "uniswap": "https://v2.info.uniswap.org/pair/0x4a175bd1738c814bc5d7904ffbbc65b7078490d3",
     "hide": false,
-    "guide": false,
+    "guide": "https://medium.com/nft20-guides/how-to-use-the-whatty-club-nft20-pool-ee18cf2bcea9",
     "lpToken": "0x4a175bd1738c814bc5d7904ffbbc65b7078490d3",
     "factory_version": 2,
     "uniswap_v3": false,
