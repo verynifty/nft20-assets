@@ -2338,5 +2338,18 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "FoodmaskuDelectables",
+    "symbol": "FOOD20",
+    "color": "#6127e2",
+    "logo": "https://lh3.googleusercontent.com/A6OntijlQFb4jrFZ4AxR9F3TaXqYyxR4dnvQNk45xVEY59d0FUZdlV5kdnNDwiU53mL4NHJZYeXFKzvyD_KpIKL65rz6uxi_AGMusZY=s130",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x5692b90ca9d5c5ca685a4c45c6080d742cf830c4",
+    "hide": false,
+    "guide": false,
+    "lpToken": "0x5692b90ca9d5c5ca685a4c45c6080d742cf830c4",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
