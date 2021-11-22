@@ -2293,9 +2293,9 @@
     "symbol": "WOODIE20",
     "color": "#6127e2",
     "logo": "https://storage.opensea.io/files/26800018286d6911a3795d83fb07ac4f.svg",
-    "uniswap": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0x0557af8e3f114fcada7325907bcd0f684e3f9005",
     "hide": false,
-    "lpToken": false,
+    "lpToken": "0x0557af8e3f114fcada7325907bcd0f684e3f9005",
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
