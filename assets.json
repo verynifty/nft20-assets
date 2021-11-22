@@ -2295,6 +2295,7 @@
     "logo": "https://storage.opensea.io/files/26800018286d6911a3795d83fb07ac4f.svg",
     "uniswap": "https://v2.info.uniswap.org/pair/0x0557af8e3f114fcada7325907bcd0f684e3f9005",
     "hide": false,
+    "guide": "https://medium.com/nft20-guides/how-to-use-the-woodies-nft20-pool-33f9e73e87ff",
     "lpToken": "0x0557af8e3f114fcada7325907bcd0f684e3f9005",
     "factory_version": 2,
     "uniswap_v3": false,
