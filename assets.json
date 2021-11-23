@@ -2358,10 +2358,10 @@
     "symbol": "MISS20",
     "color": "#6127e2",
     "logo": "https://lh3.googleusercontent.com/0yznm7rZ0PHnCQW6kf3-nuY8K3JyrMyquoJ3v4V8pgos6Ko-1dTsxLw0fKwbihIXAuNauSfcV75ww8Uvv9OSO6eS5slFF-4Z5eyIMw=s130",
-    "uniswap": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0xbfb5335d5d8102a274eb838462786139d45419d7",
     "hide": false,
     "guide": false,
-    "lpToken": false,
+    "lpToken": "0xbfb5335d5d8102a274eb838462786139d45419d7",
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
