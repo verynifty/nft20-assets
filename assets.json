@@ -2365,5 +2365,18 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "Pixel Foxes",
+    "symbol": "PIXELFOXES20",
+    "color": "#6127e2",
+    "logo": "https://lh3.googleusercontent.com/Yx2biw0I3t87Otn1DxVUxiSXsbySGu4sBhYcpsSWnsEw32HH2ngHHDQpj5HZWOnHjO6iYAzZgJ4LBclDDwVi-6k1Ha1CT2F7qaeh=s130",
+    "uniswap": false,
+    "hide": false,
+    "guide": "https://medium.com/nft20-guides/how-to-use-the-pixel-foxes-nft20-pool-c54c739d485e",
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
