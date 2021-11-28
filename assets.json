@@ -2378,5 +2378,18 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "Society of Derivative Apes",
+    "symbol": "SODA20",
+    "color": "#6127e2",
+    "logo": "https://lh3.googleusercontent.com/kyqnGHCyoJbSIMvt2NG3kUvtxCXxq7134e1dLxMIJsQIYxF_1kpr4k8M9z56nuXV_l6Lj-WW2B294GZoL7UgiO-hB3npp4CuoTSp=s130",
+    "uniswap": false,
+    "hide": false,
+    "guide": false,
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
