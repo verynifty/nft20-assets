@@ -2384,10 +2384,10 @@
     "symbol": "SODA20",
     "color": "#6127e2",
     "logo": "https://lh3.googleusercontent.com/kyqnGHCyoJbSIMvt2NG3kUvtxCXxq7134e1dLxMIJsQIYxF_1kpr4k8M9z56nuXV_l6Lj-WW2B294GZoL7UgiO-hB3npp4CuoTSp=s130",
-    "uniswap": false,
+    "uniswap": "https://v2.info.uniswap.org/pair/0x13a73cd487c8baff21fef83d5bb5c9c92f4a1e41",
     "hide": false,
     "guide": false,
-    "lpToken": false,
+    "lpToken": "0x13a73cd487c8baff21fef83d5bb5c9c92f4a1e41",
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
