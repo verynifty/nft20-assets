@@ -2404,5 +2404,18 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "The NFT League",
+    "symbol": "TNL",
+    "color": "#6127e2",
+    "logo": "https://lh3.googleusercontent.com/GI38km8QjTPHqTFA5xvpgHEqshsBM1lLc0pw3K2DkK2ih3X2MXJ4SJCM7voR5GcuYs6mxJWkEUy8VCjVrAX_JpEwqSAJB0X3VHSVAA=s130",
+    "uniswap": false,
+    "hide": false,
+    "guide": false,
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
