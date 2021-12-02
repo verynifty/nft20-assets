@@ -2391,5 +2391,31 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+  {
+    "name": "Guppy Gang",
+    "symbol": "GUPPY20",
+    "color": "#6127e2",
+    "logo": "https://lh3.googleusercontent.com/irfOZUZ6IiJH1vIL9-XO9A3G4EP78BRaFyFpB_WJslSS30xA6lSOY1Emd11GEXYQ-RsS1l8W665403IVvxJ06zd0U87ynNHkB6v-Fac=s130",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x09de1a6e2f69d6f6443982e77283587a0f347340",
+    "hide": false,
+    "guide": false,
+    "lpToken": "0x09de1a6e2f69d6f6443982e77283587a0f347340",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  },
+  {
+    "name": "The NFT League",
+    "symbol": "TNL",
+    "color": "#6127e2",
+    "logo": "https://lh3.googleusercontent.com/tNqCFPm5TRUx7wA1UEO84VFm0I9eM63oZuwQ5WwN_TttbBE8ErKKApxCnQ2qeBxJ_3UIl5w7YNlyPdAVLipzr3Iy2HtiGK1Nyq2a=s130",
+    "uniswap": false,
+    "hide": false,
+    "guide": false,
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
