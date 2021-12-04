@@ -2417,5 +2417,17 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+   {
+    "name": "Three Dragons",
+    "symbol": "Dragons20",
+    "logo": "https://gateway.pinata.cloud/ipfs/QmbXKwjwiDRqSnXmbJLobaBMsYb83nFfV51vWTug86tL4N",
+    "color": "#6127e2",
+    "uniswap": false,
+    "hide": false,      
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
