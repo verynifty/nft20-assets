@@ -2412,7 +2412,7 @@
     "logo": "https://lh3.googleusercontent.com/tNqCFPm5TRUx7wA1UEO84VFm0I9eM63oZuwQ5WwN_TttbBE8ErKKApxCnQ2qeBxJ_3UIl5w7YNlyPdAVLipzr3Iy2HtiGK1Nyq2a=s130",
     "uniswap": "https://v2.info.uniswap.org/pair/0x07a3098f8881f08d2e102e82eb4d11494ebe01c0",
     "hide": false,
-    "guide": false,
+    "guide": "https://medium.com/nft20-guides/how-to-use-the-the-nft-league-nft20-pool-2cf9735d5813",
     "lpToken": "0x07a3098f8881f08d2e102e82eb4d11494ebe01c0",
     "factory_version": 2,
     "uniswap_v3": false,
