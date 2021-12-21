@@ -2429,5 +2429,18 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+   {
+    "name": "SatoshiFaces",
+    "symbol": "FACES20",
+    "color": "#6127e2",
+    "logo": "https://lh3.googleusercontent.com/sdmctPXlm9k8rbNKDeK1dVQ5QuK_G6PKbyh1UWsraLYzPvl2-jE3oXHPH-KNEN9mfQsy_hDWdWw1vCX9lHP7BZcuGW9-d37pwltU98o=s130",
+    "uniswap": "https://v2.info.uniswap.org/pair/0x130ff366819574cf9d65ca90276d7985962802ca",
+    "hide": false,
+    "guide": false,
+    "lpToken": "0x130ff366819574cf9d65ca90276d7985962802ca",
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
