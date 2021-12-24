@@ -2442,5 +2442,18 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+     {
+    "name": "Skullx",
+    "symbol": "SKULLX20",
+    "color": "#6127e2",
+    "logo": "https://cdn.discordapp.com/attachments/775438447123890196/923773434297712640/0746E86C-4EB2-4DCA-B2C9-B46DBA6FEE0F.gif",
+    "uniswap": false,
+    "hide": false,
+    "guide": false,
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
