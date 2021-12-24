@@ -2450,7 +2450,7 @@
     "logo": "https://cdn.discordapp.com/attachments/775438447123890196/923773434297712640/0746E86C-4EB2-4DCA-B2C9-B46DBA6FEE0F.gif",
     "uniswap": "https://v2.info.uniswap.org/pair/0x357ebf5862f47ea24e32e2b9c77210a26112419a",
     "hide": false,
-    "guide": false,
+    "guide": "https://medium.com/nft20-guides/how-to-use-the-skullx-nft20-pool-a42e3b1edf46",
     "lpToken": "0x357ebf5862f47ea24e32e2b9c77210a26112419a",
     "factory_version": 2,
     "uniswap_v3": false,
