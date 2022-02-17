@@ -2468,5 +2468,18 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },
+    {
+    "name": "NiftyNafty",
+    "symbol": "NN",
+    "logo": "https://lh3.googleusercontent.com/ltcx7WIB2SJjLpiI-aWuZBJKlIJQUaxyOP-7Xw8vtlAm9gPdA5tJnPNejERVxhjmdTFTqCQBIxW-PUR-UBoSQvDMSTkezxm5Lx9FWQ=s130",
+    "color": "#800080",
+    "uniswap": "https://info.uniswap.org/#/pools/0xa8e27385fbd4d518d4476a43030de13e2754bf34",
+    "lpToken": "0xa8e27385fbd4d518d4476a43030de13e2754bf34",
+    "hide": false,
+    "factory_version": 2,
+    "uniswap_v3": true,
+    "lp_fees": 3000,
+    "removedFees": false
   }
 ]
