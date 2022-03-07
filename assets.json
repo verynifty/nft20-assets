@@ -2481,5 +2481,18 @@
     "factory_version": 2,
     "uniswap_v3": true,
     "removedFees": false
+  },
+  {
+    "name": "Seabums",
+    "symbol": "SBUM20",
+    "color": "#6127e2",
+    "logo": "https://lh3.googleusercontent.com/VLz3YYM17X0o5-3M3ws5QDjc8y-mnBSxD_kYCTWMR-pGPLNVezQuV2pD1OgXcuuvYg3YL3F3F48T1gv4a6dvJkCVtlNN9rzdchQ1=s130",
+    "uniswap": false,
+    "hide": false,
+    "guide": false,
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
