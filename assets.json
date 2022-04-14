@@ -2495,4 +2495,17 @@
     "uniswap_v3": false,
     "removedFees": false
   }
+   {
+    "name": "The Diamond Heart APE Foundation",
+    "symbol": "DMDHRT20",
+    "color": "#6127e2",
+    "logo": "https://lh3.googleusercontent.com/30Hakobs1GUjamTRxJpyXg5BPj3VGi8On9YuTEHwHVVcE7gBcYzMMmI7LewjTknBgsIi3Fh_wSlZi192WpJhA88-9HzCDqZwvA6sc_g=s130",
+    "uniswap": false,
+    "hide": false,
+    "guide": false,
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
+  }
 ]
