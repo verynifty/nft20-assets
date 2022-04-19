@@ -2507,5 +2507,16 @@
     "factory_version": 2,
     "uniswap_v3": false,
     "removedFees": false
+  },     
+  {
+    "name": "CryptoTrunks",
+    "symbol": "TRUNK20_2",
+    "logo": "https://lh3.googleusercontent.com/oZ3rNvsIZGyj_BInkVOQotVWjoToROEwBEOAKOiElByQcV_zHqYUE61Nds2g_s1rg0vEjSV_ADix8jForAya5zZPtWnamJNcdBWWcA=s130",
+    "color": "#4b7e4d",
+    "uniswap": "https://v2.info.uniswap.org/pair/0xede7a50c7d52f906d28d8ff319e99d762d20779d",
+    "lpToken": "0xede7a50c7d52f906d28d8ff319e99d762d20779d",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
