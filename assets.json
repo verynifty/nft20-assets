@@ -2499,13 +2499,13 @@
     "name": "The Diamond Heart APE Foundation",
     "symbol": "DMDHRT20",
     "color": "#6127e2",
-    "logo": "https://lh3.googleusercontent.com/30Hakobs1GUjamTRxJpyXg5BPj3VGi8On9YuTEHwHVVcE7gBcYzMMmI7LewjTknBgsIi3Fh_wSlZi192WpJhA88-9HzCDqZwvA6sc_g=s130",
-    "uniswap": false,
+    "logo": "https://pbs.twimg.com/profile_images/1522068616249626624/ypG89cb6_400x400.jpg",
+    "uniswap": "https://info.uniswap.org/#/pools/0xc8dc92dc7c20380bb2ed7ad06ce578e4d39dfa75",
     "hide": false,
     "guide": false,
-    "lpToken": false,
+    "lpToken": 0xc8dc92dc7c20380bb2ed7ad06ce578e4d39dfa75,
     "factory_version": 2,
-    "uniswap_v3": false,
+    "uniswap_v3": "https://app.uniswap.org/#/pool/231501?chain=mainnet",
     "removedFees": false
   },     
   {
