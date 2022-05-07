@@ -2503,7 +2503,7 @@
     "uniswap": "https://info.uniswap.org/#/pools/0xc8dc92dc7c20380bb2ed7ad06ce578e4d39dfa75",
     "hide": false,
     "guide": false,
-    "lpToken": 0xc8dc92dc7c20380bb2ed7ad06ce578e4d39dfa75,
+    "lpToken": "0xc8dc92dc7c20380bb2ed7ad06ce578e4d39dfa75",
     "factory_version": 2,
     "uniswap_v3": "https://app.uniswap.org/#/pool/231501?chain=mainnet",
     "removedFees": false
