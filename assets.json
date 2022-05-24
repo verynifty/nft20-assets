@@ -2518,5 +2518,17 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+  {
+    "name": "Diamond Heart DAO",
+    "symbol": "DHDAO",
+    "logo": "https://lh3.googleusercontent.com/V5nAedhZHdRGvuCjNflmw7baO2pI5j-lZzjJBP_gASkBtzjLHxEDa_BXqx1T20EIGrSZYPrIinZhzZP1g3NtFZgWE9UCf1LqGGQqQw=s130",
+    "color": "#8860a7",
+    "lpToken": false,
+    "uniswap": false,
+    "hide": false,
+    "factory_version": 2,
+    "guide": false,
+    "removedFees": false
   }
 ]
