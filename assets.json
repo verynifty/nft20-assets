@@ -2530,5 +2530,18 @@
     "factory_version": 2,
     "guide": false,
     "removedFees": false
+  },
+  {
+    "name": "Pillheads",
+    "symbol": "PILLHEADS",
+    "color": "#6127e2",
+    "logo": "https://openseauserdata.com/files/40ac42a3fcd971c65d471cadc480aca9.gif",
+    "uniswap": false,
+    "hide": false,
+    "guide": false,
+    "lpToken": false,
+    "factory_version": 2,
+    "uniswap_v3": false,
+    "removedFees": false
   }
 ]
