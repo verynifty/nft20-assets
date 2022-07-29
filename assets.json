@@ -2538,7 +2538,7 @@
     "logo": "https://openseauserdata.com/files/40ac42a3fcd971c65d471cadc480aca9.gif",
     "uniswap": "https://v2.info.uniswap.org/pair/0xf121143ee4f19f3073ab2116ba9ab956766ee396",
     "hide": false,
-    "guide": false,
+    "guide": "https://medium.com/nft20-guides/how-to-use-the-pillheads-nft20-pool-7a8edaff19a4",
     "lpToken": "0xf121143ee4f19f3073ab2116ba9ab956766ee396",
     "factory_version": 2,
     "uniswap_v3": false,
