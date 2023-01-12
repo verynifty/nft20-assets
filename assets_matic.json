@@ -258,4 +258,16 @@
     "metadata": "https://evertell.s3.amazonaws.com/api/filmNFT/",
     "metadata_extension": ".json"
   }
+{
+    "name": "Snickradoodle by Ark945",
+    "symbol": "$SKDA20",
+    "logo": "https://cdn.solo.to/user/a/63a9187f28b250_53503999.gif",
+    "color": "#5bb7c9",
+    "uniswap": false,
+    "factory_version": 2,
+    "website": "https://solo.to/ark945",
+    "description": "Loading...",
+    "metadata": "null,
+    "metadata_extension": ".json"
+  }
 ]
